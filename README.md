@@ -4,13 +4,22 @@
 
 ## Quick Start
 Run the following lines into your system's command prompt:
+1. Clone the Repository:
 ```bash
-1. git clone https://github.com/cayceee/Historical_Ship_Routes.git
-2. pip install uv #if you do not already have uv
-3. uv sync
-4. uv run main.py
+git clone https://github.com/cayceee/Historical_Ship_Routes.git
 ```
-
+2. Install uv if not already installed:
+```bash
+pip install uv
+```
+3. Sync uv:
+```bash
+uv sync
+```
+4. Run main.py:
+```bash
+uv run main.py
+```
 ## Description
 - project detail 1
 - project detail 2
