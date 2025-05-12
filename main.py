@@ -3,8 +3,10 @@ import dash
 from dash import dcc, html, Input, Output
 import plotly.graph_objects as go
 from Port_Waypoints import port_waypoints
+import os
 
-shipData = pd.read_csv(r"Historical_Ship_Routes\New_England_Data.csv")
+file_path = os.path.join("Historical_Ship_Routes", "New_England_Data.csv")
+shipData = pd.read_csv(file_path)
 
 def get_routed_path(ship_row):
     origin_name = ship_row['Origin']
