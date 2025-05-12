@@ -3,12 +3,12 @@
 </div>
 
 ## Quick Start
-Clone the repository
+Run the following lines into your system's command prompt:
 ```bash
-1. git clone 
-pip install uv #if you do not already have uv
-uv sync
-uv run main.py
+1. git clone https://github.com/cayceee/Historical_Ship_Routes.git
+2. pip install uv #if you do not already have uv
+3. uv sync
+4. uv run main.py
 ```
 
 ## Description
