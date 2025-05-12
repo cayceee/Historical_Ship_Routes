@@ -3,51 +3,56 @@ import dash
 from dash import dcc, html, Input, Output
 import plotly.graph_objects as go
 from  src.Port_Waypoints import port_waypoints
+from typing import Tuple, List
 
-shipData = pd.read_csv(r"England_New_Data.csv")
+ship_data = pd.read_csv(r"England_New_Data.csv")
+LONGITUDE_CUTOFF: float = -30.0
 
-def get_routed_path(ship_row):
-    origin_name = ship_row['Origin']
-    dest_name = ship_row['Declared Destination']
+def get_routed_path(ship_row: pd.Series) -> Tuple[List[float], List[float]]:
+    origin_name: str = ship_row['Origin']
+    destination_name: str = ship_row['Declared Destination']
 
-    origin = (ship_row['Origin Lat'], ship_row['Origin Lon'])
-    dest = (ship_row['Dest Lat'], ship_row['Dest Lon'])
+    origin: Tuple[float, float] = (ship_row['Origin Lat'], ship_row['Origin Lon'])
+    destination: Tuple[float, float] = (ship_row['Dest Lat'], ship_row['Dest Lon'])
 
-    route = [origin]
+    route: List[Tuple[float, float]] = [origin]
 
-    # Longitude threshold for Europe vs. America
-    longitude_cutoff = -30  # Example cutoff for the Atlantic Ocean
-
-    # Add origin waypoints if available
     if origin_name in port_waypoints:
         route.extend(port_waypoints[origin_name])
 
-    # If the ship is traveling from Europe to America, add the Canary Islands and Caribbean waypoints in between
-    if origin[1] > longitude_cutoff and dest[1] < longitude_cutoff:
+    if origin[1] > LONGITUDE_CUTOFF and destination[1] < LONGITUDE_CUTOFF:
         route.extend([port_waypoints['Canary Islands'][0], port_waypoints['Caribbean'][0]])
 
-    # Add destination waypoints if available
-    if dest_name in port_waypoints:
-        route.extend(reversed(port_waypoints[dest_name]))
+    if destination_name in port_waypoints:
+        route.extend(reversed(port_waypoints[destination_name]))
 
-    route.append(dest)
+    route.append(destination)
     return list(zip(*route))  # Returns (lats, lons)
+
 
 # Dash app layout
 app = dash.Dash(__name__)
 
 app.layout = html.Div([
-    html.Img(src='/assets/ship_logo.png', style={'display': 'block', 'margin': '0 auto', 'height': '300px', 'marginBottom': '5px'}),
-    
+    html.Img(
+        src='/assets/ship_logo.png',
+        style={
+            'display': 'block',
+            'margin': '0 auto',
+            'height': '300px',
+            'marginBottom': '5px'
+        }
+    ),
+
     html.Label("Select Ship:", style={'marginTop': 5, 'marginBottom': 2}),
-    
+
     dcc.Dropdown(
         id='ship-dropdown',
-        options=[{'label': name, 'value': name} for name in shipData['Ship Name'].unique()],
-        value=shipData['Ship Name'].iloc[0],
+        options=[{'label': name, 'value': name} for name in ship_data['Ship Name'].unique()],
+        value=ship_data['Ship Name'].iloc[0],
         style={'marginBottom': 5}
     ),
-    
+
     dcc.Graph(
         id='route-map',
         style={'backgroundColor': '#6495ED', 'marginTop': 5, 'marginBottom': 5},
@@ -56,7 +61,7 @@ app.layout = html.Div([
             'staticPlot': True,
         }
     ),
-    
+
     html.Div(
         id='ship-info',
         style={
@@ -64,28 +69,28 @@ app.layout = html.Div([
             'padding': 6,
             'border': '1px solid #ccc',
             'borderRadius': 4,
-            'backgroundColor': '#f9f9f9'  
+            'backgroundColor': '#f9f9f9'
         }
     )
 ],
-style={'backgroundColor': '	#6495ED', 'padding': '10px'}
+    style={'backgroundColor': '#6495ED', 'padding': '10px'}
 )
-
 
 
 @app.callback(
     Output('route-map', 'figure'),
     Input('ship-dropdown', 'value')
 )
-def update_map(ship_name):
-    ship_row = shipData[shipData['Ship Name'] == ship_name].iloc[0]
-    origin_lat, origin_lon = ship_row['Origin Lat'], ship_row['Origin Lon']
-    dest_lat, dest_lon = ship_row['Dest Lat'], ship_row['Dest Lon']
+def update_map(ship_name: str) -> go.Figure:
+    ship_row: pd.Series = ship_data[ship_data['Ship Name'] == ship_name].iloc[0]
+    origin_lat: float = ship_row['Origin Lat']
+    origin_lon: float = ship_row['Origin Lon']
+    dest_lat: float = ship_row['Dest Lat']
+    dest_lon: float = ship_row['Dest Lon']
 
     if pd.isna(origin_lat) or pd.isna(origin_lon) or pd.isna(dest_lat) or pd.isna(dest_lon):
-        return {
-            'data': [],
-            'layout': go.Layout(
+        return go.Figure(
+            layout=go.Layout(
                 title=f"Error: Invalid Coordinates for {ship_name}",
                 geo=dict(
                     projection_type='natural earth',
@@ -96,7 +101,7 @@ def update_map(ship_name):
                 height=1200,
                 width=1500
             )
-        }
+        )
 
     lats, lons = get_routed_path(ship_row)
 
@@ -137,18 +142,20 @@ def update_map(ship_name):
 
     return fig
 
+
 @app.callback(
     Output('ship-info', 'children'),
     Input('ship-dropdown', 'value')
 )
-def display_ship_info(ship_name):
-    ship_row = shipData[shipData['Ship Name'] == ship_name].iloc[0]
+def display_ship_info(ship_name: str) -> html.Div:
+    ship_row: pd.Series = ship_data[ship_data['Ship Name'] == ship_name].iloc[0]
     return html.Div([
         html.H4(f"{ship_name} Information"),
         html.P(f"Year: {ship_row['Year']}"),
         html.P(f"Captain: {ship_row['Captain']}"),
         html.P(f"Cargo: {ship_row['Cargo']}")
     ])
+
 
 if __name__ == '__main__':
     app.run(debug=True)
