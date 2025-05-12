@@ -3,10 +3,10 @@
 </div>
 
 ## Quick Start
-
-1. Clone the repository
-2. Install UV
+Clone the repository
 ```bash
+1. git clone 
+pip install uv #if you do not already have uv
 uv sync
 uv run main.py
 ```
