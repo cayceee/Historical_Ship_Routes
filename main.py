@@ -2,9 +2,36 @@ import pandas as pd
 import dash
 from dash import dcc, html, Input, Output
 import plotly.graph_objects as go
-from src.Functions import get_routed_path
+from  src.Port_Waypoints import port_waypoints
 
 shipData = pd.read_csv(r"England_New_Data.csv")
+
+def get_routed_path(ship_row):
+    origin_name = ship_row['Origin']
+    dest_name = ship_row['Declared Destination']
+
+    origin = (ship_row['Origin Lat'], ship_row['Origin Lon'])
+    dest = (ship_row['Dest Lat'], ship_row['Dest Lon'])
+
+    route = [origin]
+
+    # Longitude threshold for Europe vs. America
+    longitude_cutoff = -30  # Example cutoff for the Atlantic Ocean
+
+    # Add origin waypoints if available
+    if origin_name in port_waypoints:
+        route.extend(port_waypoints[origin_name])
+
+    # If the ship is traveling from Europe to America, add the Canary Islands and Caribbean waypoints in between
+    if origin[1] > longitude_cutoff and dest[1] < longitude_cutoff:
+        route.extend([port_waypoints['Canary Islands'][0], port_waypoints['Caribbean'][0]])
+
+    # Add destination waypoints if available
+    if dest_name in port_waypoints:
+        route.extend(reversed(port_waypoints[dest_name]))
+
+    route.append(dest)
+    return list(zip(*route))  # Returns (lats, lons)
 
 # Dash app layout
 app = dash.Dash(__name__)
