@@ -2,7 +2,7 @@ import pandas as pd
 import dash
 from dash import dcc, html, Input, Output
 import plotly.graph_objects as go
-from Port_Waypoints import port_waypoints
+from  src.Port_Waypoints import port_waypoints
 
 shipData = pd.read_csv(r"England_New_Data.csv")
 
