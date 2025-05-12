@@ -29,6 +29,7 @@ python -m uv sync
 ```bash
 python -m uv run main.py
 ```
+6. ctrl click on the link produced
 ## Description
 <div align = "center">
 <img src="assets/DashUI.png" width = "500"/>
