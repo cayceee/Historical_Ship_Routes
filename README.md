@@ -1,4 +1,6 @@
-# Ship Routes Project
+<div align = "center">
+<img src="assets/ship_logo.png" width = "500"/>
+</div>
 
 ## Quick Start
 
