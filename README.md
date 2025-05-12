@@ -30,5 +30,9 @@ python -m uv sync
 python -m uv run main.py
 ```
 ## Description
+<div align = "center">
+<img src="assets/DashUI.png" width = "500"/>
+</div>
+
 - project detail 1
 - project detail 2
