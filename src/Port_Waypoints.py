@@ -70,7 +70,6 @@ port_waypoints = {
 }
 
 port_waypoints.update({
-    #'Martinico': [(15.0, -60.5)],  # Caribbean approach
     'Demerara': [(6.8, -58.2)],  # Near modern Georgetown, Guyana
     'Philadelphia': [(39.5, -74.5)],
     'Alexandria': [(32.0, 24.0), (36.0, -5.5)],  # Around Africa
@@ -101,14 +100,13 @@ port_waypoints.update({
     'Rotterdam': [(52.0, 4.5), (51.0, -2.0)],
     'Halifax': [(44.6, -63.6)],
     'Guadaloupe': [(16.2, -61.5)],
-    'New Orleans': [(29.0, -89.5)],
+    'New Orleans': [(29.0, -89.5), (24.225242, -80.538740)],
     'Windsor': [(44.9, -63.0)],
     'Plymouth': [(50.4, -4.1), (51.0, -2.0)],
     'Yarmouth': [(43.8, -66.1)],
     'Trinidad': [(10.6, -61.5)],
     'New Haven': [(41.2, -72.5)],
     'New London': [(41.3, -72.0)],
-    #'Gloucester': [(42.6, -70.6)],
     'Newbern': [(35.1, -77.0)],
     'Martinique': [(14.6, -61.1)],
 })
