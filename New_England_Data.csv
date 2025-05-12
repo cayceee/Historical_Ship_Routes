@@ -1,0 +1,2035 @@
+Ship Name,Origin,Declared Destination,Year,Captain,Cargo,Origin Lat,Origin Lon,Dest Lat,Dest Lon
+Dispatch,Savannah,Boston,1803,Adams,Georgia upland cotton,32.0790074,-81.0921335,42.3554334,-71.060511
+Rufus,Savannah,Liverpool,1802,Holland,,32.0790074,-81.0921335,53.4071991,-2.99168
+Hannah,Boston,St. Croix,1803,Twycross,,42.3554334,-71.060511,17.729124,-64.7589156
+Polly,Cape Francoise,New York,1802,"Kennard, of Portsmouth",coffee; lumber,19.7595236,-72.2008068,40.7127281,-74.0060152
+Polly,Martinico,Boston,1803,,24 hhds. high proof rum,46.1244198,9.2770489,42.3554334,-71.060511
+Tarantula,Demerara,Boston,1803,Taylor,sugar; 32 puncheons excellent rum,5.6294891,-58.3937764,42.3554334,-71.060511
+Good Intent,Philadelphia,Boston,1803,"Rateliss, of Portland",a few hhds. First quality loaf and lump sugar; a few kegs fresh and new buck wheat meal,39.9527237,-75.1635262,42.3554334,-71.060511
+Hazard,Alexandria,Boston,1803,Luce,600 bbls. Alexandria superfine & fine flour; 60 half bbls. Alexandria superfine flour,31.1991806,29.8951716,42.3554334,-71.060511
+Polly,Boston,Martinique,1803,Appleton,,42.3554334,-71.060511,14.6113732,-60.9620777
+Hope,Boston,Jamaica,1803,Hewes,,42.3554334,-71.060511,18.1850507,-77.3947693
+Plutus,Boston,West-Indies,1803,Adamson,,42.3554334,-71.060511,18.4,-75.0
+Rambler,Boston,Lisbon,1803,Hills,,42.3554334,-71.060511,38.7077507,-9.1365919
+Hannah,Boston,Liverpool,1803,Bryant,,42.3554334,-71.060511,53.4071991,-2.99168
+Grace,London,New York,1803,Tayler,,51.5074456,-0.1277653,40.7127281,-74.0060152
+Amiable Matilda,Amsterdam,New York,1803,Graham,,52.3730796,4.8924534,40.7127281,-74.0060152
+Howard,Portsmouth,Alexandria,1802,Buckford,,50.800031,-1.0906023,31.1991806,29.8951716
+Catharine,Barbadoes,Alexandria,1802,Lawrence,,13.1500331,-59.5250305,31.1991806,29.8951716
+Sukey & Betsey,Salem,Alexandria,1802,Cook,,42.5195292,-70.8967226,31.1991806,29.8951716
+Hannah,Boston,Alexandria,1802,Smith,,42.3554334,-71.060511,31.1991806,29.8951716
+William,Portland,Alexandria,1802,Woodbury,,43.6573605,-70.2586618,31.1991806,29.8951716
+Harriot,Alexandria,Jamaica,1802,Blunt,,31.1991806,29.8951716,18.1850507,-77.3947693
+Maryat,Alexandria,Barbadoes,1802,Muir,,31.1991806,29.8951716,13.1500331,-59.5250305
+Hare,Lisbon,New York,1803,,,38.7077507,-9.1365919,40.7127281,-74.0060152
+Mary,Amsterdam,New York,1803,,,52.3730796,4.8924534,40.7127281,-74.0060152
+Two Brothers,Bourdeaux,New York,1803,,,44.5867879,5.1342966,40.7127281,-74.0060152
+Hamden and Sydney,Madeira,Philadelphia,1803,,,32.7517501,-16.9817487,39.9527237,-75.1635262
+Julia,St. Croix,Philadelphia,1803,,,17.729124,-64.7589156,39.9527237,-75.1635262
+Sally,Trinadad,Philadelphia,1803,,,10.7466905,-61.0840075,39.9527237,-75.1635262
+Carlton,Liverpool,Norfolk,1802,,,53.4071991,-2.99168,36.8493695,-76.2899539
+Hercules,Bourdeaux,Norfolk,1802,,,44.5867879,5.1342966,36.8493695,-76.2899539
+Triton,London,Norfolk,1802,,,51.5074456,-0.1277653,36.8493695,-76.2899539
+Young Edward,Bourdeaux,Norfolk,1802,,,44.5867879,5.1342966,36.8493695,-76.2899539
+Mary,Cape Francoise,Norfolk,1802,,,19.7595236,-72.2008068,36.8493695,-76.2899539
+Hope,Barbadoes,Norfolk,1802,,,13.1500331,-59.5250305,36.8493695,-76.2899539
+Betsey and Fanny,Barbadoes,Norfolk,1802,,,13.1500331,-59.5250305,36.8493695,-76.2899539
+Mercury,Norfolk,Boston,1802,,,36.8493695,-76.2899539,42.3554334,-71.060511
+Eliza,Norfolk,Boston,1802,,,36.8493695,-76.2899539,42.3554334,-71.060511
+Favorite,Norfolk,Bourdeaux,1802,,,36.8493695,-76.2899539,44.5867879,5.1342966
+Greyhound,Norfolk,Barbadoes,1802,,,36.8493695,-76.2899539,13.1500331,-59.5250305
+Eliza,Norfolk,West-Indies,1802,,,36.8493695,-76.2899539,18.4,-75.0
+Deborah,Madeira,Boston,1803,Holland,22 pipes old London particular Madeira; 2 half pipes old London particular Madeira; 8 qr. casks old London particular Madeira,32.7517501,-16.9817487,42.3554334,-71.060511
+Nancy,Martinico,Boston,1803,Colesworthy,,46.1244198,9.2770489,42.3554334,-71.060511
+Rover,Richmond,Boston,1803,Luce,,37.5385087,-77.43428,42.3554334,-71.060511
+Dispatch,Boston,West-Indies,1803,Marshall,,42.3554334,-71.060511,18.4,-75.0
+Industry,Boston,West-Indies,1803,Smith,,42.3554334,-71.060511,18.4,-75.0
+Mary,Cape Francoise,Norfolk,1803,,,19.7595236,-72.2008068,36.8493695,-76.2899539
+Fishhawk,Martinico,Norfolk,1803,,,46.1244198,9.2770489,36.8493695,-76.2899539
+Virginia,Cape Francoise,Norfolk,1803,,,19.7595236,-72.2008068,36.8493695,-76.2899539
+Susanna,Greenock,Charleston,1802,,,55.9473423,-4.7564721,32.7884363,-79.9399309
+Caroline,Portsmouth,Charleston,1802,,,50.800031,-1.0906023,32.7884363,-79.9399309
+Polly,Boston,Charleston,1802,,,42.3554334,-71.060511,32.7884363,-79.9399309
+Hazard,Cadiz,Charleston,1802,,,36.5297438,-6.2928976,32.7884363,-79.9399309
+Byefield,Boston,Charleston,1802,,,42.3554334,-71.060511,32.7884363,-79.9399309
+Polly,Cape Francoise,Charleston,1802,,,19.7595236,-72.2008068,32.7884363,-79.9399309
+Elizabeth,Salem,Charleston,1802,,,42.5195292,-70.8967226,32.7884363,-79.9399309
+Nabby,Jamaica,Charleston,1802,,,18.1850507,-77.3947693,32.7884363,-79.9399309
+Polly,Greenock,Charleston,1802,,,55.9473423,-4.7564721,32.7884363,-79.9399309
+Rosamond,Greenock,Charleston,1802,,,55.9473423,-4.7564721,32.7884363,-79.9399309
+Mary,London,Charleston,1802,,,51.5074456,-0.1277653,32.7884363,-79.9399309
+Fox,Savannah,Liverpool,1802,,,32.0790074,-81.0921335,53.4071991,-2.99168
+Sally,St. Johns,Boston,1803,Thomas,pimento; fish; grindstones,56.6922843,-60.9373185,42.3554334,-71.060511
+Arab,Cadiz,Boston,1803,Sargent,1000 hhds. excellent salt,36.5297438,-6.2928976,42.3554334,-71.060511
+St. Thomas,Boston,Havana,1803,Auguine,,42.3554334,-71.060511,23.135305,-82.3589631
+Four Brothers,Boston,Martinico,1803,Rice,,42.3554334,-71.060511,46.1244198,9.2770489
+Lively,Cadiz,Portland,1803,"Warner, of Gloucester",,36.5297438,-6.2928976,43.6573605,-70.2586618
+Nabby,Trinadad,Portland,1803,M' Lellan,,10.7466905,-61.0840075,43.6573605,-70.2586618
+Vigilant,Trinadad,Portland,1803,,,10.7466905,-61.0840075,43.6573605,-70.2586618
+Delaware,St. Croix,Baltimore,1803,,,17.729124,-64.7589156,39.2908816,-76.610759
+Mary Someruolon,Havana,Boston,1803,Estervan,,23.135305,-82.3589631,42.3554334,-71.060511
+Liberty,St. Croix,Boston,1803,Downe,,17.729124,-64.7589156,42.3554334,-71.060511
+Laurel,Martinico,Boston,1803,Helms,,46.1244198,9.2770489,42.3554334,-71.060511
+Pacific,Jamaica,Boston,1803,Hastings,,18.1850507,-77.3947693,42.3554334,-71.060511
+Eliza,Martinico,Boston,1803,Rich,96 hhds. Martinico molasses,46.1244198,9.2770489,42.3554334,-71.060511
+Success,Boston,Amsterdam,1803,Dogget,,42.3554334,-71.060511,52.3730796,4.8924534
+Salem,Boston,West-Indies,1803,Nickerson,,42.3554334,-71.060511,18.4,-75.0
+Little John,Boston,West-Indies,1803,Baker,,42.3554334,-71.060511,18.4,-75.0
+Yarnouth,Martinico,Plymouth,1803,Atwood,,46.1244198,9.2770489,50.3714122,-4.1424451
+Swan,West-Indies,Plymouth,1803,Warren,,18.4,-75.0,50.3714122,-4.1424451
+Fame,Norfolk,Boston,1803,Lombard,,36.8493695,-76.2899539,42.3554334,-71.060511
+Friendship,Richmond,Boston,1803,Snow,,37.5385087,-77.43428,42.3554334,-71.060511
+William & Thomas,Boston,West-Indies,1803,Topliff,,42.3554334,-71.060511,18.4,-75.0
+Sally,Boston,St. Johns,1803,Thomas,,42.3554334,-71.060511,56.6922843,-60.9373185
+Fanny,Baltimore,Boston,1803,Son[…],,39.2908816,-76.610759,42.3554334,-71.060511
+Henry,St. Croix,Boston,1803,Jones,"60 punchs St. Croix rum, of excellent quality; 25 hhds. St. Croix sugars",17.729124,-64.7589156,42.3554334,-71.060511
+Washington,Lisbon,Boston,1803,,,38.7077507,-9.1365919,42.3554334,-71.060511
+Brutus,Boston,Liverpool,1803,Southworth,,42.3554334,-71.060511,53.4071991,-2.99168
+Rover,Boston,Amsterdam,1803,Goodwin,,42.3554334,-71.060511,52.3730796,4.8924534
+Comet,Charleston,New York,1803,,,32.7884363,-79.9399309,40.7127281,-74.0060152
+Olympus,New Bedford,New York,1803,Allen,,41.6362152,-70.934205,40.7127281,-74.0060152
+Mercury,St. Johns,New York,1803,Beattey,,56.6922843,-60.9373185,40.7127281,-74.0060152
+Shepherdess,Boston,Charleston,1803,Crowel,,42.3554334,-71.060511,32.7884363,-79.9399309
+Good Intent,Cape Francoise,Charleston,1803,,,19.7595236,-72.2008068,32.7884363,-79.9399309
+Russell,London,Charleston,1803,,,51.5074456,-0.1277653,32.7884363,-79.9399309
+Wm & Mary,Amsterdam,Charleston,1803,,,52.3730796,4.8924534,32.7884363,-79.9399309
+Derdrag,Bourdeaux,Charleston,1803,,,44.5867879,5.1342966,32.7884363,-79.9399309
+Julian,Boston,Charleston,1803,,,42.3554334,-71.060511,32.7884363,-79.9399309
+Unanimity,St. Thomas,Charleston,1803,,,18.3429081,-64.9188997,32.7884363,-79.9399309
+Golden Age,Charleston,Liverpool,1803,Nve,,32.7884363,-79.9399309,53.4071991,-2.99168
+Mary,Charleston,Cape Francoise,1803,Richards,,32.7884363,-79.9399309,19.7595236,-72.2008068
+Mars,Charleston,Liverpool,1803,,,32.7884363,-79.9399309,53.4071991,-2.99168
+Two Friends,Charleston,London,1803,,,32.7884363,-79.9399309,51.5074456,-0.1277653
+Washington,Charleston,Martinique,1803,,,32.7884363,-79.9399309,14.6113732,-60.9620777
+Robey,Charleston,Portsmouth,1803,Johnson,,32.7884363,-79.9399309,50.800031,-1.0906023
+Thetis,Charleston,Bourdeaux,1803,,,32.7884363,-79.9399309,44.5867879,5.1342966
+Aimwell,Greenock,Savannah,1803,,,55.9473423,-4.7564721,32.0790074,-81.0921335
+Experiment,Jamaica,Savannah,1803,,,18.1850507,-77.3947693,32.0790074,-81.0921335
+Beaver,Cape Francoise,Savannah,1803,,,19.7595236,-72.2008068,32.0790074,-81.0921335
+Traveller,Jamaica,Savannah,1803,,,18.1850507,-77.3947693,32.0790074,-81.0921335
+Two Sisters,Salem,Savannah,1803,,,42.5195292,-70.8967226,32.0790074,-81.0921335
+Alexander,Savannah,London,1803,,,32.0790074,-81.0921335,51.5074456,-0.1277653
+Matilda,Savannah,Martinique,1803,,,32.0790074,-81.0921335,14.6113732,-60.9620777
+Four Friends,Demerara,Boston,1803,Whitmarsh,,5.6294891,-58.3937764,42.3554334,-71.060511
+Ethan Allen,Boston,Baltimore,1803,Buel,,42.3554334,-71.060511,39.2908816,-76.610759
+Andls,Baltimore,Martinique,1803,,,39.2908816,-76.610759,14.6113732,-60.9620777
+Ceiterion,Wilmington,Boston,1803,Drinkwater,"400 bbls tar, in large casks; 10 half tierces rice",39.7459468,-75.546589,42.3554334,-71.060511
+Eliza,Norfolk,Boston,1803,Banks,,36.8493695,-76.2899539,42.3554334,-71.060511
+Friendship,New York,Boston,1803,,,40.7127281,-74.0060152,42.3554334,-71.060511
+Ann,Savannah,Boston,1803,Cottle,,32.0790074,-81.0921335,42.3554334,-71.060511
+Sukey,Wilmington,Boston,1803,Kendrick,,39.7459468,-75.546589,42.3554334,-71.060511
+George and Harriot,Boston,West-Indies,1803,Allen,,42.3554334,-71.060511,18.4,-75.0
+Fanny,Boston,West-Indies,1803,Goodrich,,42.3554334,-71.060511,18.4,-75.0
+Hope,Boston,Liverpool,1803,Ripley,,42.3554334,-71.060511,53.4071991,-2.99168
+Nancy,Boston,Liverpool,1803,Ward,,42.3554334,-71.060511,53.4071991,-2.99168
+La Amiable Theresa,Cape Francoise,Charleston,1803,Benoist,,19.7595236,-72.2008068,32.7884363,-79.9399309
+Laurel,Boston,Savannah,1803,Helms,,42.3554334,-71.060511,32.0790074,-81.0921335
+Fishhawk,West-Indies,Salem,1803,Cook,,18.4,-75.0,42.5195292,-70.8967226
+Dovt,Boston,Havana,1803,Atkins,,42.3554334,-71.060511,23.135305,-82.3589631
+Marcia,Boston,Tobago,1803,Cole,,42.3554334,-71.060511,11.2404615,-60.672006
+St. Fermin,Boston,Havana,1803,Foral,,42.3554334,-71.060511,23.135305,-82.3589631
+Betsey,Tobago,Norfolk,1803,Kempton,,11.2404615,-60.672006,36.8493695,-76.2899539
+Perseverance,Rotterdam,Norfolk,1803,Coggeshall,,51.9244424,4.47775,36.8493695,-76.2899539
+Juno,Portsmouth,Norfolk,1803,Ellery,,50.800031,-1.0906023,36.8493695,-76.2899539
+Wm & Mary,Norfolk,Cadiz,1803,Dickson,,36.8493695,-76.2899539,36.5297438,-6.2928976
+George,Norfolk,Martinique,1803,Taylor,,36.8493695,-76.2899539,14.6113732,-60.9620777
+Hannah,Norfolk,Cadiz,1803,Bartlett,,36.8493695,-76.2899539,36.5297438,-6.2928976
+Hope,Norfolk,Barbadoes,1803,M' Kenzie,,36.8493695,-76.2899539,13.1500331,-59.5250305
+Anna,Norfolk,St. Thomas,1803,Darrell,,36.8493695,-76.2899539,18.3429081,-64.9188997
+Fishhawk,Norfolk,West-Indies,1803,Allen,,36.8493695,-76.2899539,18.4,-75.0
+Jane,Havana,Boston,1803,Snow,,23.135305,-82.3589631,42.3554334,-71.060511
+Ranger,Barbadoes,Boston,1803,Hooper,54 barrels sugars; 5 hogsheads sugars; 11 hhds. West-India rum,13.1500331,-59.5250305,42.3554334,-71.060511
+Eleanor,Savannah,Boston,1803,Hodgkins,,32.0790074,-81.0921335,42.3554334,-71.060511
+Rover,Norfolk,Boston,1803,Nickerson,,36.8493695,-76.2899539,42.3554334,-71.060511
+"Recovery, of Castine",Liverpool,Boston,1803,Wadsworth,,53.4071991,-2.99168,42.3554334,-71.060511
+President,New York,Boston,1803,Sturgis,,40.7127281,-74.0060152,42.3554334,-71.060511
+Caroline,Alexandria,Boston,1803,Slocum,,31.1991806,29.8951716,42.3554334,-71.060511
+Mercury,Boston,Amsterdam,1803,Porter,,42.3554334,-71.060511,52.3730796,4.8924534
+Sally,Portsmouth,Philadelphia,1803,Smith,,50.800031,-1.0906023,39.9527237,-75.1635262
+Sincerity,Barbadoes,Philadelphia,1803,Wright,,13.1500331,-59.5250305,39.9527237,-75.1635262
+Hunter,West-Indies,Alexandria,1803,,,18.4,-75.0,31.1991806,29.8951716
+Eliza,Demerara,New York,1803,Ricker,,5.6294891,-58.3937764,40.7127281,-74.0060152
+Hannah,Halifax,Boston,1803,R[…]straw,,44.648618,-63.5859487,42.3554334,-71.060511
+Alknomae,Rotterdam,Boston,1803,Cleaveland,,51.9244424,4.47775,42.3554334,-71.060511
+Nancy,Guadaloupe,Boston,1803,Goddard,16000 wt. coffee; 27 hhds. clayed sugars; 27 bbls. clayed sugars; few hhds. molasses,26.9095819,-101.4333638,42.3554334,-71.060511
+Mary,Halifax,Boston,1803,Hunford,,44.648618,-63.5859487,42.3554334,-71.060511
+Portland Packet,Portland,Boston,1803,Therle,,43.6573605,-70.2586618,42.3554334,-71.060511
+Palladium,Boston,Martinico,1803,Savage,,42.3554334,-71.060511,46.1244198,9.2770489
+Nestar,Guadaloupe,Philadelphia,1803,Whipple,,26.9095819,-101.4333638,39.9527237,-75.1635262
+Ethan Allen,Baltimore,Boston,1803,Copeland,,39.2908816,-76.610759,42.3554334,-71.060511
+Hero,Baltimore,Boston,1803,Brayton,,39.2908816,-76.610759,42.3554334,-71.060511
+George,Baltimore,Boston,1803,Stodder,,39.2908816,-76.610759,42.3554334,-71.060511
+Laurel,Baltimore,New Bedford,1803,Tripp,,39.2908816,-76.610759,41.6362152,-70.934205
+Superior,Norfolk,Lisbon,1803,Matthewson,,36.8493695,-76.2899539,38.7077507,-9.1365919
+Unicorn,Norfolk,West-Indies,1803,Crowell,,36.8493695,-76.2899539,18.4,-75.0
+Dwyer,Norfolk,Boston,1803,Shanks,45 hhds. Antigua and Montserrat rum; 17 casks rice; 200 bushels corn; 40 bales Georgia cotton; 185 barrels superfine and fine flour,36.8493695,-76.2899539,42.3554334,-71.060511
+Huge Johnson,Boston,Liverpool,1803,Weld,,42.3554334,-71.060511,53.4071991,-2.99168
+Tarantula,Boston,Demerara,1803,Taylor,,42.3554334,-71.060511,5.6294891,-58.3937764
+Pomona,St. Thomas,Baltimore,1803,Watts,,18.3429081,-64.9188997,39.2908816,-76.610759
+Polomack,St. Thomas,Baltimore,1803,Cox,,18.3429081,-64.9188997,39.2908816,-76.610759
+Lear,Trinadad,Baltimore,1803,Low,,10.7466905,-61.0840075,39.2908816,-76.610759
+Thomas Jefferson,Amsterdam,Philadelphia,1803,,,52.3730796,4.8924534,39.9527237,-75.1635262
+Olive Branch,Cape Francoise,Philadelphia,1803,,,19.7595236,-72.2008068,39.9527237,-75.1635262
+Mars,New Orleans,Philadelphia,1803,,,29.9759983,-90.0782127,39.9527237,-75.1635262
+Aurora,Martinico,Boston,1803,Allen,,46.1244198,9.2770489,42.3554334,-71.060511
+Trader,Liverpool,Boston,1803,Bass,,53.4071991,-2.99168,42.3554334,-71.060511
+Betsey,Trinadad,Boston,1803,Bradford,,10.7466905,-61.0840075,42.3554334,-71.060511
+Levant,Savannah,Boston,1803,Davidson,,32.0790074,-81.0921335,42.3554334,-71.060511
+Eliza,Boston,Havana,1803,Leslie,,42.3554334,-71.060511,23.135305,-82.3589631
+Hope,Martinico,Salem,1803,Lander,,46.1244198,9.2770489,42.5195292,-70.8967226
+Trent,Martinico,Baltimore,1803,"Kingsman, of Salem",,46.1244198,9.2770489,39.2908816,-76.610759
+John,Trinadad,Baltimore,1803,Lovett,,10.7466905,-61.0840075,39.2908816,-76.610759
+Hibernia,Halifax,Boston,1803,M' Herroa,,44.648618,-63.5859487,42.3554334,-71.060511
+Francis and Eliza,Cape Francoise,Boston,1803,Sprague,"14500 lbs. best green coffee, in barrels; 300 new hides",19.7595236,-72.2008068,42.3554334,-71.060511
+George,Norfolk,Boston,1803,Stoddard,350 bbls. superfine flour; 300 bbls. fine flour,36.8493695,-76.2899539,42.3554334,-71.060511
+Dolphin,Richmond,Boston,1803,Rich,20 hhds. James River tobacco; 2000 bushels best Virginia coals,37.5385087,-77.43428,42.3554334,-71.060511
+Ethan Allen,Baltimore,Boston,1803,Copeland,500 bbls. fine and superfine flour; 90 half bbls. fine and superfine flour,39.2908816,-76.610759,42.3554334,-71.060511
+Federal George,Baltimore,Boston,1803,Field,,39.2908816,-76.610759,42.3554334,-71.060511
+Sally,Windsor,Boston,1803,Barker Windsor,,42.2858536,-82.9780695,42.3554334,-71.060511
+Harmony,Alexandria,Boston,1803,Hall,,31.1991806,29.8951716,42.3554334,-71.060511
+Hazard,Alexandria,Boston,1803,Luce,,31.1991806,29.8951716,42.3554334,-71.060511
+Sally,Plymouth,Boston,1803,Vinal,,50.3714122,-4.1424451,42.3554334,-71.060511
+Seaflower,Charleston,Boston,1803,Cottle,"80 bales upland cotton; 1 cask indigo; 14 tons lignumvitz; a small quantity redwood; 600 yards bagging, suitable for hop bags",32.7884363,-79.9399309,42.3554334,-71.060511
+Favorite,Madeira,Boston,1803,Pouslard,,32.7517501,-16.9817487,42.3554334,-71.060511
+Two Brothers,Boston,West-Indies,1803,Wheelwright,,42.3554334,-71.060511,18.4,-75.0
+Mary,Boston,Halifax,1803,Huxford,,42.3554334,-71.060511,44.648618,-63.5859487
+Nabby,Boston,West-Indies,1803,Tuck,,42.3554334,-71.060511,18.4,-75.0
+Fanny,Cape Francoise,Charleston,1803,Evans,,19.7595236,-72.2008068,32.7884363,-79.9399309
+Cabinet,Madeira,Charleston,1803,Johnson,,32.7517501,-16.9817487,32.7884363,-79.9399309
+Nancy,Lisbon,Charleston,1803,Farnel,,38.7077507,-9.1365919,32.7884363,-79.9399309
+Nancy,Cape Francoise,Charleston,1803,Brookings,,19.7595236,-72.2008068,32.7884363,-79.9399309
+Courler,Cape Francoise,Charleston,1803,Pigeon,,19.7595236,-72.2008068,32.7884363,-79.9399309
+Betsey,Martinico,Charleston,1803,Girdler,,46.1244198,9.2770489,32.7884363,-79.9399309
+Betsey,Boston,Liverpool,1803,Joy,,42.3554334,-71.060511,53.4071991,-2.99168
+Unanimis,Boston,New York,1803,Hastings,,42.3554334,-71.060511,40.7127281,-74.0060152
+Swan,Boston,New York,1803,Knap,,42.3554334,-71.060511,40.7127281,-74.0060152
+Victory,Boston,New York,1803,Lane,,42.3554334,-71.060511,40.7127281,-74.0060152
+Rambler,Yarmouth,New York,1803,Ferris,,52.6071742,1.7314845,40.7127281,-74.0060152
+Mark and Mary,St. Croix,New York,1803,Wiswall,,17.729124,-64.7589156,40.7127281,-74.0060152
+Jason,Greenock,New York,1803,,,55.9473423,-4.7564721,40.7127281,-74.0060152
+William,New York,New York,1803,,,40.7127281,-74.0060152,40.7127281,-74.0060152
+Amity,Boston,Philadelphia,1803,Spencer,,42.3554334,-71.060511,39.9527237,-75.1635262
+Venus,Halifax,Baltimore,1803,Tupper,,44.648618,-63.5859487,39.2908816,-76.610759
+Washington,Boston,Baltimore,1803,Davis,,42.3554334,-71.060511,39.2908816,-76.610759
+George,Amsterdam,Baltimore,1803,Sprigg,,52.3730796,4.8924534,39.2908816,-76.610759
+Spy,Tobago,Norfolk,1803,Fowler,,11.2404615,-60.672006,36.8493695,-76.2899539
+Mary,Havana,Norfolk,1803,Mercy,,23.135305,-82.3589631,36.8493695,-76.2899539
+Bash,Trinadad,Norfolk,1803,,,10.7466905,-61.0840075,36.8493695,-76.2899539
+Fox,Liverpool,Boston,1803,Bunker,Liverpool salt; coals; calicoes; muslins; linens,53.4071991,-2.99168,42.3554334,-71.060511
+Iris,Demerara,Boston,1803,Gorham,100 hhds. good flavoured rum,5.6294891,-58.3937764,42.3554334,-71.060511
+Washington,Portland,Boston,1803,Lewis,,43.6573605,-70.2586618,42.3554334,-71.060511
+Margaret,Portland,Boston,1803,Dutch,,43.6573605,-70.2586618,42.3554334,-71.060511
+Romeo,Alexandria,Boston,1803,Payne,,31.1991806,29.8951716,42.3554334,-71.060511
+Arnold,Salem,Boston,1803,Russell,,42.5195292,-70.8967226,42.3554334,-71.060511
+Hannah,Salem,Boston,1803,Martin,,42.5195292,-70.8967226,42.3554334,-71.060511
+Polly,Salem,Boston,1803,Gardner,,42.5195292,-70.8967226,42.3554334,-71.060511
+Polly,Boston,Liverpool,1803,Williston,,42.3554334,-71.060511,53.4071991,-2.99168
+Mahala,Boston,Liverpool,1803,Windsor,,42.3554334,-71.060511,53.4071991,-2.99168
+Thomas,Boston,Martinique,1803,Carne,,42.3554334,-71.060511,14.6113732,-60.9620777
+Sally,Philadelphia,Martinico,1803,Huse,,39.9527237,-75.1635262,46.1244198,9.2770489
+Sea Nymph,Bourdeaux,New York,1803,Parket,,44.5867879,5.1342966,40.7127281,-74.0060152
+Diana,Boston,Liverpool,1803,Noble,,42.3554334,-71.060511,53.4071991,-2.99168
+Thomas,Boston,Martinico,1803,Carnes,,42.3554334,-71.060511,46.1244198,9.2770489
+Hannah,Boston,Halifax,1803,Rikestraw,,42.3554334,-71.060511,44.648618,-63.5859487
+Richard,Demerara,New London,1803,Gilbert,,5.6294891,-58.3937764,41.3556187,-72.0997804
+Venus,Trinadad,Norfolk,1803,,,10.7466905,-61.0840075,36.8493695,-76.2899539
+Jolly Rover,Portland,Norfolk,1803,Blanchard,,43.6573605,-70.2586618,36.8493695,-76.2899539
+Mary,Norfolk,Cadiz,1803,Howett,,36.8493695,-76.2899539,36.5297438,-6.2928976
+Nancy,Norfolk,Cadiz,1803,Davis,,36.8493695,-76.2899539,36.5297438,-6.2928976
+Jesse,Norfolk,Bourdeaux,1803,Cowper,,36.8493695,-76.2899539,44.5867879,5.1342966
+Juno,Tobago,Norfolk,1803,Derby,,11.2404615,-60.672006,36.8493695,-76.2899539
+Elizabeth,Norfolk,Lisbon,1803,Barclay,,36.8493695,-76.2899539,38.7077507,-9.1365919
+Bath,Liverpool,Portland,1803,Thrasher,,53.4071991,-2.99168,43.6573605,-70.2586618
+Fair American,Trinidad,Boston,1803,Pease,,10.4430243,-61.2613054,42.3554334,-71.060511
+Friendship,Boston,Boston,1803,Lider of Wisecasset,87 bbls. superfine flour; 124 bbls. fine flour; 55 chaldrons Virginia coal,42.3554334,-71.060511,42.3554334,-71.060511
+Adamson,Boston,Boston,1803,,,42.3554334,-71.060511,42.3554334,-71.060511
+Commerce,Boston,Boston,1803,Ingersol of Beverly,,42.3554334,-71.060511,42.3554334,-71.060511
+Frederick Hart,Lisbon,Boston,1803,,,38.7077507,-9.1365919,42.3554334,-71.060511
+Ranger,Salem,Boston,1803,Byrne,,42.5195292,-70.8967226,42.3554334,-71.060511
+Revival,New Haven,Boston,1803,Barney,,41.3082138,-72.9250518,42.3554334,-71.060511
+Sally,Salem,Boston,1803,Shehan,,42.5195292,-70.8967226,42.3554334,-71.060511
+Herald,New London,Boston,1803,Comstock,,41.3556187,-72.0997804,42.3554334,-71.060511
+Lucy,Gloucester,Boston,1803,Saville,,51.8653705,-2.2458192,42.3554334,-71.060511
+Success,Gloucester,Boston,1803,Brown,,51.8653705,-2.2458192,42.3554334,-71.060511
+Ranger,Boston,Liverpool,1803,Hooper,,42.3554334,-71.060511,53.4071991,-2.99168
+Columbine,Boston,Liverpool,1803,Bruce,,42.3554334,-71.060511,53.4071991,-2.99168
+Polly,Boston,Norfolk,1803,Smith of Barnstable,,42.3554334,-71.060511,36.8493695,-76.2899539
+Betsey and Polly,Boston,New York,1803,Luce,,42.3554334,-71.060511,40.7127281,-74.0060152
+Osiris,Liverpool,Philadelphia,1803,,,53.4071991,-2.99168,39.9527237,-75.1635262
+Rover,St. Croix,Newbern,1803,Hardy,,17.729124,-64.7589156,36.1801885,-75.863769
+Sally,Newbern,Jamaica,1803,Croswell,,36.1801885,-75.863769,18.1850507,-77.3947693
+the Three Friends,Boston,Norfolk,1803,Otis,,42.3554334,-71.060511,36.8493695,-76.2899539
+Experiment,St. Johns,Norfolk,1803,Murray,,56.6922843,-60.9373185,36.8493695,-76.2899539
+Magistrate,Norfolk,London,1803,Peterson,,36.8493695,-76.2899539,51.5074456,-0.1277653
+Hannah,Boston,Alexandria,1803,Smith,,42.3554334,-71.060511,31.1991806,29.8951716
+Drucilla,New Bedford,Alexandria,1803,Howland,,41.6362152,-70.934205,31.1991806,29.8951716
+Hunter,Alexandria,Lisbon,1803,,,31.1991806,29.8951716,38.7077507,-9.1365919
+Adventure,Newbern,Boston,1803,Bradford,,36.1801885,-75.863769,42.3554334,-71.060511
+Harriot,Baltimore,Boston,1803,Nath,,39.2908816,-76.610759,42.3554334,-71.060511
+James,Boston,Liverpool,1803,Parsons,,42.3554334,-71.060511,53.4071991,-2.99168
+Louisa,Amsterdam,Baltimore,1803,Douglas,,52.3730796,4.8924534,39.2908816,-76.610759
+Elizabeth,Boston,Norfolk,1803,Bangs,,42.3554334,-71.060511,36.8493695,-76.2899539
+Columbus,Amsterdam,Charleston,1803,Cheeseborough,,52.3730796,4.8924534,32.7884363,-79.9399309
+Dover,Trinadad,Charleston,1803,M' Cowry,,10.7466905,-61.0840075,32.7884363,-79.9399309
+John,Liverpool,Charleston,1803,Pratt,,53.4071991,-2.99168,32.7884363,-79.9399309
+Polly,Charleston,Charleston,1803,Bradbury of Newburyport,,32.7884363,-79.9399309,32.7884363,-79.9399309
+Orange,Barbadoes,Charleston,1803,Ballard,,13.1500331,-59.5250305,32.7884363,-79.9399309
+the Fortitude of Nantucket,Madeira,Madeira,1803,John of Portland,,32.7517501,-16.9817487,32.7517501,-16.9817487
+Little Jane,Madeira,Madeira,1803,Harris of Boston,,32.7517501,-16.9817487,32.7517501,-16.9817487
+Dolphin,Boston,Boston,1803,Tyler of Boston,20 hhds. James River Tobacco; 2000 bushels best Virginia Coals,42.3554334,-71.060511,42.3554334,-71.060511
+Northern Friends,Greenock,Boston,1803,Montgomery,,55.9473423,-4.7564721,42.3554334,-71.060511
+Rambler,Wilmington,Boston,1803,Bourn,,39.7459468,-75.546589,42.3554334,-71.060511
+Harmony,Havana,Boston,1803,Dennes,,23.135305,-82.3589631,42.3554334,-71.060511
+Alert,Tobago,Boston,1803,Murphy,,11.2404615,-60.672006,42.3554334,-71.060511
+F[…]abler,Wilmington,Boston,1803,Bourn,,39.7459468,-75.546589,42.3554334,-71.060511
+Friendship,Richmond,Boston,1803,Read,,37.5385087,-77.43428,42.3554334,-71.060511
+Polly,Salem,Boston,1803,Gardner,,42.5195292,-70.8967226,42.3554334,-71.060511
+Leonidas,Baltimore,Boston,1803,Luce,,39.2908816,-76.610759,42.3554334,-71.060511
+Governer Carver,Lisbon,Plymouth,1803,Spooner,,38.7077507,-9.1365919,50.3714122,-4.1424451
+Martha Washington,St. Croix,New York,1803,Ba[…]end,,17.729124,-64.7589156,40.7127281,-74.0060152
+Minerva,Bourdeaux,New York,1803,Main,,44.5867879,5.1342966,40.7127281,-74.0060152
+Twins,Jamaica,New York,1803,,,18.1850507,-77.3947693,40.7127281,-74.0060152
+Dye[…],New Orleans,New York,1803,,,29.9759983,-90.0782127,40.7127281,-74.0060152
+Stone,St. Croix,New York,1803,,,17.729124,-64.7589156,40.7127281,-74.0060152
+Nancy,New Orleans,Philadelphia,1803,Morris,,29.9759983,-90.0782127,39.9527237,-75.1635262
+Polly,Tobago,Boston,1803,Russell,,11.2404615,-60.672006,42.3554334,-71.060511
+Margaret,Norfolk,Boston,1803,Pinkham,,36.8493695,-76.2899539,42.3554334,-71.060511
+Forty second,Liverpool,Philadelphia,1803,,,53.4071991,-2.99168,39.9527237,-75.1635262
+Lilly,Cape Francoise,Philadelphia,1803,,,19.7595236,-72.2008068,39.9527237,-75.1635262
+Criterion,Boston,Wilmington,1803,Drinkwater,,42.3554334,-71.060511,39.7459468,-75.546589
+Three Sisters,Wilmington,West-Indies,1803,Willis,,39.7459468,-75.546589,18.4,-75.0
+Mariner,Cape Francoise,Baltimore,1803,Wicks,,19.7595236,-72.2008068,39.2908816,-76.610759
+Cumberland,Halifax,Baltimore,1803,,,44.648618,-63.5859487,39.2908816,-76.610759
+Roger Williams,Havana,Norfolk,1803,Allen,,23.135305,-82.3589631,36.8493695,-76.2899539
+Traveller,Havana,Boston,1803,Lovett,,23.135305,-82.3589631,42.3554334,-71.060511
+Hero,Martinico,Boston,1803,Boardman,,46.1244198,9.2770489,42.3554334,-71.060511
+Alert (or Kennebunk),Tobago,Boston,1803,Murphy,,11.2404615,-60.672006,42.3554334,-71.060511
+Madison,Tobago,Boston,1803,Harman,,11.2404615,-60.672006,42.3554334,-71.060511
+Franklin,Boston,Lisbon,1803,Bowles,,42.3554334,-71.060511,38.7077507,-9.1365919
+Henry,Boston,St. Croix,1803,Jones,,42.3554334,-71.060511,17.729124,-64.7589156
+Fame,Boston,Bourdeaux,1803,Avery,,42.3554334,-71.060511,44.5867879,5.1342966
+Rover,Richmond,Boston,1803,Luce,,37.5385087,-77.43428,42.3554334,-71.060511
+Lydia,Philadelphia,Boston,1803,Lobdell,,39.9527237,-75.1635262,42.3554334,-71.060511
+Two Friends,Philadelphia,Boston,1803,Crowell,,39.9527237,-75.1635262,42.3554334,-71.060511
+Dorcas,Newbern,Boston,1803,Withrell,,36.1801885,-75.863769,42.3554334,-71.060511
+Margaret,Portland,Boston,1803,Dutton,,43.6573605,-70.2586618,42.3554334,-71.060511
+Harriot,Portland,Boston,1803,Jones,,43.6573605,-70.2586618,42.3554334,-71.060511
+Eliza,New Haven,Boston,1803,Collis,,41.3082138,-72.9250518,42.3554334,-71.060511
+Eliza,Baltimore,Boston,1803,Bangs,,39.2908816,-76.610759,42.3554334,-71.060511
+Calisto,Norfolk,Cadiz,1803,Atkins,,36.8493695,-76.2899539,36.5297438,-6.2928976
+Alert,Savannah,Boston,1803,Harding,,32.0790074,-81.0921335,42.3554334,-71.060511
+Sally,St. Johns,Boston,1803,Pickett,300 bbls Alewives; 25 tons Plaister Paris,56.6922843,-60.9373185,42.3554334,-71.060511
+Benjamin,New London,Boston,1803,Pendleton,,41.3556187,-72.0997804,42.3554334,-71.060511
+Alert,Savannah,Boston,1803,Harding,,32.0790074,-81.0921335,42.3554334,-71.060511
+St. Christele la Victoria,Boston,West-Indies,1803,Bane,,42.3554334,-71.060511,18.4,-75.0
+Favorite,Boston,West-Indies,1803,Twycross,,42.3554334,-71.060511,18.4,-75.0
+"Mary, alies Somernelas",Boston,Havana,1803,Farnadas,,42.3554334,-71.060511,23.135305,-82.3589631
+Logan,Liverpool,New York,1803,,,53.4071991,-2.99168,40.7127281,-74.0060152
+Hero,Baltimore,Boston,1803,Braton,,39.2908816,-76.610759,42.3554334,-71.060511
+Harmony,Boston,Alexandria,1803,,,42.3554334,-71.060511,31.1991806,29.8951716
+Harriot,Alexandria,Barbadoes,1803,,,31.1991806,29.8951716,13.1500331,-59.5250305
+Caroline,Alexandria,Boston,1803,,,31.1991806,29.8951716,42.3554334,-71.060511
+Columbine,Liverpool,Boston,1803,Bruce,100 crates of earthen ware; 12 hhds. glass ware; 900 hhds. coarse salt,53.4071991,-2.99168,42.3554334,-71.060511
+Enterprize,Demerara,Boston,1803,Parsons,,5.6294891,-58.3937764,42.3554334,-71.060511
+Ocean,Savannah,Boston,1803,Dicks,70 hhds. Guadaloupe clayed sugar,32.0790074,-81.0921335,42.3554334,-71.060511
+Industry,Guadaloupe,Boston,1803,Smith,,26.9095819,-101.4333638,42.3554334,-71.060511
+Hero,Baltimore,Boston,1803,Brayton,,39.2908816,-76.610759,42.3554334,-71.060511
+Patty,Salem,Boston,1803,Knowlton,,42.5195292,-70.8967226,42.3554334,-71.060511
+Isabella,Philadelphia,Boston,1803,Pitts,,39.9527237,-75.1635262,42.3554334,-71.060511
+Betsey,Plymouth,Boston,1803,Morton,,50.3714122,-4.1424451,42.3554334,-71.060511
+Mary,Boston,Havana,1803,Fanadas,,42.3554334,-71.060511,23.135305,-82.3589631
+Ann and Betsey,Boston,Jamaica,1803,Quinton,,42.3554334,-71.060511,18.1850507,-77.3947693
+Hannah,Boston,Liverpool,1803,Lambert,,42.3554334,-71.060511,53.4071991,-2.99168
+Mary,Boston,Halifax,1803,Huxford,,42.3554334,-71.060511,44.648618,-63.5859487
+Romeo,Boston,West-Indies,1803,Payne,,42.3554334,-71.060511,18.4,-75.0
+Aurora,Boston,Barbadoes,1803,Pease,,42.3554334,-71.060511,13.1500331,-59.5250305
+Nancy,Boston,West-Indies,1803,Goddard,,42.3554334,-71.060511,18.4,-75.0
+Catharine Ray,St. Croix,New York,1803,,,17.729124,-64.7589156,40.7127281,-74.0060152
+Brutus,Boston,Liverpool,1803,,,42.3554334,-71.060511,53.4071991,-2.99168
+Volant,Charleston,Liverpool,1803,,,32.7884363,-79.9399309,53.4071991,-2.99168
+Ch. Carter,Savannah,Liverpool,1803,,,32.0790074,-81.0921335,53.4071991,-2.99168
+Thomas,Charleston,Liverpool,1803,,,32.7884363,-79.9399309,53.4071991,-2.99168
+Baltimore,Baltimore,Liverpool,1803,,,39.2908816,-76.610759,53.4071991,-2.99168
+Rebecca,Baltimore,Liverpool,1803,,,39.2908816,-76.610759,53.4071991,-2.99168
+Jacob,Philadelphia,Liverpool,1803,,,39.9527237,-75.1635262,53.4071991,-2.99168
+Dove,Havana,Boston,1803,Atkins,,23.135305,-82.3589631,42.3554334,-71.060511
+Fame,Liverpool,Boston,1803,Clark,,53.4071991,-2.99168,42.3554334,-71.060511
+Humbird,Cadiz,Boston,1803,Kmsman,,36.5297438,-6.2928976,42.3554334,-71.060511
+Stephen,Liverpool,Boston,1803,Douglas,,53.4071991,-2.99168,42.3554334,-71.060511
+Packet,Liverpool,Boston,1803,Trott,"100 casks of 6, 8, 10 and 20d nails; 40 casks white lead; 10 casks red lead; 44 casks patent shot; 10 casks Spanish brown",53.4071991,-2.99168,42.3554334,-71.060511
+Prosperity,Windsor,Boston,1803,Kelly,,42.2858536,-82.9780695,42.3554334,-71.060511
+Washington,Boston,Amsterdam,1803,Lewis,,42.3554334,-71.060511,52.3730796,4.8924534
+Four Brothers,Guadaloupe,Boston,1803,Rice,37 hhds. first quality retailing sugars; 50 bbls. first quality retailing sugars; 13 hhds. second quality retailing sugars,26.9095819,-101.4333638,42.3554334,-71.060511
+Unicorn,Guadaloupe,Boston,1803,Miller,,26.9095819,-101.4333638,42.3554334,-71.060511
+John Adams,Liverpool,Boston,1803,Wood,,53.4071991,-2.99168,42.3554334,-71.060511
+Snow Lion,Havana,Boston,1803,Norton,molasses; a few boxes sugar,23.135305,-82.3589631,42.3554334,-71.060511
+Hannah,Cape Francoise,Charleston,1803,Bartlet,,19.7595236,-72.2008068,32.7884363,-79.9399309
+Mary,Trinidad,Boston,1803,Glasier,,10.4430243,-61.2613054,42.3554334,-71.060511
+Eunice,Guadaloupe,Boston,1803,Story,,26.9095819,-101.4333638,42.3554334,-71.060511
+Fanny,Yarmouth,Boston,1803,Hilton,,52.6071742,1.7314845,42.3554334,-71.060511
+Criterion,Wilmington,Boston,1803,Drinkwater,60 bales Carolina cotton of a superior quality; 23 hhds. of Grenada rum; 180 bbls tar; 1 hhd. retailing sugar,39.7459468,-75.546589,42.3554334,-71.060511
+George Washington,Martinique,Boston,1803,Keese,,14.6113732,-60.9620777,42.3554334,-71.060511
+Elizabeth,Demerara,Boston,1803,Hopkins,,5.6294891,-58.3937764,42.3554334,-71.060511
+Shepherds,Charleston,Boston,1803,Crowell,,32.7884363,-79.9399309,42.3554334,-71.060511
+Laurel,Boston,Trinidad,1803,Brown,,42.3554334,-71.060511,10.4430243,-61.2613054
+Polly,Boston,West-Indies,1803,Appleton,,42.3554334,-71.060511,18.4,-75.0
+Favourite,Boston,Madeira,1803,Pusland,,42.3554334,-71.060511,32.7517501,-16.9817487
+Washington,London,New York,1803,,,51.5074456,-0.1277653,40.7127281,-74.0060152
+Patriot,Portsmouth,New York,1803,,,50.800031,-1.0906023,40.7127281,-74.0060152
+Margaret,Liverpool,Philadelphia,1803,,,53.4071991,-2.99168,39.9527237,-75.1635262
+Mary,Liverpool,Baltimore,1803,,,53.4071991,-2.99168,39.2908816,-76.610759
+Essex,Baltimore,Salem,1803,,,39.2908816,-76.610759,42.5195292,-70.8967226
+Mary,Jamaica,Norfolk,1803,,,18.1850507,-77.3947693,36.8493695,-76.2899539
+Packet,Tobago,Norfolk,1803,,,11.2404615,-60.672006,36.8493695,-76.2899539
+Blossom,Jamaica,Norfolk,1803,,,18.1850507,-77.3947693,36.8493695,-76.2899539
+Aphia,Boston,Norfolk,1803,,,42.3554334,-71.060511,36.8493695,-76.2899539
+Nancy,Guadaloupe,Newbern,1803,,,26.9095819,-101.4333638,36.1801885,-75.863769
+Hero,Boston,Newbern,1803,,,42.3554334,-71.060511,36.1801885,-75.863769
+Clarissa,Barbadoes,Newbern,1803,,,13.1500331,-59.5250305,36.1801885,-75.863769
+Isabella,London,Charleston,1803,,,51.5074456,-0.1277653,32.7884363,-79.9399309
+Horizon,Greenock,Charleston,1803,,,55.9473423,-4.7564721,32.7884363,-79.9399309
+Maria Jane,Trinadad,Charleston,1803,,,10.7466905,-61.0840075,32.7884363,-79.9399309
+Rising Sun,Boston,Charleston,1803,,,42.3554334,-71.060511,32.7884363,-79.9399309
+Morning Star,Jamaica,Charleston,1803,,,18.1850507,-77.3947693,32.7884363,-79.9399309
+Seaflower,Boston,Charleston,1803,,,42.3554334,-71.060511,32.7884363,-79.9399309
+Atalanta,Charleston,Barbadoes,1803,,,32.7884363,-79.9399309,13.1500331,-59.5250305
+Boyne,Charleston,Liverpool,1803,,,32.7884363,-79.9399309,53.4071991,-2.99168
+Mary,Charleston,Amsterdam,1803,,,32.7884363,-79.9399309,52.3730796,4.8924534
+Thetis,Charleston,London,1803,,,32.7884363,-79.9399309,51.5074456,-0.1277653
+Mary Caroline,Charleston,Portland,1803,,,32.7884363,-79.9399309,43.6573605,-70.2586618
+Two Brothers,Charleston,Liverpool,1803,,,32.7884363,-79.9399309,53.4071991,-2.99168
+Jane,Charleston,Liverpool,1803,,,32.7884363,-79.9399309,53.4071991,-2.99168
+Louisa,Charleston,Cape Francoise,1803,,,32.7884363,-79.9399309,19.7595236,-72.2008068
+Polly,Charleston,New Orleans,1803,,,32.7884363,-79.9399309,29.9759983,-90.0782127
+John,Charleston,Liverpool,1803,,,32.7884363,-79.9399309,53.4071991,-2.99168
+Four Brothers,Charleston,Havana,1803,,,32.7884363,-79.9399309,23.135305,-82.3589631
+General Warren,Charleston,Havana,1803,,,32.7884363,-79.9399309,23.135305,-82.3589631
+Sally,Charleston,Liverpool,1803,,,32.7884363,-79.9399309,53.4071991,-2.99168
+Galatea,Charleston,Cape Francoise,1803,,,32.7884363,-79.9399309,19.7595236,-72.2008068
+Industry,Salem,Boston,1803,Ruffell,,42.5195292,-70.8967226,42.3554334,-71.060511
+Hope,Boston,Martinico,1803,Smith,,42.3554334,-71.060511,46.1244198,9.2770489
+Wm. Davis,Plymouth,Lisbon,1803,Finney,,50.3714122,-4.1424451,38.7077507,-9.1365919
+John Adams,Plymouth,West-Indies,1803,Harlow,,50.3714122,-4.1424451,18.4,-75.0
+George Clinton,New Orleans,New York,1803,Green,,29.9759983,-90.0782127,40.7127281,-74.0060152
+Washington,Boston,Philadelphia,1803,Sears,,42.3554334,-71.060511,39.9527237,-75.1635262
+Fox,Liverpool,Boston,1803,Minns,280 hhds. coarse salt,53.4071991,-2.99168,42.3554334,-71.060511
+Friendship,Trinidad,Boston,1803,Rider,,10.4430243,-61.2613054,42.3554334,-71.060511
+George,Barbadoes,Boston,1803,Snow,,13.1500331,-59.5250305,42.3554334,-71.060511
+2 Brothers,Windsor,Boston,1803,Clemens,,42.2858536,-82.9780695,42.3554334,-71.060511
+Deborah,Windsor,Boston,1803,Baker,,42.2858536,-82.9780695,42.3554334,-71.060511
+Ann,Boston,Liverpool,1803,Bradford,,42.3554334,-71.060511,53.4071991,-2.99168
+Lucia,Boston,West-Indies,1803,Atkins,,42.3554334,-71.060511,18.4,-75.0
+Eunice,Boston,West-Indies,1803,Bowland,,42.3554334,-71.060511,18.4,-75.0
+Prosperity,Boston,Yarmouth,1803,Killy,,42.3554334,-71.060511,52.6071742,1.7314845
+Fanny,Boston,Yarmouth,1803,Hilton,,42.3554334,-71.060511,52.6071742,1.7314845
+William,Boston,Lisbon,1803,McNeill,,42.3554334,-71.060511,38.7077507,-9.1365919
+Hope,Boston,Philadelphia,1803,Lincoln,,42.3554334,-71.060511,39.9527237,-75.1635262
+Hope,London,Philadelphia,1803,,,51.5074456,-0.1277653,39.9527237,-75.1635262
+Forty second,Philadelphia,Liverpool,1803,,,39.9527237,-75.1635262,53.4071991,-2.99168
+Hope,Liverpool,Charleston,1803,Packer,,53.4071991,-2.99168,32.7884363,-79.9399309
+Galen,London,Boston,1803,Hinkley,,51.5074456,-0.1277653,42.3554334,-71.060511
+Dove,Boston,West-Indies,1803,Small,,42.3554334,-71.060511,18.4,-75.0
+Two Brothers,Boston,Windsor,1803,Clemments,,42.3554334,-71.060511,42.2858536,-82.9780695
+Belisarius of Wiscasset,Greenock,Boston,1803,Tibbetts,,55.9473423,-4.7564721,42.3554334,-71.060511
+Sally,Bourdeaux,Boston,1803,Ingersol,60 pipes high flavored forth proof cogniac brandy; cases of dry goods,44.5867879,5.1342966,42.3554334,-71.060511
+Industry,Boston,West-Indies,1803,Smith,,42.3554334,-71.060511,18.4,-75.0
+Deborah,Boston,Halifax,1803,Baker,,42.3554334,-71.060511,44.648618,-63.5859487
+Northeru Friends,Boston,Greenock,1803,Moatgomery,,42.3554334,-71.060511,55.9473423,-4.7564721
+Rover,Boston,Plymouth,1803,Goodwin,,42.3554334,-71.060511,50.3714122,-4.1424451
+Echo,Cadiz,Philadelphia,1803,Gilmore,,36.5297438,-6.2928976,39.9527237,-75.1635262
+Lion,St. Croix,New York,1803,Clark,,17.729124,-64.7589156,40.7127281,-74.0060152
+Mercury,Havana,New York,1803,Olcott,,23.135305,-82.3589631,40.7127281,-74.0060152
+Integrity,Jamaica,New York,1803,Crow,,18.1850507,-77.3947693,40.7127281,-74.0060152
+Diana,Liverpool,Boston,1803,Wilson,,53.4071991,-2.99168,42.3554334,-71.060511
+President,Liverpool,Boston,1803,Hilton,,53.4071991,-2.99168,42.3554334,-71.060511
+Minerva,London,Boston,1803,Barber,,51.5074456,-0.1277653,42.3554334,-71.060511
+Seaflower,Charleston,Boston,1803,Cottle,100 bales upland cotton,32.7884363,-79.9399309,42.3554334,-71.060511
+Shepherdess,Baltimore,Boston,1803,,,39.2908816,-76.610759,42.3554334,-71.060511
+Aphia,Richmond,Boston,1803,Luce,"39 barrels of midlings, 10 barrels fine flour",37.5385087,-77.43428,42.3554334,-71.060511
+Hannah,Liverpool,Boston,1803,Bryant,salt,53.4071991,-2.99168,42.3554334,-71.060511
+Merchant,Madeira,Boston,1803,Bartlett,,32.7517501,-16.9817487,42.3554334,-71.060511
+Hazard,Alexandria,Boston,1803,Luce,,31.1991806,29.8951716,42.3554334,-71.060511
+Shepherdess,Baltimore,Boston,1803,Robins,,39.2908816,-76.610759,42.3554334,-71.060511
+Seaflower,Charleston,Boston,1803,Cottle,,32.7884363,-79.9399309,42.3554334,-71.060511
+Alphia,Richmond,Boston,1803,Luce,,37.5385087,-77.43428,42.3554334,-71.060511
+Summer,Baltimore,Boston,1803,Oakes,,39.2908816,-76.610759,42.3554334,-71.060511
+Nancy,Norfolk,Boston,1803,Smith,,36.8493695,-76.2899539,42.3554334,-71.060511
+Little Jane,Boston,West-Indies,1803,Harris,,42.3554334,-71.060511,18.4,-75.0
+Old Colony,Lisbon,Plymouth,1803,Flnney,,38.7077507,-9.1365919,50.3714122,-4.1424451
+Yarmouth,Plymouth,West-Indies,1803,Atwood,,50.3714122,-4.1424451,18.4,-75.0
+Juliana,Liverpool,New York,1803,Brown,,53.4071991,-2.99168,40.7127281,-74.0060152
+Ontario,Liverpool,New York,1803,Weeks,,53.4071991,-2.99168,40.7127281,-74.0060152
+Young Factor,London,New York,1803,Gardner,,51.5074456,-0.1277653,40.7127281,-74.0060152
+Jolly Bacchus,Jamaica,Philadelphia,1803,,,18.1850507,-77.3947693,39.9527237,-75.1635262
+Maria,Jamaica,Philadelphia,1803,,,18.1850507,-77.3947693,39.9527237,-75.1635262
+Amity,Portsmouth,Philadelphia,1803,,,50.800031,-1.0906023,39.9527237,-75.1635262
+Esther,Jamaica,Newbern,1803,Lincoln,,18.1850507,-77.3947693,36.1801885,-75.863769
+Dolphin,Newbern,Boston,1803,Phillips,,36.1801885,-75.863769,42.3554334,-71.060511
+Julian,Newbern,Barbadoes,1803,Jenkins,,36.1801885,-75.863769,13.1500331,-59.5250305
+Nautillus,Jamaica,Charleston,1803,Sheldon,,18.1850507,-77.3947693,32.7884363,-79.9399309
+Hazard,Charleston,London,1803,,,32.7884363,-79.9399309,51.5074456,-0.1277653
+Felicity,Charleston,Liverpool,1803,,,32.7884363,-79.9399309,53.4071991,-2.99168
+John,Guadaloupe,Boston,1803,Davis,good molasses,26.9095819,-101.4333638,42.3554334,-71.060511
+Volunteer,Liverpool,Boston,1803,Bosworth,,53.4071991,-2.99168,42.3554334,-71.060511
+Warrington,Liverpool,Boston,1803,Turner,,53.4071991,-2.99168,42.3554334,-71.060511
+Plutus,Trinidad,Boston,1803,Adamson,74 hhds. and 3 tierces best retailing molasses; 11 hhds. first quality sugar; 10 hhds. excellent rum; 8500 lb. cocoa,10.4430243,-61.2613054,42.3554334,-71.060511
+Washington,St. Croix,New London,1803,Mather,,17.729124,-64.7589156,41.3556187,-72.0997804
+Betsey,St. Croix,New London,1803,Watson,,17.729124,-64.7589156,41.3556187,-72.0997804
+Harriet,Demerara,New London,1803,Smith,,5.6294891,-58.3937764,41.3556187,-72.0997804
+Lyon,Martinique,New York,1803,,,14.6113732,-60.9620777,40.7127281,-74.0060152
+Cotton,Liverpool,New York,1803,Planter,,53.4071991,-2.99168,40.7127281,-74.0060152
+Eagle,Portsmouth,New York,1803,,,50.800031,-1.0906023,40.7127281,-74.0060152
+Minerva,Guadaloupe,New York,1803,,,26.9095819,-101.4333638,40.7127281,-74.0060152
+Amphitrite,West-Indies,New York,1803,,,18.4,-75.0,40.7127281,-74.0060152
+Susannah,New Orleans,Philadelphia,1803,,,29.9759983,-90.0782127,39.9527237,-75.1635262
+Harmony,Philadelphia,Boston,1803,,,39.9527237,-75.1635262,42.3554334,-71.060511
+Amity,Philadelphia,Portsmouth,1803,,,39.9527237,-75.1635262,50.800031,-1.0906023
+Apicana,Havana,Charleston,1803,,,23.135305,-82.3589631,32.7884363,-79.9399309
+Washington,London,Charleston,1803,Scott,,51.5074456,-0.1277653,32.7884363,-79.9399309
+Fame,Bourdeaux,Charleston,1803,Messroon,,44.5867879,5.1342966,32.7884363,-79.9399309
+Orange,Havana,Charleston,1803,Read,,23.135305,-82.3589631,32.7884363,-79.9399309
+Chetton,London,Charleston,1803,Walker,,51.5074456,-0.1277653,32.7884363,-79.9399309
+Three Sisters,Bourdeaux,Charleston,1803,Clark,,44.5867879,5.1342966,32.7884363,-79.9399309
+Clyde,Charleston,Liverpool,1803,M' Call,,32.7884363,-79.9399309,53.4071991,-2.99168
+Columbia,Charleston,Boston,1803,Jenkins,,32.7884363,-79.9399309,42.3554334,-71.060511
+Rambler,Madeira,Boston,1803,Hills,,32.7517501,-16.9817487,42.3554334,-71.060511
+Rebecca,Martinico,Boston,1803,Bradbury,21 hhds. brown & clayed sugars; 10 tierces brown & clayed sugars; 68 bbls. brown & clayed sugars; 16 hhds. molasses; 8 cases noyau; 8 cases claret wine,46.1244198,9.2770489,42.3554334,-71.060511
+Ocean,St. Croix,Boston,1803,Roach,50 hhds. St. Croix rum; 28 hhds. St. Croix sugar of first quality; 50 bbls. St. Croix sugar of first quality,17.729124,-64.7589156,42.3554334,-71.060511
+White-Oak,Tobago,Boston,1803,Paterson,,11.2404615,-60.672006,42.3554334,-71.060511
+Rebecca,Guadaloupe,Boston,1803,Davis,,26.9095819,-101.4333638,42.3554334,-71.060511
+Columbia,New York,Boston,1803,Homans,,40.7127281,-74.0060152,42.3554334,-71.060511
+George,Guadaloupe,Boston,1803,Pucker of Portland,,26.9095819,-101.4333638,42.3554334,-71.060511
+Amizon,Havana,Boston,1803,Barena,,23.135305,-82.3589631,42.3554334,-71.060511
+Hope,Demerara,Boston,1803,Harding,,5.6294891,-58.3937764,42.3554334,-71.060511
+Five Brothers,Norfolk,Boston,1803,,,36.8493695,-76.2899539,42.3554334,-71.060511
+Polly,Portsmouth,Boston,1803,Shapley,,50.800031,-1.0906023,42.3554334,-71.060511
+President Packet,New York,Boston,1803,Lincoln,,40.7127281,-74.0060152,42.3554334,-71.060511
+Raven,Gloucester,Boston,1803,Lufkin,,51.8653705,-2.2458192,42.3554334,-71.060511
+Christie,New York,Boston,1803,Gould,,40.7127281,-74.0060152,42.3554334,-71.060511
+Jerusha,New York,Boston,1803,Hallet,,40.7127281,-74.0060152,42.3554334,-71.060511
+Polly,Charleston,Boston,1803,Smith,,32.7884363,-79.9399309,42.3554334,-71.060511
+Dispatch,Wilmington,Boston,1803,Sharp,,39.7459468,-75.546589,42.3554334,-71.060511
+Polly,Richmond,Boston,1803,Kelley,,37.5385087,-77.43428,42.3554334,-71.060511
+Polly,New York,Boston,1803,Smith,,40.7127281,-74.0060152,42.3554334,-71.060511
+Abigail,Wilmington,Boston,1803,Hawes,,39.7459468,-75.546589,42.3554334,-71.060511
+Caroline,New York,Boston,1803,Homans,,40.7127281,-74.0060152,42.3554334,-71.060511
+Five Sisters,Norfolk,Boston,1803,,,36.8493695,-76.2899539,42.3554334,-71.060511
+Columbine,Boston,Liverpool,1803,Bruce,,42.3554334,-71.060511,53.4071991,-2.99168
+Ath[…],Boston,Jamaica,1803,Foster,,42.3554334,-71.060511,18.1850507,-77.3947693
+Mary,Boston,West-Indies,1803,Wells,,42.3554334,-71.060511,18.4,-75.0
+Fox,Boston,Liverpool,1803,Minns,,42.3554334,-71.060511,53.4071991,-2.99168
+Betsey,Havana,Boston,1803,Babbage,St. Ubes and Liverpool salt,23.135305,-82.3589631,42.3554334,-71.060511
+Hermon,Barbadoes,Boston,1803,Spaulding,,13.1500331,-59.5250305,42.3554334,-71.060511
+William,Martinique,Boston,1803,Obear,,14.6113732,-60.9620777,42.3554334,-71.060511
+Betsey,Halifax,Boston,1803,Kelly,,44.648618,-63.5859487,42.3554334,-71.060511
+Lorauza,Havana,Boston,1803,,,23.135305,-82.3589631,42.3554334,-71.060511
+William and Charles,Guadaloupe,Boston,1803,Soul,,26.9095819,-101.4333638,42.3554334,-71.060511
+Henry,Portland,Boston,1803,Alexander,,43.6573605,-70.2586618,42.3554334,-71.060511
+Olive,Portland,Boston,1803,Sturtevant,,43.6573605,-70.2586618,42.3554334,-71.060511
+Three Brothers,New York,Boston,1803,Haskell,,40.7127281,-74.0060152,42.3554334,-71.060511
+Portland Packet,Portland,Boston,1803,Thorlo,,43.6573605,-70.2586618,42.3554334,-71.060511
+Sea Nymph,Portland,Boston,1803,Blanchard,,43.6573605,-70.2586618,42.3554334,-71.060511
+John Adams,Boston,Liverpool,1803,Wood,,42.3554334,-71.060511,53.4071991,-2.99168
+Mary,Boston,West-Indies,1803,Glazier,,42.3554334,-71.060511,18.4,-75.0
+Minerva,Jamaica,New London,1803,,,18.1850507,-77.3947693,41.3556187,-72.0997804
+Jane,St. Croix,New London,1803,,,17.729124,-64.7589156,41.3556187,-72.0997804
+Charlotte,St. Croix,New York,1803,,,17.729124,-64.7589156,40.7127281,-74.0060152
+Barbara,Trinidad,New York,1803,,,10.4430243,-61.2613054,40.7127281,-74.0060152
+Susannah,Jamaica,New York,1803,,,18.1850507,-77.3947693,40.7127281,-74.0060152
+Amiable,New Orleans,New York,1803,Creole,,29.9759983,-90.0782127,40.7127281,-74.0060152
+Luna,Madeira,New York,1803,,,32.7517501,-16.9817487,40.7127281,-74.0060152
+Protestress,Liverpool,New York,1803,,,53.4071991,-2.99168,40.7127281,-74.0060152
+John,Charleston,New York,1803,Sheverick,,32.7884363,-79.9399309,40.7127281,-74.0060152
+Warren,Havana,Philadelphia,1803,,,23.135305,-82.3589631,39.9527237,-75.1635262
+Richmond,Lisbon,Philadelphia,1803,,,38.7077507,-9.1365919,39.9527237,-75.1635262
+[…],Lisbon,Baltimore,1803,Mason,,38.7077507,-9.1365919,39.2908816,-76.610759
+Washington,Lisbon,Norfolk,1803,Allen,,38.7077507,-9.1365919,36.8493695,-76.2899539
+Maria,Tobago,Norfolk,1803,Meeks,,11.2404615,-60.672006,36.8493695,-76.2899539
+Phoebo Ann,St. Thomas,Norfolk,1803,West,,18.3429081,-64.9188997,36.8493695,-76.2899539
+Diana,Cape Francoise,Norfolk,1803,Nichols,,19.7595236,-72.2008068,36.8493695,-76.2899539
+Old Tom,Philadelphia,Norfolk,1803,Powers,,39.9527237,-75.1635262,36.8493695,-76.2899539
+Pallas,Jamaica,Norfolk,1803,Frag,,18.1850507,-77.3947693,36.8493695,-76.2899539
+Hope,Guadaloupe,Norfolk,1803,Hoyt,,26.9095819,-101.4333638,36.8493695,-76.2899539
+Regolztor,Martinique,Norfolk,1803,Williams,,14.6113732,-60.9620777,36.8493695,-76.2899539
+Fanny,Cape Francoise,Norfolk,1803,Barack,,19.7595236,-72.2008068,36.8493695,-76.2899539
+Calisto,Cadiz,Norfolk,1803,Atkins,,36.5297438,-6.2928976,36.8493695,-76.2899539
+Carpenter,Liverpool,Norfolk,1803,Simpson,,53.4071991,-2.99168,36.8493695,-76.2899539
+Malvina,Liverpool,Norfolk,1803,Crab,,53.4071991,-2.99168,36.8493695,-76.2899539
+Lydia,Boston,Norfolk,1803,Lobdill,,42.3554334,-71.060511,36.8493695,-76.2899539
+Grand Sachem,New London,Norfolk,1803,Balles,,41.3556187,-72.0997804,36.8493695,-76.2899539
+Favourite,Bourdeaux,Norfolk,1803,Fryer,,44.5867879,5.1342966,36.8493695,-76.2899539
+Gurnern & Peggy,Havana,Norfolk,1803,,,23.135305,-82.3589631,36.8493695,-76.2899539
+Maria,St. Croix,Norfolk,1803,Lewis,,17.729124,-64.7589156,36.8493695,-76.2899539
+Julia,Cape Francoise,Norfolk,1803,Dabuee,,19.7595236,-72.2008068,36.8493695,-76.2899539
+Scipio,Liverpool,Norfolk,1803,Houston,,53.4071991,-2.99168,36.8493695,-76.2899539
+Octavia,Liverpool,Norfolk,1803,Keown,,53.4071991,-2.99168,36.8493695,-76.2899539
+Molly,Norfolk,Boston,1803,Eldridge,,36.8493695,-76.2899539,42.3554334,-71.060511
+Polly,Norfolk,Boston,1803,Crosby,,36.8493695,-76.2899539,42.3554334,-71.060511
+Venus,Norfolk,West-Indies,1803,Clark,,36.8493695,-76.2899539,18.4,-75.0
+Mary,Norfolk,Jamaica,1803,Young,,36.8493695,-76.2899539,18.1850507,-77.3947693
+William Davis,Norfolk,Lisbon,1803,Finney,,36.8493695,-76.2899539,38.7077507,-9.1365919
+Betsey & Jenny,Norfolk,Martinique,1803,Jameson,,36.8493695,-76.2899539,14.6113732,-60.9620777
+Dolphin,Norfolk,Boston,1803,Philips,,36.8493695,-76.2899539,42.3554334,-71.060511
+Betsy,Jamaica,Newbern,1803,Cox,,18.1850507,-77.3947693,36.1801885,-75.863769
+Nine Sisters,Jamaica,Newbern,1803,,,18.1850507,-77.3947693,36.1801885,-75.863769
+Cornelia,Havana,Savannah,1803,,,23.135305,-82.3589631,32.0790074,-81.0921335
+New Jersey,Savannah,Bourdeaux,1803,,,32.0790074,-81.0921335,44.5867879,5.1342966
+Heart of Oak,Cadiz,Boston,1803,Jackson,,36.5297438,-6.2928976,42.3554334,-71.060511
+San Thomas,Havana,Boston,1803,,"230 hhds. molasses, of the new crop; a few boxes white and brown Havanna sugar; 10 tons logwood",23.135305,-82.3589631,42.3554334,-71.060511
+Friendship,London,Boston,1803,Glover,,51.5074456,-0.1277653,42.3554334,-71.060511
+Venus,Windsor,Boston,1803,Haley,,42.2858536,-82.9780695,42.3554334,-71.060511
+Margery,Windsor,Boston,1803,Rider,,42.2858536,-82.9780695,42.3554334,-71.060511
+Orlando,Lisbon,Boston,1803,Sayward,,38.7077507,-9.1365919,42.3554334,-71.060511
+John Adams,Boston,Liverpool,1803,Wood,,42.3554334,-71.060511,53.4071991,-2.99168
+Swallow,Gloucester,Boston,1803,Millet,,51.8653705,-2.2458192,42.3554334,-71.060511
+Sally,Plymouth,Boston,1803,Robbins,,50.3714122,-4.1424451,42.3554334,-71.060511
+Columbia,Charleston,Boston,1803,Jenkins,,32.7884363,-79.9399309,42.3554334,-71.060511
+Hero,Baltimore,Boston,1803,Brayton,,39.2908816,-76.610759,42.3554334,-71.060511
+Ranger,Salem,Boston,1803,Byrne,,42.5195292,-70.8967226,42.3554334,-71.060511
+Peggy,Baltimore,Boston,1803,Curtis,,39.2908816,-76.610759,42.3554334,-71.060511
+Harriot,Baltimore,Boston,1803,Nash,,39.2908816,-76.610759,42.3554334,-71.060511
+Peggy,Gloucester,Boston,1803,Pelham,,51.8653705,-2.2458192,42.3554334,-71.060511
+Hunter,Portland,Boston,1803,Oxnard,,43.6573605,-70.2586618,42.3554334,-71.060511
+Thetis,New London,Boston,1803,Harris,,41.3556187,-72.0997804,42.3554334,-71.060511
+Minerva,Boston,Demerara,1803,Paine,,42.3554334,-71.060511,5.6294891,-58.3937764
+Harmony,Boston,West-Indies,1803,Adams,,42.3554334,-71.060511,18.4,-75.0
+William,Boston,West-Indies,1803,Pilsbury,,42.3554334,-71.060511,18.4,-75.0
+Patty,Boston,Guadaloupe,1803,Lewis,,42.3554334,-71.060511,26.9095819,-101.4333638
+Farmer,Wilmington,Boston,1803,,,39.7459468,-75.546589,42.3554334,-71.060511
+Harriet,Martinique,Salem,1803,,,14.6113732,-60.9620777,42.5195292,-70.8967226
+Caroline,Martinique,Plymouth,1803,Holmes,,14.6113732,-60.9620777,50.3714122,-4.1424451
+Aurora,Lisbon,Plymouth,1803,E. Finney,,38.7077507,-9.1365919,50.3714122,-4.1424451
+Betsey,Plymouth,West-Indies,1803,L. Lucas,,50.3714122,-4.1424451,18.4,-75.0
+Alert,Guadaloupe,Philadelphia,1803,,,26.9095819,-101.4333638,39.9527237,-75.1635262
+Hannah,Salem,Philadelphia,1803,,,42.5195292,-70.8967226,39.9527237,-75.1635262
+Isabella,St. Croix,Philadelphia,1803,,,17.729124,-64.7589156,39.9527237,-75.1635262
+Phebe,Jamaica,Newbern,1803,,,18.1850507,-77.3947693,36.1801885,-75.863769
+John Ellis,Barbadoes,Newbern,1803,,,13.1500331,-59.5250305,36.1801885,-75.863769
+United States,Liverpool,Alexandria,1803,,,53.4071991,-2.99168,31.1991806,29.8951716
+Hero,Liverpool,Alexandria,1803,,,53.4071991,-2.99168,31.1991806,29.8951716
+Evelina,Jamaica,Alexandria,1803,,,18.1850507,-77.3947693,31.1991806,29.8951716
+Glory,Alexandria,Barbadoes,1803,,,31.1991806,29.8951716,13.1500331,-59.5250305
+Sally,Windsor,Boston,1803,M'Gray,,42.2858536,-82.9780695,42.3554334,-71.060511
+John,Amsterdam,Boston,1803,,gin; linseed oil,52.3730796,4.8924534,42.3554334,-71.060511
+Mary,Rotterdam,Boston,1803,Hoyt,,51.9244424,4.47775,42.3554334,-71.060511
+Seine,Boston,Amsterdam,1803,Nichols,,42.3554334,-71.060511,52.3730796,4.8924534
+Venus,Boston,Windsor,1803,Haley,,42.3554334,-71.060511,42.2858536,-82.9780695
+Slep Sally,Boston,Windsor,1803,Magray,,42.3554334,-71.060511,42.2858536,-82.9780695
+Victory,Boston,Yarmouth,1803,Smith,,42.3554334,-71.060511,52.6071742,1.7314845
+William,Barbadoes,New London,1803,Forsyth,,13.1500331,-59.5250305,41.3556187,-72.0997804
+James,Barbadoes,New London,1803,Elmore,,13.1500331,-59.5250305,41.3556187,-72.0997804
+Ontario,St. Croix,New London,1803,Stillman,,17.729124,-64.7589156,41.3556187,-72.0997804
+Friendship,St. Croix,New York,1803,Goodrich,,17.729124,-64.7589156,40.7127281,-74.0060152
+Connecticut,Boston,Philadelphia,1803,Crosby,,42.3554334,-71.060511,39.9527237,-75.1635262
+Mac,Liverpool,Charleston,1803,,,53.4071991,-2.99168,32.7884363,-79.9399309
+Eleanor,Savannah,Boston,1803,Hodgkins,,32.0790074,-81.0921335,42.3554334,-71.060511
+Indru[…],Windsor,Boston,1803,Cook,,42.2858536,-82.9780695,42.3554334,-71.060511
+Eliza,Norfolk,Boston,1803,Doane,,36.8493695,-76.2899539,42.3554334,-71.060511
+Cook,Baltimore,Boston,1803,,,39.2908816,-76.610759,42.3554334,-71.060511
+Fairplay,Charleston,Boston,1803,,,32.7884363,-79.9399309,42.3554334,-71.060511
+Rebecca,Liverpool,Boston,1803,Folansbee,,53.4071991,-2.99168,42.3554334,-71.060511
+Galbraith,Jamaica,Boston,1803,Anderson,,18.1850507,-77.3947693,42.3554334,-71.060511
+Minerva,Richmond,Boston,1803,Lewis,,37.5385087,-77.43428,42.3554334,-71.060511
+Fairplay,Charleston,Boston,1803,Keen,,32.7884363,-79.9399309,42.3554334,-71.060511
+Sally,Salem,Boston,1803,Sbeban,,42.5195292,-70.8967226,42.3554334,-71.060511
+Favorite,Baltimore,Boston,1803,Culley,,39.2908816,-76.610759,42.3554334,-71.060511
+William,Portsmouth,Boston,1803,Morvell,,50.800031,-1.0906023,42.3554334,-71.060511
+Rover,Richmond,Boston,1803,Luce,,37.5385087,-77.43428,42.3554334,-71.060511
+Lucy,Philadelphia,Boston,1803,Saville,,39.9527237,-75.1635262,42.3554334,-71.060511
+Fancy,Plymouth,Boston,1803,Curtis,,50.3714122,-4.1424451,42.3554334,-71.060511
+Eliza Ann,New Haven,Boston,1803,Collis,,41.3082138,-72.9250518,42.3554334,-71.060511
+Friendship,Richmond,Boston,1803,Snow,"fresh superfine Galligo flour, from new wheat; Virginia coals; wheat bran",37.5385087,-77.43428,42.3554334,-71.060511
+Atlantic,Charleston,Boston,1803,West,,32.7884363,-79.9399309,42.3554334,-71.060511
+Hero,New York,Boston,1803,Robinson,,40.7127281,-74.0060152,42.3554334,-71.060511
+Eliza,Norfolk,Boston,1803,Dole,,36.8493695,-76.2899539,42.3554334,-71.060511
+Active,Philadelphia,Boston,1803,York,,39.9527237,-75.1635262,42.3554334,-71.060511
+Unicorn,Baltimore,Boston,1803,Cook,,39.2908816,-76.610759,42.3554334,-71.060511
+Industry,New York,Boston,1803,Collier,,40.7127281,-74.0060152,42.3554334,-71.060511
+Columbia,Baltimore,Boston,1803,Donnison,,39.2908816,-76.610759,42.3554334,-71.060511
+Success,New Haven,Boston,1803,Pardce,,41.3082138,-72.9250518,42.3554334,-71.060511
+Hero,New York,Boston,1803,Sampson,,40.7127281,-74.0060152,42.3554334,-71.060511
+Margery,Boston,Halifax,1803,Rider,,42.3554334,-71.060511,44.648618,-63.5859487
+Sally,Liverpool,New York,1803,,,53.4071991,-2.99168,40.7127281,-74.0060152
+Venus,St. Johns,New York,1803,,,56.6922843,-60.9373185,40.7127281,-74.0060152
+Aspasia,Trinidad,New York,1803,,,10.4430243,-61.2613054,40.7127281,-74.0060152
+Hector,Jamaica,New York,1803,,,18.1850507,-77.3947693,40.7127281,-74.0060152
+Pilgrim,Yarmouth,New York,1803,,,52.6071742,1.7314845,40.7127281,-74.0060152
+Abigail,Barbadoes,New York,1803,,,13.1500331,-59.5250305,40.7127281,-74.0060152
+Dispatch,Norfolk,New York,1803,Sharp,,36.8493695,-76.2899539,40.7127281,-74.0060152
+Draper,Greenock,New York,1803,,,55.9473423,-4.7564721,40.7127281,-74.0060152
+Rover (of Newburyport),New Orleans,New York,1803,,,29.9759983,-90.0782127,40.7127281,-74.0060152
+Ranger,Windsor,New York,1803,,,42.2858536,-82.9780695,40.7127281,-74.0060152
+Linne[…],St. Johns,New York,1803,,,56.6922843,-60.9373185,40.7127281,-74.0060152
+William,Halifax,New York,1803,,,44.648618,-63.5859487,40.7127281,-74.0060152
+Roebuck,Liverpool,Philadelphia,1803,,,53.4071991,-2.99168,39.9527237,-75.1635262
+Jane,Portland,Philadelphia,1803,,,43.6573605,-70.2586618,39.9527237,-75.1635262
+Aurora,Havana,Charleston,1803,,,23.135305,-82.3589631,32.7884363,-79.9399309
+Polly,Havana,Charleston,1803,,,23.135305,-82.3589631,32.7884363,-79.9399309
+Three Sisters,Charleston,Bourdeaux,1803,,,32.7884363,-79.9399309,44.5867879,5.1342966
+Isabella,London,Charleston,1803,Green,,51.5074456,-0.1277653,32.7884363,-79.9399309
+Diana & Fame,Greenock,Charleston,1803,,,55.9473423,-4.7564721,32.7884363,-79.9399309
+Two Friends,London,Charleston,1803,,,51.5074456,-0.1277653,32.7884363,-79.9399309
+Ir[…]elendo,London,Charleston,1803,,,51.5074456,-0.1277653,32.7884363,-79.9399309
+Tippoo Saib,London,Charleston,1803,,,51.5074456,-0.1277653,32.7884363,-79.9399309
+Mary Ann,Greenock,Charleston,1803,,,55.9473423,-4.7564721,32.7884363,-79.9399309
+Aurora,Havana,Charleston,1803,,,23.135305,-82.3589631,32.7884363,-79.9399309
+Federal,Cape Francoise,Charleston,1803,,,19.7595236,-72.2008068,32.7884363,-79.9399309
+Missisippi,Liverpool,Savannah,1803,,,53.4071991,-2.99168,32.0790074,-81.0921335
+Nercury,Amsterdam,Boston,1803,Porter,,52.3730796,4.8924534,42.3554334,-71.060511
+Nancies,London,Boston,1803,Howland,,51.5074456,-0.1277653,42.3554334,-71.060511
+Sally,Guadaloupe,Boston,1803,Rapall,120 hhds. molasses,26.9095819,-101.4333638,42.3554334,-71.060511
+Levant,Savannah,Boston,1803,Davidson,,32.0790074,-81.0921335,42.3554334,-71.060511
+hero,Charleston,Boston,1803,Nowell,,32.7884363,-79.9399309,42.3554334,-71.060511
+Mary,Lisbon,Boston,1803,Hills,,38.7077507,-9.1365919,42.3554334,-71.060511
+Little John,St. Croix,Boston,1803,Baker,,17.729124,-64.7589156,42.3554334,-71.060511
+Anna,Tobago,Boston,1803,Wyman,,11.2404615,-60.672006,42.3554334,-71.060511
+Thomas Jefferson,Trinidad,Boston,1803,Eliot,30 hhd. Trindard sugars; 10 hhd. Trindard molasses,10.4430243,-61.2613054,42.3554334,-71.060511
+Columbia,Lisbon,Boston,1803,Appleton,,38.7077507,-9.1365919,42.3554334,-71.060511
+Mary-Ann,Havana,Boston,1803,Rolando,,23.135305,-82.3589631,42.3554334,-71.060511
+Peace,Havana,Boston,1803,,200 hhds. Havana molasses,23.135305,-82.3589631,42.3554334,-71.060511
+Neptune,Havana,Boston,1803,,,23.135305,-82.3589631,42.3554334,-71.060511
+Columbia,Alexandria,Boston,1803,Howland,,31.1991806,29.8951716,42.3554334,-71.060511
+Union,Wilmington,Boston,1803,Chever,,39.7459468,-75.546589,42.3554334,-71.060511
+Gen. Know,Portland,Boston,1803,M' Lellan,,43.6573605,-70.2586618,42.3554334,-71.060511
+Dinah,Norfolk,Boston,1803,Buck,,36.8493695,-76.2899539,42.3554334,-71.060511
+Shepherdess,Charleston,Boston,1803,Swift,,32.7884363,-79.9399309,42.3554334,-71.060511
+Packet,Boston,Liverpool,1803,Trott,,42.3554334,-71.060511,53.4071991,-2.99168
+Hannah,Boston,Demerara,1803,Earley,,42.3554334,-71.060511,5.6294891,-58.3937764
+Saucy Jack,Boston,West-Indies,1803,Appleton,,42.3554334,-71.060511,18.4,-75.0
+Industry,Boston,Windsor,1803,Cook,,42.3554334,-71.060511,42.2858536,-82.9780695
+Sally and Betsey,Boston,West-Indies,1803,Ingersoll,,42.3554334,-71.060511,18.4,-75.0
+William-Davis,Norfolk,Plymouth,1803,Finney,,36.8493695,-76.2899539,50.3714122,-4.1424451
+Miles Standish,Plymouth,Lisbon,1803,S. Davie,,50.3714122,-4.1424451,38.7077507,-9.1365919
+Lucy,Plymouth,West-Indies,1803,E. Finney,,50.3714122,-4.1424451,18.4,-75.0
+Onion,Liverpool,New York,1803,,,53.4071991,-2.99168,40.7127281,-74.0060152
+Brothers,London,Philadelphia,1803,,,51.5074456,-0.1277653,39.9527237,-75.1635262
+Shepherdess,Boston,Baltimore,1803,,,42.3554334,-71.060511,39.2908816,-76.610759
+Venelia,Boston,Baltimore,1803,,,42.3554334,-71.060511,39.2908816,-76.610759
+Mary,St. Johns,Baltimore,1803,,,56.6922843,-60.9373185,39.2908816,-76.610759
+Rainbow,Windsor,Baltimore,1803,,,42.2858536,-82.9780695,39.2908816,-76.610759
+Joseph,Madeira,Charleston,1803,,,32.7517501,-16.9817487,32.7884363,-79.9399309
+Jane,Lisbon,Boston,1803,Lombard,,38.7077507,-9.1365919,42.3554334,-71.060511
+Two Brothers,Windsor,Boston,1803,Clements,,42.2858536,-82.9780695,42.3554334,-71.060511
+Betsey,Windsor,Boston,1803,Perry,150 bbls. Baltimore fine and superfine flour; 115 bbls. x brand flour,42.2858536,-82.9780695,42.3554334,-71.060511
+Armisted,New Orleans,Boston,1803,Pedro Gonzales Vilamil,,29.9759983,-90.0782127,42.3554334,-71.060511
+Ranger,Salem,Boston,1803,Byrne,,42.5195292,-70.8967226,42.3554334,-71.060511
+Caroline,Portsmouth,Boston,1803,Clark,,50.800031,-1.0906023,42.3554334,-71.060511
+Galen,Boston,London,1803,Hinckley,,42.3554334,-71.060511,51.5074456,-0.1277653
+St. Thomas,Boston,Havana,1803,Augere,,42.3554334,-71.060511,23.135305,-82.3589631
+Liberty,Boston,Tobago,1803,Thomas,,42.3554334,-71.060511,11.2404615,-60.672006
+Lanzarotte,Boston,Havana,1803,Gandulio,,42.3554334,-71.060511,23.135305,-82.3589631
+Dispatch,New York,Boston,1803,Marshall,,40.7127281,-74.0060152,42.3554334,-71.060511
+Ball[…],Jamaica,Norfolk,1803,Langdon,,18.1850507,-77.3947693,36.8493695,-76.2899539
+M[…],Norfolk,Tobago,1803,Bland,,36.8493695,-76.2899539,11.2404615,-60.672006
+Sally,Norfolk,Jamaica,1803,,,36.8493695,-76.2899539,18.1850507,-77.3947693
+Brutus,Liverpool,Boston,1803,Southworth,"a quantity Liverpool salt, of an excellent quality",53.4071991,-2.99168,42.3554334,-71.060511
+Dispatch,Savannah,Boston,1803,Adams,,32.0790074,-81.0921335,42.3554334,-71.060511
+Venus,Windsor,Boston,1803,,,42.2858536,-82.9780695,42.3554334,-71.060511
+Mahala,Windsor,Boston,1803,,,42.2858536,-82.9780695,42.3554334,-71.060511
+Julian,Jamaica,Boston,1803,Pike,,18.1850507,-77.3947693,42.3554334,-71.060511
+Harriot,Trinidad,Boston,1803,Rice,,10.4430243,-61.2613054,42.3554334,-71.060511
+President,Martinique,Boston,1803,Mead,,14.6113732,-60.9620777,42.3554334,-71.060511
+General Washington,Bourdeaux,Boston,1803,Roberts,,44.5867879,5.1342966,42.3554334,-71.060511
+Success,St. Croix,Boston,1803,Allen,,17.729124,-64.7589156,42.3554334,-71.060511
+Washington,Lisbon,Boston,1803,Davis,"150 boxes Lemons; a quantity of salt, with a few bags of feathers",38.7077507,-9.1365919,42.3554334,-71.060511
+Polly,Plymouth,Boston,1803,Holbrook,,50.3714122,-4.1424451,42.3554334,-71.060511
+Hazard,Alexandria,Boston,1803,Luce,,31.1991806,29.8951716,42.3554334,-71.060511
+Lydia,Richmond,Boston,1803,Lobdell,,37.5385087,-77.43428,42.3554334,-71.060511
+Mary,New Haven,Boston,1803,Nichols,,41.3082138,-72.9250518,42.3554334,-71.060511
+Swallow,Gloucester,Boston,1803,Millet,,51.8653705,-2.2458192,42.3554334,-71.060511
+Ethan Allen,Baltimore,Boston,1803,Copeland,,39.2908816,-76.610759,42.3554334,-71.060511
+friendship,Gloucester,Boston,1803,Story,,51.8653705,-2.2458192,42.3554334,-71.060511
+Rebecca,Baltimore,Boston,1803,Ois,,39.2908816,-76.610759,42.3554334,-71.060511
+Madison,Boston,Havana,1803,Russell,,42.3554334,-71.060511,23.135305,-82.3589631
+Two Brothers,Boston,Windsor,1803,Clements,,42.3554334,-71.060511,42.2858536,-82.9780695
+Rambler,Boston,Amsterdam,1803,Hills,,42.3554334,-71.060511,52.3730796,4.8924534
+betsey,Boston,Windsor,1803,Party,,42.3554334,-71.060511,42.2858536,-82.9780695
+Nancy,St. Thomas,Salem,1803,Williams,,18.3429081,-64.9188997,42.5195292,-70.8967226
+Freedom,Lisbon,Salem,1803,Keith,,38.7077507,-9.1365919,42.5195292,-70.8967226
+Nancy,Guadaloupe,Gloucester,1803,Babson,,26.9095819,-101.4333638,51.8653705,-2.2458192
+Fame,Guadaloupe,Gloucester,1803,Knights,,26.9095819,-101.4333638,51.8653705,-2.2458192
+Two Brothers,St. Croix,Boston,1803,Wheelwright,,17.729124,-64.7589156,42.3554334,-71.060511
+Mary,Martinique,Boston,1803,Freeman,,14.6113732,-60.9620777,42.3554334,-71.060511
+Paulina,Trinidad,Boston,1803,Googins,53 hhds. sugar; 14 hhds. molasses,10.4430243,-61.2613054,42.3554334,-71.060511
+Francis and Eliza,Cape Francoise,Boston,1803,Sprague,,19.7595236,-72.2008068,42.3554334,-71.060511
+Jeremiah,Martinique,Boston,1803,M' Cumber,,14.6113732,-60.9620777,42.3554334,-71.060511
+Superb,Liverpool,Boston,1803,Hammond,,53.4071991,-2.99168,42.3554334,-71.060511
+Orange,Windsor,Boston,1803,Hobbs,,42.2858536,-82.9780695,42.3554334,-71.060511
+Sally,Windsor,Boston,1803,M' Gray,,42.2858536,-82.9780695,42.3554334,-71.060511
+Nancy,Liverpool,Boston,1803,Ward,,53.4071991,-2.99168,42.3554334,-71.060511
+Mary,Halifax,Boston,1803,Huxford,,44.648618,-63.5859487,42.3554334,-71.060511
+Joseph and Lois,Windsor,Boston,1803,Bane,,42.2858536,-82.9780695,42.3554334,-71.060511
+St. John the Baptist,Havana,Boston,1803,,315 hogsheads molasses,23.135305,-82.3589631,42.3554334,-71.060511
+Paragou,Havana,Boston,1803,Weaver,,23.135305,-82.3589631,42.3554334,-71.060511
+Two Pollys,Alexandria,Boston,1803,M Lauthlen,,31.1991806,29.8951716,42.3554334,-71.060511
+Mary Ann,Baltimore,Boston,1803,Edmunds,,39.2908816,-76.610759,42.3554334,-71.060511
+Almira,Norfolk,Boston,1803,Tibbets,,36.8493695,-76.2899539,42.3554334,-71.060511
+Sally,Alexandria,Boston,1803,Baxter,,31.1991806,29.8951716,42.3554334,-71.060511
+Polly,Baltimore,Boston,1803,Smith,,39.2908816,-76.610759,42.3554334,-71.060511
+Fox,Gloucester,Boston,1803,Cox,,51.8653705,-2.2458192,42.3554334,-71.060511
+Harmony,Alexandria,Boston,1803,Toby,,31.1991806,29.8951716,42.3554334,-71.060511
+Doris,Boston,Martinique,1803,Eldridge,,42.3554334,-71.060511,14.6113732,-60.9620777
+Venus,Boston,Windsor,1803,Haley,,42.3554334,-71.060511,42.2858536,-82.9780695
+Sally,Boston,Windsor,1803,Magray,,42.3554334,-71.060511,42.2858536,-82.9780695
+Dolphin,St. Croix,Philadelphia,1803,Mitchell,,17.729124,-64.7589156,39.9527237,-75.1635262
+Argo,Barbadoes,Philadelphia,1803,White,,13.1500331,-59.5250305,39.9527237,-75.1635262
+Industry,St. Croix,Philadelphia,1803,Green,,17.729124,-64.7589156,39.9527237,-75.1635262
+Belisarius,Philadelphia,Boston,1803,Colby,,39.9527237,-75.1635262,42.3554334,-71.060511
+Mercury,New Orleans,Wilmington,1803,Teal,,29.9759983,-90.0782127,39.7459468,-75.546589
+Concord,St. Croix,Wilmington,1803,Sharp,,17.729124,-64.7589156,39.7459468,-75.546589
+St. Domingo Packet,St. Croix,Wilmington,1803,Decosta,,17.729124,-64.7589156,39.7459468,-75.546589
+Rose,Jamaica,Boston,1803,Clark,,18.1850507,-77.3947693,42.3554334,-71.060511
+Cryus Dagget,Jamaica,Boston,1803,,,18.1850507,-77.3947693,42.3554334,-71.060511
+Mary,Tobago,Boston,1803,Tabor,,11.2404615,-60.672006,42.3554334,-71.060511
+Salem,Havana,Boston,1803,Nickerson,,23.135305,-82.3589631,42.3554334,-71.060511
+Dolphin,Gloucester,Boston,1803,Tucker,,51.8653705,-2.2458192,42.3554334,-71.060511
+Rambler,Savannah,Boston,1803,Pitcher,,32.0790074,-81.0921335,42.3554334,-71.060511
+Genknox,Portland,Boston,1803,M' Lellan,,43.6573605,-70.2586618,42.3554334,-71.060511
+Sally,Salem,Boston,1803,Shehan,,42.5195292,-70.8967226,42.3554334,-71.060511
+Hope,Portsmouth,Boston,1803,Huntress,,50.800031,-1.0906023,42.3554334,-71.060511
+Geo. Washington,New York,Boston,1803,Sturgis,,40.7127281,-74.0060152,42.3554334,-71.060511
+Mercury,Charleston,Boston,1803,Wicks,,32.7884363,-79.9399309,42.3554334,-71.060511
+Minerva,Boston,London,1803,Clement,,42.3554334,-71.060511,51.5074456,-0.1277653
+Sally,Boston,West-Indies,1803,Shute,,42.3554334,-71.060511,18.4,-75.0
+Anne,Boston,Martinique,1803,Wyman,,42.3554334,-71.060511,14.6113732,-60.9620777
+Vandyck,Boston,Martinique,1803,Adamson,,42.3554334,-71.060511,14.6113732,-60.9620777
+Adventure,Boston,Halifax,1803,Frost,,42.3554334,-71.060511,44.648618,-63.5859487
+Orange,Boston,Windsor,1803,Hobs,,42.3554334,-71.060511,42.2858536,-82.9780695
+George,New Bedford,New York,1803,Taber,,41.6362152,-70.934205,40.7127281,-74.0060152
+Milford,St. Croix,Philadelphia,1803,Oliver,,17.729124,-64.7589156,39.9527237,-75.1635262
+Neptune,Jamaica,Philadelphia,1803,,,18.1850507,-77.3947693,39.9527237,-75.1635262
+Sukey,New Orleans,Philadelphia,1803,Lewis,,29.9759983,-90.0782127,39.9527237,-75.1635262
+Adventure,New Orleans,Philadelphia,1803,,,29.9759983,-90.0782127,39.9527237,-75.1635262
+Active,Philadelphia,Boston,1803,Lewis,,39.9527237,-75.1635262,42.3554334,-71.060511
+Petaplco,Amsterdam,Baltimore,1803,Mezick,,52.3730796,4.8924534,39.2908816,-76.610759
+Diand,Amsterdam,Baltimore,1803,Adams,,52.3730796,4.8924534,39.2908816,-76.610759
+Sally,Amsterdam,Baltimore,1803,Mull,,52.3730796,4.8924534,39.2908816,-76.610759
+Fame,Norfolk,Barbadoes,1803,Drummond,,36.8493695,-76.2899539,13.1500331,-59.5250305
+Rutus,Liverpool,Savannah,1803,[…]land,,53.4071991,-2.99168,32.0790074,-81.0921335
+Beaver,Jamaica,Savannah,1803,Lithgow,,18.1850507,-77.3947693,32.0790074,-81.0921335
+Little Sally,Havana,Savannah,1803,Allen,,23.135305,-82.3589631,32.0790074,-81.0921335
+Parragon,Jamaica,Savannah,1803,Wattles,,18.1850507,-77.3947693,32.0790074,-81.0921335
+Maria R[…]mdel,Martinique,Savannah,1803,,,14.6113732,-60.9620777,32.0790074,-81.0921335
+Oliver,Savannah,Liverpool,1803,[…]tan,,32.0790074,-81.0921335,53.4071991,-2.99168
+Diana,Liverpool,Boston,1803,Noble,salt,53.4071991,-2.99168,42.3554334,-71.060511
+Sally,St. Johns,Boston,1803,Jacksen,,56.6922843,-60.9373185,42.3554334,-71.060511
+Fancy,Windsor,Boston,1803,Finch,,42.2858536,-82.9780695,42.3554334,-71.060511
+Snake,St. Johns,Boston,1803,Cochran,,56.6922843,-60.9373185,42.3554334,-71.060511
+Betsey,Tobago,Boston,1803,Kempton,70 hhds. Tobago rum,11.2404615,-60.672006,42.3554334,-71.060511
+Joseph and Lois,Boston,Yarmouth,1803,Bain,,42.3554334,-71.060511,52.6071742,1.7314845
+Phenix,Boston,West-Indies,1803,Kingsbury,,42.3554334,-71.060511,18.4,-75.0
+Mary,New Bedford,New York,1803,Robinson,,41.6362152,-70.934205,40.7127281,-74.0060152
+Lark,Havana,Philadelphia,1803,Helms,,23.135305,-82.3589631,39.9527237,-75.1635262
+Gardner,London,Norfolk,1803,Charlton,,51.5074456,-0.1277653,36.8493695,-76.2899539
+Aurora,Charleston,Bourdeaux,1803,Jewey,,32.7884363,-79.9399309,44.5867879,5.1342966
+Virginia,Cape Francoise,Savannah,1803,,,19.7595236,-72.2008068,32.0790074,-81.0921335
+Minerva,Savannah,Liverpool,1803,,,32.0790074,-81.0921335,53.4071991,-2.99168
+Recompence,Havana,Boston,1803,Marietta,,23.135305,-82.3589631,42.3554334,-71.060511
+Peggy,Liverpool,Boston,1803,Small,salt,53.4071991,-2.99168,42.3554334,-71.060511
+Mahala Windsor,Liverpool,Boston,1803,Windsor,salt,53.4071991,-2.99168,42.3554334,-71.060511
+Mary,Cadiz,Boston,1803,Hill,,36.5297438,-6.2928976,42.3554334,-71.060511
+Two Sisters,Martinico,Boston,1803,Bruce,,46.1244198,9.2770489,42.3554334,-71.060511
+Farmer,Havana,Boston,1803,Brinley,50 boxes brown sugar; 25 boxes white sugar; 100 hhds. molasses; 2 hhds. honey; 30 demijohns honey small quantity; Gutalmala indigo,23.135305,-82.3589631,42.3554334,-71.060511
+Tarantula,Demerara,Boston,1803,Taylor,rum,5.6294891,-58.3937764,42.3554334,-71.060511
+Deborah,Windsor,Boston,1803,Baker,,42.2858536,-82.9780695,42.3554334,-71.060511
+Sally and Lois,Yarmouth,Boston,1803,Byrne,,52.6071742,1.7314845,42.3554334,-71.060511
+Two Sisters,Yarmouth,Boston,1803,Perry,,52.6071742,1.7314845,42.3554334,-71.060511
+Almira,Richmond,Boston,1803,Mann,,37.5385087,-77.43428,42.3554334,-71.060511
+Hawk,Philadelphia,Boston,1803,Starbuck,,39.9527237,-75.1635262,42.3554334,-71.060511
+Hunter,New Bedford,Boston,1803,Howards,,41.6362152,-70.934205,42.3554334,-71.060511
+Warrington,Boston,Liverpool,1803,Turner,,42.3554334,-71.060511,53.4071991,-2.99168
+Amazon,Boston,Havana,1803,Bareono,,42.3554334,-71.060511,23.135305,-82.3589631
+Little-John,Boston,West-Indies,1803,Barker,,42.3554334,-71.060511,18.4,-75.0
+Industry,Guadaloupe,Salem,1803,Cook,,26.9095819,-101.4333638,42.5195292,-70.8967226
+Rover,St. Thomas,Newbern,1803,Hardy,,18.3429081,-64.9188997,36.1801885,-75.863769
+Essequibo Packet,Guadaloupe,Newbern,1803,Doliver,,26.9095819,-101.4333638,36.1801885,-75.863769
+William,St. Croix,New York,1803,Thompson,,17.729124,-64.7589156,40.7127281,-74.0060152
+Nancy,New Bedford,New York,1803,Delano,,41.6362152,-70.934205,40.7127281,-74.0060152
+Jane,Wilmington,Portland,1803,York,,39.7459468,-75.546589,43.6573605,-70.2586618
+Sophia,Cape Francoise,Baltimore,1803,,,19.7595236,-72.2008068,39.2908816,-76.610759
+Industry,Martinico,Boston,1803,Crowell,,46.1244198,9.2770489,42.3554334,-71.060511
+Favourite,Baltimore,Boston,1803,Cu[…]ey,,39.2908816,-76.610759,42.3554334,-71.060511
+Sea Flower,Charleston,Boston,1803,Cottle,,32.7884363,-79.9399309,42.3554334,-71.060511
+Yankee,New York,Boston,1803,Chapman,,40.7127281,-74.0060152,42.3554334,-71.060511
+President Packet,New York,Boston,1803,Lincoln,,40.7127281,-74.0060152,42.3554334,-71.060511
+Pallas,Boston,West-Indies,1803,Merchant,,42.3554334,-71.060511,18.4,-75.0
+Sally,Boston,St. Johns,1803,Johnson,,42.3554334,-71.060511,56.6922843,-60.9373185
+Sally,Boston,West-Indies,1803,Harris,,42.3554334,-71.060511,18.4,-75.0
+James,Boston,Halifax,1803,Fanning,,42.3554334,-71.060511,44.648618,-63.5859487
+Jane,Boston,Lisbon,1803,Lumbard,,42.3554334,-71.060511,38.7077507,-9.1365919
+Thomas,Boston,West-Indies,1803,C[…]aes,,42.3554334,-71.060511,18.4,-75.0
+Fanny,Boston,St. Johns,1803,Leavitt,,42.3554334,-71.060511,56.6922843,-60.9373185
+Martha Washington,St. Croix,New York,1803,Ferrell,,17.729124,-64.7589156,40.7127281,-74.0060152
+Rambler,Guadaloupe,New York,1803,Jefferson,,26.9095819,-101.4333638,40.7127281,-74.0060152
+Weazle,Halifax,New York,1803,Harnes,,44.648618,-63.5859487,40.7127281,-74.0060152
+Sally,Jamaica,New York,1803,Williams,,18.1850507,-77.3947693,40.7127281,-74.0060152
+Mediterranean,St. Johns,New York,1803,Wood,,56.6922843,-60.9373185,40.7127281,-74.0060152
+Swallow,Windsor,New York,1803,Clo[…],,42.2858536,-82.9780695,40.7127281,-74.0060152
+Ranger,Boston,Philadelphia,1803,Lincoln,,42.3554334,-71.060511,39.9527237,-75.1635262
+Traveller,Amsterdam,Philadelphia,1803,,,52.3730796,4.8924534,39.9527237,-75.1635262
+Eagle,Barbadoes,Wilmington,1803,Miller,,13.1500331,-59.5250305,39.7459468,-75.546589
+President,Demerara,Alexandria,1803,Black,,5.6294891,-58.3937764,31.1991806,29.8951716
+Rebecca,Portsmouth,Alexandria,1803,M' Clintock,,50.800031,-1.0906023,31.1991806,29.8951716
+Victory,St. Thomas,Alexandria,1803,Silvester,,18.3429081,-64.9188997,31.1991806,29.8951716
+Diana,Alexandria,Guadaloupe,1803,Lewis,,31.1991806,29.8951716,26.9095819,-101.4333638
+Betsey,Alexandria,Barbadoes,1803,M' Kenzie,,31.1991806,29.8951716,13.1500331,-59.5250305
+Increase,Alexandria,Boston,1803,Hali,,31.1991806,29.8951716,42.3554334,-71.060511
+Aurora,Salem,Savannah,1803,Putnam,,42.5195292,-70.8967226,32.0790074,-81.0921335
+Sally,Havana,Savannah,1803,Tatem,,23.135305,-82.3589631,32.0790074,-81.0921335
+Pilgrim,Yarmouth,Boston,1803,Parry,,52.6071742,1.7314845,42.3554334,-71.060511
+Betsey,Windsor,Boston,1803,Perry,,42.2858536,-82.9780695,42.3554334,-71.060511
+Union,Windsor,Boston,1803,Gould,,42.2858536,-82.9780695,42.3554334,-71.060511
+William,Martinique,Boston,1803,Pi[…]bury,250 bbls. rye flour; 1000 bushels yellow southern corn,14.6113732,-60.9620777,42.3554334,-71.060511
+Mary and Elixa,St. Thomas,Boston,1803,Pratt,,18.3429081,-64.9188997,42.3554334,-71.060511
+Two Brothers,Windsor,Boston,1803,Clements,,42.2858536,-82.9780695,42.3554334,-71.060511
+Hero,New York,Boston,1803,Sampson,,40.7127281,-74.0060152,42.3554334,-71.060511
+Rising Sun,Norfolk,Boston,1803,Howes,,36.8493695,-76.2899539,42.3554334,-71.060511
+Four Sisters,Boston,Tobago,1803,Whi[…],,42.3554334,-71.060511,11.2404615,-60.672006
+Peace,Boston,Havana,1803,Delgardo,,42.3554334,-71.060511,23.135305,-82.3589631
+Neptune,Boston,Havana,1803,Callesa,,42.3554334,-71.060511,23.135305,-82.3589631
+John,Havana,Salem,1803,Harris,,23.135305,-82.3589631,42.5195292,-70.8967226
+Roborens,Havana,Salem,1803,Darling,,23.135305,-82.3589631,42.5195292,-70.8967226
+Charming Nancy,Lisbon,Gloucester,1803,Woodbury,,38.7077507,-9.1365919,51.8653705,-2.2458192
+Betsey,Halifax,New York,1803,Kelley,,44.648618,-63.5859487,40.7127281,-74.0060152
+Charlotte,Halifax,New York,1803,Augusta,,44.648618,-63.5859487,40.7127281,-74.0060152
+Orange,Guadaloupe,Philadelphia,1803,Henry,,26.9095819,-101.4333638,39.9527237,-75.1635262
+Venus,Havana,Baltimore,1803,,,23.135305,-82.3589631,39.2908816,-76.610759
+[…]melinda,Charleston,Liverpool,1803,,,32.7884363,-79.9399309,53.4071991,-2.99168
+Norfolk,Charleston,Madeira,1803,,,32.7884363,-79.9399309,32.7517501,-16.9817487
+Mayflower,Charleston,Cape Francoise,1803,,,32.7884363,-79.9399309,19.7595236,-72.2008068
+Volant,Charleston,Liverpool,1803,,,32.7884363,-79.9399309,53.4071991,-2.99168
+Delight,Charleston,St. Thomas,1803,,,32.7884363,-79.9399309,18.3429081,-64.9188997
+Maria,Barbadoes,Newbern,1803,Hunt,,13.1500331,-59.5250305,36.1801885,-75.863769
+La Fortune,St. Thomas,Newbern,1803,Stoeum,,18.3429081,-64.9188997,36.1801885,-75.863769
+Little Frank,Trinidad,Newbern,1803,,,10.4430243,-61.2613054,36.1801885,-75.863769
+Atlantic,Jamaica,Savannah,1803,Walker,,18.1850507,-77.3947693,32.0790074,-81.0921335
+Favorites,St. Croix,Boston,1803,Twicross,,17.729124,-64.7589156,42.3554334,-71.060511
+Nautilus,St. Croix,Boston,1803,French,,17.729124,-64.7589156,42.3554334,-71.060511
+Fame,Bourdeaux,Boston,1803,Avery,,44.5867879,5.1342966,42.3554334,-71.060511
+Two Pollys,Boston,Liverpool,1803,Mc' Langhton,,42.3554334,-71.060511,53.4071991,-2.99168
+Hiram,Boston,West-Indies,1803,Chase,,42.3554334,-71.060511,18.4,-75.0
+Betsey,Boston,Yarmouth,1803,Perry,,42.3554334,-71.060511,52.6071742,1.7314845
+Snake,Boston,St. Johns,1803,Cochran,,42.3554334,-71.060511,56.6922843,-60.9373185
+Orion,St. Thomas,New Haven,1803,Lines,,18.3429081,-64.9188997,41.3082138,-72.9250518
+Almira,New Haven,West-Indies,1803,Smith,,41.3082138,-72.9250518,18.4,-75.0
+Juno,New Haven,West-Indies,1803,Griffing,,41.3082138,-72.9250518,18.4,-75.0
+Joseph,Martinique,New York,1803,,,14.6113732,-60.9620777,40.7127281,-74.0060152
+Franklin,Boston,New York,1803,Hallet,,42.3554334,-71.060511,40.7127281,-74.0060152
+Eagle,Wilmington,Barbadoes,1803,Miller,,39.7459468,-75.546589,13.1500331,-59.5250305
+Mercury,Wilmington,Barbadoes,1803,Teel,,39.7459468,-75.546589,13.1500331,-59.5250305
+Bachus,Rotterdam,Baltimore,1803,Davy,,51.9244424,4.47775,39.2908816,-76.610759
+Redress,Rotterdam,Baltimore,1803,Nants,,51.9244424,4.47775,39.2908816,-76.610759
+Two Brothers,Martinique,Baltimore,1803,Belt,,14.6113732,-60.9620777,39.2908816,-76.610759
+Six Sisters,Liverpool,Baltimore,1803,Goteu,,53.4071991,-2.99168,39.2908816,-76.610759
+Catharine,Baltimore,Martinique,1803,Cheever,,39.2908816,-76.610759,14.6113732,-60.9620777
+Charlotte,Baltimore,Trinidad,1803,Alverson,,39.2908816,-76.610759,10.4430243,-61.2613054
+Anna Margaret,St. Thomas,Charleston,1803,Jones,,18.3429081,-64.9188997,32.7884363,-79.9399309
+Eleanor,Boston,Savannah,1803,,,42.3554334,-71.060511,32.0790074,-81.0921335
+Rusus,Savannah,Liverpool,1803,,,32.0790074,-81.0921335,53.4071991,-2.99168
+Unanimil,Cadiz,Boston,1803,Hastings,,36.5297438,-6.2928976,42.3554334,-71.060511
+Hope,Liverpool,Boston,1803,Ripley,salt,53.4071991,-2.99168,42.3554334,-71.060511
+Swan,Halifax,Boston,1803,Myres,fish,44.648618,-63.5859487,42.3554334,-71.060511
+Orange,Windsor,Boston,1803,Hodge,plaister,42.2858536,-82.9780695,42.3554334,-71.060511
+Libra,Havana,Boston,1803,Perkins,150 hhds. molasses,23.135305,-82.3589631,42.3554334,-71.060511
+Rebecca,Boston,Amsterdam,1803,Pollansbee,,42.3554334,-71.060511,52.3730796,4.8924534
+Lucy,Boston,Amsterdam,1803,Johnson,,42.3554334,-71.060511,52.3730796,4.8924534
+Two Brothers,Boston,West-Indies,1803,Stoddard,,42.3554334,-71.060511,18.4,-75.0
+Pilgrim,Boston,Yarmouth,1803,Perry,,42.3554334,-71.060511,52.6071742,1.7314845
+Two Sisters,Boston,Yarmouth,1803,Parry,,42.3554334,-71.060511,52.6071742,1.7314845
+Two Brothers,Boston,Yarmouth,1803,Clements,,42.3554334,-71.060511,52.6071742,1.7314845
+Sally and Lois,Boston,Yarmouth,1803,Byrn,,42.3554334,-71.060511,52.6071742,1.7314845
+Quaker,Boston,St. Johns,1803,Rice,,42.3554334,-71.060511,56.6922843,-60.9373185
+Lydia,Boston,West-Indies,1803,Smith,,42.3554334,-71.060511,18.4,-75.0
+Federalist,Cadiz,Plymouth,1803,Bartlett,,36.5297438,-6.2928976,50.3714122,-4.1424451
+James,Liverpool,Boston,1803,Parsons,400 hhds. coarse Liverpool salt; 50 bags best blown salt; 9 tons coals; crates,53.4071991,-2.99168,42.3554334,-71.060511
+Mary,St. Johns,Boston,1803,Lovett,plaister,56.6922843,-60.9373185,42.3554334,-71.060511
+Laura,Trinidad,Boston,1803,Tresethen,50 hhds. first quality Trindard sugars; 4 puncheons rum; 2 hhds. molasses,10.4430243,-61.2613054,42.3554334,-71.060511
+Sally,St. Johns,Boston,1803,Johnson,plaister,56.6922843,-60.9373185,42.3554334,-71.060511
+Fair Trader,Lisbon,Boston,1803,Doggett,400 hhds. Lisbon salt,38.7077507,-9.1365919,42.3554334,-71.060511
+Hannah,Philadelphia,Boston,1803,Sturdivant,,39.9527237,-75.1635262,42.3554334,-71.060511
+Deborah,New York,Boston,1803,,,40.7127281,-74.0060152,42.3554334,-71.060511
+Deborah,Portsmouth,Boston,1803,Tirell,,50.800031,-1.0906023,42.3554334,-71.060511
+White-Oak,Boston,West-Indies,1803,Sigourney,,42.3554334,-71.060511,18.4,-75.0
+William,Boston,West-Indies,1803,Newhall,,42.3554334,-71.060511,18.4,-75.0
+Union,Boston,Windsor,1803,Goold,,42.3554334,-71.060511,42.2858536,-82.9780695
+Margery,Boston,Halifax,1803,Rider,,42.3554334,-71.060511,44.648618,-63.5859487
+Orange,Boston,Windsor,1803,Hobbs,,42.3554334,-71.060511,42.2858536,-82.9780695
+William and Charles,Boston,West-Indies,1803,Soul,,42.3554334,-71.060511,18.4,-75.0
+Swanwick,Lisbon,Wilmington,1803,Hamilton,,38.7077507,-9.1365919,39.7459468,-75.546589
+Eliza,Wilmington,Martinique,1803,Davidson,,39.7459468,-75.546589,14.6113732,-60.9620777
+Americans,St. Croix,Philadelphia,1803,,,17.729124,-64.7589156,39.9527237,-75.1635262
+Bourdeax Packet,Philadelphia,Bourdeaux,1803,Jacobs,,39.9527237,-75.1635262,44.5867879,5.1342966
+Shepherdess,Boston,Charleston,1803,Swift,,42.3554334,-71.060511,32.7884363,-79.9399309
+Julian,Trinidad,Charleston,1803,Jenkins,,10.4430243,-61.2613054,32.7884363,-79.9399309
+Susannal,Greenock,Charleston,1803,Walker,,55.9473423,-4.7564721,32.7884363,-79.9399309
+Gen. Walterstoff,Charleston,St. Thomas,1803,Jones,,32.7884363,-79.9399309,18.3429081,-64.9188997
+Betsey,Liverpool,Boston,1803,Joy,500 hhds. blown salt; a few crates of ware; a quantity of sea coals,53.4071991,-2.99168,42.3554334,-71.060511
+Rover,Martinico,Boston,1803,Hayt,molasses,46.1244198,9.2770489,42.3554334,-71.060511
+Levant,Savannah,Boston,1803,Davidson,,32.0790074,-81.0921335,42.3554334,-71.060511
+Sally,Boston,Rotterdam,1803,Benuet,,42.3554334,-71.060511,51.9244424,4.47775
+New-Haven,New Haven,Trinidad,1803,Benham,,41.3082138,-72.9250518,10.4430243,-61.2613054
+Galen,New Haven,Martinique,1803,Clarke,,41.3082138,-72.9250518,14.6113732,-60.9620777
+Harriot,New Haven,New Haven,1803,Forbes,,41.3082138,-72.9250518,41.3082138,-72.9250518
+William,New Haven,New Haven,1803,Peck,,41.3082138,-72.9250518,41.3082138,-72.9250518
+Sally,New Haven,New Haven,1803,Beard,,41.3082138,-72.9250518,41.3082138,-72.9250518
+Mercury,New Haven,West-Indies,1803,Harrison,,41.3082138,-72.9250518,18.4,-75.0
+Volunteer,Boston,Philadelphia,1803,Bosworth,,42.3554334,-71.060511,39.9527237,-75.1635262
+Eliza and Sarah,Philadelphia,Philadelphia,1803,Whitehead,,39.9527237,-75.1635262,39.9527237,-75.1635262
+Lark,Philadelphia,St. Thomas,1803,Brown,,39.9527237,-75.1635262,18.3429081,-64.9188997
+Ruby,St. Thomas,Baltimore,1803,Sorenson,,18.3429081,-64.9188997,39.2908816,-76.610759
+Edward,Guadaloupe,Baltimore,1803,Nowell,,26.9095819,-101.4333638,39.2908816,-76.610759
+La Pourroyeuse,Cape Francoise,Baltimore,1803,Volance,,19.7595236,-72.2008068,39.2908816,-76.610759
+Eliza,Barbadoes,Baltimore,1803,Fergulon,,13.1500331,-59.5250305,39.2908816,-76.610759
+George,Baltimore,Boston,1803,Worth,,39.2908816,-76.610759,42.3554334,-71.060511
+Gladiator,Newbern,Boston,1803,Holbrook,,36.1801885,-75.863769,42.3554334,-71.060511
+Commerce,Cadiz,Charleston,1803,O' Driscol,,36.5297438,-6.2928976,32.7884363,-79.9399309
+Beaver,Savannah,Greenock,1803,Stephenson,,32.0790074,-81.0921335,55.9473423,-4.7564721
+Polly,Liverpool,Boston,1803,Willison,600 hhds. coarse Liverpool salt,53.4071991,-2.99168,42.3554334,-71.060511
+Vulture,Guadaloupe,Boston,1803,Hammond,,26.9095819,-101.4333638,42.3554334,-71.060511
+Hannah,Guadaloupe,Boston,1803,Tyler,,26.9095819,-101.4333638,42.3554334,-71.060511
+Arenah,Norfolk,Boston,1803,Haskell,,36.8493695,-76.2899539,42.3554334,-71.060511
+Lydia,Salem,Boston,1803,Purbeck,,42.5195292,-70.8967226,42.3554334,-71.060511
+Hero,Baltimore,Boston,1803,Brayton,,39.2908816,-76.610759,42.3554334,-71.060511
+Two Sisters,Boston,Barbadoes,1803,Bruce,,42.3554334,-71.060511,13.1500331,-59.5250305
+Mary,Boston,St. Johns,1803,Lovett,,42.3554334,-71.060511,56.6922843,-60.9373185
+Mary,Boston,West-Indies,1803,Keese,,42.3554334,-71.060511,18.4,-75.0
+Sally,Boston,St. Johns,1803,Johnson,,42.3554334,-71.060511,56.6922843,-60.9373185
+Harriet,Boston,West-Indies,1803,Marshall,,42.3554334,-71.060511,18.4,-75.0
+Favourite,Boston,St. Croix,1803,Curtis,,42.3554334,-71.060511,17.729124,-64.7589156
+Success,Boston,Windsor,1803,Ross,,42.3554334,-71.060511,42.2858536,-82.9780695
+Industry,Boston,Windsor,1803,Cook,,42.3554334,-71.060511,42.2858536,-82.9780695
+Polly,Boston,St. Johns,1803,Farris,,42.3554334,-71.060511,56.6922843,-60.9373185
+Independence,Guadaloupe,New York,1803,Scott,,26.9095819,-101.4333638,40.7127281,-74.0060152
+President,Madeira,New York,1803,Paddock,,32.7517501,-16.9817487,40.7127281,-74.0060152
+Favorite,St. Thomas,New York,1803,Foster,,18.3429081,-64.9188997,40.7127281,-74.0060152
+Retrieve,Portland,New York,1803,Greely,,43.6573605,-70.2586618,40.7127281,-74.0060152
+Victory,Cape Francoise,New York,1803,Morel,,19.7595236,-72.2008068,40.7127281,-74.0060152
+William,Philadelphia,Philadelphia,1803,,,39.9527237,-75.1635262,39.9527237,-75.1635262
+Frederick William,Philadelphia,Philadelphia,1803,,,39.9527237,-75.1635262,39.9527237,-75.1635262
+Mary,Trinidad,Philadelphia,1803,Latsmer,,10.4430243,-61.2613054,39.9527237,-75.1635262
+Olive Branch,St. Croix,Philadelphia,1803,Branch,,17.729124,-64.7589156,39.9527237,-75.1635262
+Saunders,Philadelphia,Madeira,1803,Hartshorne,,39.9527237,-75.1635262,32.7517501,-16.9817487
+Rebecca,Boston,Alexandria,1803,,,42.3554334,-71.060511,31.1991806,29.8951716
+Columbia,Alexandria,Boston,1803,,,31.1991806,29.8951716,42.3554334,-71.060511
+Polly,Newbern,Boston,1803,Bangs,,36.1801885,-75.863769,42.3554334,-71.060511
+Gen. Greene,Charleston,Trinidad,1803,Jones,,32.7884363,-79.9399309,10.4430243,-61.2613054
+Maria,Charleston,St. Thomas,1803,Corry,,32.7884363,-79.9399309,18.3429081,-64.9188997
+Eliza,Charleston,Cape Francoise,1803,King,,32.7884363,-79.9399309,19.7595236,-72.2008068
+Atlantic,Trinidad,Boston,1803,Bartlett,70 hhds. best retailing molasses; 20 hhds. best retailing sugars,10.4430243,-61.2613054,42.3554334,-71.060511
+Aurora,Trinidad,Boston,1803,Pease,100 hhds. first quality Trindard molasses; 22 hhds. Trindard sugar,10.4430243,-61.2613054,42.3554334,-71.060511
+Minerva,Havana,Boston,1803,Anthouy,molasses,23.135305,-82.3589631,42.3554334,-71.060511
+Three Friends,Lisbon,Boston,1803,Otis,"300 hhds. salt; 375 boxes fresh lemons, in excellent order",38.7077507,-9.1365919,42.3554334,-71.060511
+Nancies,Boston,Liverpool,1803,Howland,,42.3554334,-71.060511,53.4071991,-2.99168
+New Century,Boston,Lisbon,1803,Harding,,42.3554334,-71.060511,38.7077507,-9.1365919
+Nautilus,Boston,St. Croix,1803,French,,42.3554334,-71.060511,17.729124,-64.7589156
+Betsey,Boston,Tobago,1803,Kempton,,42.3554334,-71.060511,11.2404615,-60.672006
+Leana,Trinidad,New Bedford,1803,Wood,,10.4430243,-61.2613054,41.6362152,-70.934205
+Nancy,Guadaloupe,New Bedford,1803,Allen,,26.9095819,-101.4333638,41.6362152,-70.934205
+Betsey,St. Croix,New Haven,1803,Little,,17.729124,-64.7589156,41.3082138,-72.9250518
+Anna,New Haven,Martinique,1803,Freeman,,41.3082138,-72.9250518,14.6113732,-60.9620777
+Rockland,Cape Francoise,New York,1803,King,,19.7595236,-72.2008068,40.7127281,-74.0060152
+Venus,New York,St. Johns,1803,Holly,,40.7127281,-74.0060152,56.6922843,-60.9373185
+Volunteer,New York,St. Thomas,1803,Morrin,,40.7127281,-74.0060152,18.3429081,-64.9188997
+Tentecao,Philadelphia,Philadelphia,1803,,,39.9527237,-75.1635262,39.9527237,-75.1635262
+Jane,New Orleans,Philadelphia,1803,Ridge,,29.9759983,-90.0782127,39.9527237,-75.1635262
+Fame,Barbadoes,Philadelphia,1803,,,13.1500331,-59.5250305,39.9527237,-75.1635262
+Arniable,New Orleans,Philadelphia,1803,Reta,,29.9759983,-90.0782127,39.9527237,-75.1635262
+Sukey,Philadelphia,Martinique,1803,Lewis,,39.9527237,-75.1635262,14.6113732,-60.9620777
+Anna,Philadelphia,Portland,1803,Robinson,,39.9527237,-75.1635262,43.6573605,-70.2586618
+Active,Philadelphia,Boston,1803,Lewis,,39.9527237,-75.1635262,42.3554334,-71.060511
+Elk,Cape Francoise,Baltimore,1803,Jones,,19.7595236,-72.2008068,39.2908816,-76.610759
+Ethan Allen,Baltimore,Barbadoes,1803,Arnold,,39.2908816,-76.610759,13.1500331,-59.5250305
+Daniel and Fredcrick,Madeira,Charleston,1803,Andrews,,32.7517501,-16.9817487,32.7884363,-79.9399309
+[…]lunter,Charleston,Boston,1803,Tisdale,,32.7884363,-79.9399309,42.3554334,-71.060511
+Hartlequin,Liverpool,Boston,1803,Snow,fish,53.4071991,-2.99168,42.3554334,-71.060511
+Laurel,Trinidad,Boston,1803,Brown,120 hhds. and a few bbls. sugar,10.4430243,-61.2613054,42.3554334,-71.060511
+Mary,Windsor,Boston,1803,Perry,plaister,42.2858536,-82.9780695,42.3554334,-71.060511
+Deborah,Windsor,Boston,1803,Baker,plaister,42.2858536,-82.9780695,42.3554334,-71.060511
+James,Halifax,Boston,1803,,300 bbls Nova-Scotia mackerel,44.648618,-63.5859487,42.3554334,-71.060511
+Eleanor,Savannah,Boston,1803,Hodgkins,49 hhds. first quality tobacco; 40 bales Georgia upland cotton,32.0790074,-81.0921335,42.3554334,-71.060511
+Shepherdess,Charleston,Boston,1803,Swift,"400 logs red bay wood, suitable for cabinet markets",32.7884363,-79.9399309,42.3554334,-71.060511
+Polly,Newbern,Boston,1803,Bunse,7160 bbls. staves; 4045 hhd. Staves; 1835 heading; 100 bbls. tar; 35 bbls. turpentine,36.1801885,-75.863769,42.3554334,-71.060511
+New Forge,New York,Boston,1803,Pratt,,40.7127281,-74.0060152,42.3554334,-71.060511
+Adamant,New York,Boston,1803,Truant,,40.7127281,-74.0060152,42.3554334,-71.060511
+Mary Ann,Boston,Havana,1803,McNight,,42.3554334,-71.060511,23.135305,-82.3589631
+Francis Eliza,Boston,Cape Francoise,1803,Sprague,,42.3554334,-71.060511,19.7595236,-72.2008068
+William,Boston,West-Indies,1803,Woodbury,,42.3554334,-71.060511,18.4,-75.0
+Joanna,Boston,West-Indies,1803,Sliness,,42.3554334,-71.060511,18.4,-75.0
+Diana,Boston,Liverpool,1803,Noble,,42.3554334,-71.060511,53.4071991,-2.99168
+Eliza,Boston,Demerara,1803,Harding,,42.3554334,-71.060511,5.6294891,-58.3937764
+Fanny,Portland,New London,1803,Porter,,43.6573605,-70.2586618,41.3556187,-72.0997804
+Columbia,Lisbon,New York,1803,Tresry,,38.7077507,-9.1365919,40.7127281,-74.0060152
+Phebe,Martinique,New York,1803,Benson,,14.6113732,-60.9620777,40.7127281,-74.0060152
+Unity,New Orleans,New York,1803,Lambert,,29.9759983,-90.0782127,40.7127281,-74.0060152
+Dove,St. Johns,New York,1803,Phelam,,56.6922843,-60.9373185,40.7127281,-74.0060152
+Henry,Jamaica,Philadelphia,1803,Affleck,,18.1850507,-77.3947693,39.9527237,-75.1635262
+Fair American,St. Croix,Philadelphia,1803,Decosta,,17.729124,-64.7589156,39.9527237,-75.1635262
+Thomas,Philadelphia,Bourdeaux,1803,Jones,,39.9527237,-75.1635262,44.5867879,5.1342966
+Cyrus,Philadelphia,Boston,1803,Daggett,,39.9527237,-75.1635262,42.3554334,-71.060511
+Eliza,Philadelphia,Boston,1803,Norton,,39.9527237,-75.1635262,42.3554334,-71.060511
+Annenovin,Wilmington,West-Indies,1803,Hudsou,,39.7459468,-75.546589,18.4,-75.0
+Olive Branch,Wilmington,Trinidad,1803,Pedrick,,39.7459468,-75.546589,10.4430243,-61.2613054
+Fair American,Wilmington,Cape Francoise,1803,Oliver,,39.7459468,-75.546589,19.7595236,-72.2008068
+Caty,Wilmington,Cape Francoise,1803,Allen,,39.7459468,-75.546589,19.7595236,-72.2008068
+Georgetown,Trinidad,Charleston,1803,Millet,,10.4430243,-61.2613054,32.7884363,-79.9399309
+Samuel Treadwell,Madeira,Charleston,1803,Parney,,32.7517501,-16.9817487,32.7884363,-79.9399309
+Union Tyler,St. Thomas,Charleston,1803,Tyler,,18.3429081,-64.9188997,32.7884363,-79.9399309
+Mary,Greenock,Charleston,1803,Seabury,,55.9473423,-4.7564721,32.7884363,-79.9399309
+Brewster,Cape Francoise,Charleston,1803,Brewster,,19.7595236,-72.2008068,32.7884363,-79.9399309
+Polly,Cape Francoise,Boston,1803,Appleton,mahogany,19.7595236,-72.2008068,42.3554334,-71.060511
+Orange,Windsor,Boston,1803,Hobbs,plaister,42.2858536,-82.9780695,42.3554334,-71.060511
+Cyrus,Philadelphia,Boston,1803,Daggett,2500 bushels yellow corn; 400 barrels superfine and fine flour; 100 half bbls superfine and fine flour; a few kegs rusks; buckwheat meal; 1500 rabbit skins; Philadelphia bar iron,39.9527237,-75.1635262,42.3554334,-71.060511
+Nancy,Gloucester,Boston,1803,Elwell,,51.8653705,-2.2458192,42.3554334,-71.060511
+Betsey,New London,Boston,1803,Porte[…],,41.3556187,-72.0997804,42.3554334,-71.060511
+Active,Philadelphia,Boston,1803,Lewis,,39.9527237,-75.1635262,42.3554334,-71.060511
+Hancock,New York,Boston,1803,Capen,,40.7127281,-74.0060152,42.3554334,-71.060511
+Federal George,Baltimore,Boston,1803,Field,,39.2908816,-76.610759,42.3554334,-71.060511
+Orange,New York,Boston,1803,Crosby,60 hhds. Martinico molasses; 1 hhd. and 8 bbls. first quality sugars; 100 bbls. tar; 25 bbls. turpentine; 12 bbls. pitch,40.7127281,-74.0060152,42.3554334,-71.060511
+George,Baltimore,Boston,1803,Worth,,39.2908816,-76.610759,42.3554334,-71.060511
+Rover,Plymouth,Plymouth,1803,,,50.3714122,-4.1424451,50.3714122,-4.1424451
+Sally,Jamaica,Philadelphia,1803,Edwards,,18.1850507,-77.3947693,39.9527237,-75.1635262
+Eliza and Sarah,Philadelphia,St. Thomas,1803,Whitehead,,39.9527237,-75.1635262,18.3429081,-64.9188997
+Lydia,Philadelphia,New Orleans,1803,Watson,,39.9527237,-75.1635262,29.9759983,-90.0782127
+Thetis,Philadelphia,St. Thomas,1803,Geddes,,39.9527237,-75.1635262,18.3429081,-64.9188997
+Traveller,Guadaloupe,Wilmington,1803,Conn,,26.9095819,-101.4333638,39.7459468,-75.546589
+Samuel,Lisbon,Baltimore,1803,West,,38.7077507,-9.1365919,39.2908816,-76.610759
+Anna,Baltimore,Havana,1803,Gill,,39.2908816,-76.610759,23.135305,-82.3589631
+Nancy,Havana,New York,1803,Frost,,23.135305,-82.3589631,40.7127281,-74.0060152
+Chatham,New York,Liverpool,1803,Chew,,40.7127281,-74.0060152,53.4071991,-2.99168
+Linnet,New York,Halifax,1803,Woodward,,40.7127281,-74.0060152,44.648618,-63.5859487
+Lively,Norfolk,Boston,1803,Hatch,,36.8493695,-76.2899539,42.3554334,-71.060511
+Experiment,Norfolk,Boston,1803,Newton,,36.8493695,-76.2899539,42.3554334,-71.060511
+Ulysses,Norfolk,St. Thomas,1803,Ray,,36.8493695,-76.2899539,18.3429081,-64.9188997
+Eliza,Norfolk,St. Thomas,1803,Smith,,36.8493695,-76.2899539,18.3429081,-64.9188997
+Wenscot,St. Thomas,Charleston,1803,Elliot,,18.3429081,-64.9188997,32.7884363,-79.9399309
+Union,St. Thomas,Charleston,1803,Tyler,,18.3429081,-64.9188997,32.7884363,-79.9399309
+John and Frances,Charleston,Bourdeaux,1803,Baas,,32.7884363,-79.9399309,44.5867879,5.1342966
+Goodrich,Charleston,Liverpool,1803,Mears,,32.7884363,-79.9399309,53.4071991,-2.99168
+Mary,Charleston,St. Thomas,1803,Gotten,,32.7884363,-79.9399309,18.3429081,-64.9188997
+Dispatch,Boston,Savannah,1803,Adams,,42.3554334,-71.060511,32.0790074,-81.0921335
+Mary,Halifax,Boston,1803,Huxford,fish,44.648618,-63.5859487,42.3554334,-71.060511
+June Packet,Boston,Boston,1803,,,42.3554334,-71.060511,42.3554334,-71.060511
+Sally and Lois,Windsor,Boston,1803,Bain,plaister,42.2858536,-82.9780695,42.3554334,-71.060511
+"Betsey of Bristol, Maine",Liverpool,Boston,1803,Fosset,salt,53.4071991,-2.99168,42.3554334,-71.060511
+Henry,St. Croix,Boston,1803,Jones,rum,17.729124,-64.7589156,42.3554334,-71.060511
+Hampden,Rotterdam,Boston,1803,Arnold,,51.9244424,4.47775,42.3554334,-71.060511
+President Packet,New York,Boston,1803,Lincoln,,40.7127281,-74.0060152,42.3554334,-71.060511
+Akerly,Norfolk,Boston,1803,Sturgis,,36.8493695,-76.2899539,42.3554334,-71.060511
+Betsey,Richmond,Boston,1803,Curtis,,37.5385087,-77.43428,42.3554334,-71.060511
+Swallow,Gloucester,Boston,1803,Millet,,51.8653705,-2.2458192,42.3554334,-71.060511
+William,Portsmouth,Boston,1803,Morrill,,50.800031,-1.0906023,42.3554334,-71.060511
+Lively,Gloucester,Boston,1803,Warner,,51.8653705,-2.2458192,42.3554334,-71.060511
+Mahala Windsor,Boston,Guadaloupe,1803,Bastman,,42.3554334,-71.060511,26.9095819,-101.4333638
+Joseph and Lois,Boston,Windsor,1803,Bain,,42.3554334,-71.060511,42.2858536,-82.9780695
+Mary,Boston,Windsor,1803,Parry,,42.3554334,-71.060511,42.2858536,-82.9780695
+Deborah,Boston,Halifax,1803,Baker,,42.3554334,-71.060511,44.648618,-63.5859487
+Salem,Boston,Amsterdam,1803,Nickerson,,42.3554334,-71.060511,52.3730796,4.8924534
+Lucy,Madeira,New London,1803,Shepherd,,32.7517501,-16.9817487,41.3556187,-72.0997804
+Aurora,Liverpool,New York,1803,Matthews,,53.4071991,-2.99168,40.7127281,-74.0060152
+Jefferson,Martinique,New York,1803,Dean,,14.6113732,-60.9620777,40.7127281,-74.0060152
+Sincerity,St. Croix,New York,1803,Rogers,,17.729124,-64.7589156,40.7127281,-74.0060152
+Liberty,Barbadoes,New York,1803,Dorgan,,13.1500331,-59.5250305,40.7127281,-74.0060152
+Daphne,St. Croix,New York,1803,Howland,,17.729124,-64.7589156,40.7127281,-74.0060152
+Abigail,New York,Jamaica,1803,Williams,,40.7127281,-74.0060152,18.1850507,-77.3947693
+Union,New York,Guadaloupe,1803,Highbee,,40.7127281,-74.0060152,26.9095819,-101.4333638
+Nancy,Philadelphia,St. Thomas,1803,Ship,,39.9527237,-75.1635262,18.3429081,-64.9188997
+Two Brothers,Windsor,Boston,1803,Clements,plaister,42.2858536,-82.9780695,42.3554334,-71.060511
+Dolphin,Demerara,Boston,1803,Trouant,rum; sugar,5.6294891,-58.3937764,42.3554334,-71.060511
+Sally,Windsor,Boston,1803,McGray,plaister,42.2858536,-82.9780695,42.3554334,-71.060511
+Three Sisters,New York,Boston,1803,Willies,,40.7127281,-74.0060152,42.3554334,-71.060511
+Humbird,Gloucester,Boston,1803,Kiusman,,51.8653705,-2.2458192,42.3554334,-71.060511
+Eliza,Wilmington,Boston,1803,Dock,140 barrels middlings flour; 125 barrels rye flour; 60 barrels serape and superfine flour,39.7459468,-75.546589,42.3554334,-71.060511
+King-Fisher,Salem,Boston,1803,Deland,,42.5195292,-70.8967226,42.3554334,-71.060511
+Cyntha,Gloucester,Boston,1803,Sayward,,51.8653705,-2.2458192,42.3554334,-71.060511
+Thetis,New London,Boston,1803,Harris,,41.3556187,-72.0997804,42.3554334,-71.060511
+Hero,New York,Boston,1803,Sampson,,40.7127281,-74.0060152,42.3554334,-71.060511
+[…]nanimis,Jamaica,Boston,1803,Hills,,18.1850507,-77.3947693,42.3554334,-71.060511
+Ocean,West-Indies,Boston,1803,Buckman,,18.4,-75.0,42.3554334,-71.060511
+Harlequin,Liverpool,Boston,1803,Snow,,53.4071991,-2.99168,42.3554334,-71.060511
+James,Windsor,Boston,1803,French,,42.2858536,-82.9780695,42.3554334,-71.060511
+President,Lisbon,New Bedford,1803,,,38.7077507,-9.1365919,41.6362152,-70.934205
+Commerce,Lisbon,New York,1803,Ogilvie,,38.7077507,-9.1365919,40.7127281,-74.0060152
+Maria,Lisbon,Philadelphia,1803,Calvert,,38.7077507,-9.1365919,39.9527237,-75.1635262
+Independence,St. Thomas,Philadelphia,1803,Anderion,,18.3429081,-64.9188997,39.9527237,-75.1635262
+Sally,Philadelphia,St. Thomas,1803,Thompson,,39.9527237,-75.1635262,18.3429081,-64.9188997
+Resolution,Philadelphia,Bourdeaux,1803,Ramsde[…],,39.9527237,-75.1635262,44.5867879,5.1342966
+Elperanza,Havana,Baltimore,1803,Cerez,,23.135305,-82.3589631,39.2908816,-76.610759
+Lucyana,Baltimore,West-Indies,1803,Johns,,39.2908816,-76.610759,18.4,-75.0
+Lady Clipper,Baltimore,West-Indies,1803,[…]orenson,,39.2908816,-76.610759,18.4,-75.0
+May Flower,St. Croix,Newbern,1803,Brown,,17.729124,-64.7589156,36.1801885,-75.863769
+Clarissa,St. Thomas,Newbern,1803,Parsons,,18.3429081,-64.9188997,36.1801885,-75.863769
+Betsey,Newbern,Jamaica,1803,Cox,,36.1801885,-75.863769,18.1850507,-77.3947693
+Sally,Newbern,Barbadoes,1803,Carwell,,36.1801885,-75.863769,13.1500331,-59.5250305
+Mary,Newbern,Barbadoes,1803,Torrans,,36.1801885,-75.863769,13.1500331,-59.5250305
+Hlbernia,Windsor,Boston,1803,Denth,,42.2858536,-82.9780695,42.3554334,-71.060511
+John Adams,Boston,Liverpool,1803,Wood,,42.3554334,-71.060511,53.4071991,-2.99168
+Columbine,Boston,Liverpool,1803,Ship,,42.3554334,-71.060511,53.4071991,-2.99168
+Industry,Windsor,Boston,1803,Cook,,42.2858536,-82.9780695,42.3554334,-71.060511
+Juno,Tobago,Boston,1803,Derby,,11.2404615,-60.672006,42.3554334,-71.060511
+Hercules,Trinidad,Boston,1803,Donnell,sugars; molasses,10.4430243,-61.2613054,42.3554334,-71.060511
+Nabby,St. Thomas,Boston,1803,Tuck,,18.3429081,-64.9188997,42.3554334,-71.060511
+Valerius,Demerara,Boston,1803,Harding,,5.6294891,-58.3937764,42.3554334,-71.060511
+Pilgrim,Windsor,Boston,1803,Terry,,42.2858536,-82.9780695,42.3554334,-71.060511
+Anna,Portsmouth,Boston,1803,Trickey,,50.800031,-1.0906023,42.3554334,-71.060511
+Abby,Plymouth,Boston,1803,Morton,,50.3714122,-4.1424451,42.3554334,-71.060511
+China,New York,Boston,1803,Ward,160 bbls. fine flour,40.7127281,-74.0060152,42.3554334,-71.060511
+Primus,Salem,Boston,1803,Archer,,42.5195292,-70.8967226,42.3554334,-71.060511
+Swan,New York,Boston,1803,Knapp,,40.7127281,-74.0060152,42.3554334,-71.060511
+Libra,Boston,Rotterdam,1803,Perkins,,42.3554334,-71.060511,51.9244424,4.47775
+Venus,Boston,Windsor,1803,Haley,,42.3554334,-71.060511,42.2858536,-82.9780695
+Two Brothers,Boston,Windsor,1803,Clemments,,42.3554334,-71.060511,42.2858536,-82.9780695
+Mary,Boston,Halifax,1803,Huxford,,42.3554334,-71.060511,44.648618,-63.5859487
+Sally,Boston,Windsor,1803,Magray,,42.3554334,-71.060511,42.2858536,-82.9780695
+Two Sisters,Boston,Yarmouth,1803,Party,,42.3554334,-71.060511,52.6071742,1.7314845
+Sally and Lois,Boston,Yarmouth,1803,Byrn,,42.3554334,-71.060511,52.6071742,1.7314845
+Hope,Guadaloupe,New London,1803,Burnham,,26.9095819,-101.4333638,41.3556187,-72.0997804
+Thames,Demerara,New London,1803,Benjamin,,5.6294891,-58.3937764,41.3556187,-72.0997804
+Polly,Cape Francoise,New London,1803,Leffingwell,,19.7595236,-72.2008068,41.3556187,-72.0997804
+Eliza,Guadaloupe,New London,1803,Balley,,26.9095819,-101.4333638,41.3556187,-72.0997804
+Cep. Merce[…],New York,Liverpool,1803,Moores,,40.7127281,-74.0060152,53.4071991,-2.99168
+Francis Lewis,Philadelphia,Jamaica,1803,Evans,,39.9527237,-75.1635262,18.1850507,-77.3947693
+Franklip,Guadaloupe,Boston,1803,Waite,molasses,26.9095819,-101.4333638,42.3554334,-71.060511
+Hope,Martinico,Boston,1803,Smith,50 hhds. Martinique molasses,46.1244198,9.2770489,42.3554334,-71.060511
+Juno,Havana,Boston,1803,,,23.135305,-82.3589631,42.3554334,-71.060511
+Columbia,Lisbon,Boston,1803,Cart,"20 pipes best Lisbon white wine; 100 quarter casks best Lisbon white wine; 200 pieces first quality Russia duck; 50 pieces first quality ravens Russia duck; 10 coils 1/2 inch, 20 coils 1/4 inch, 20 coils 1 inch, 30 coils 1 1/2 inch; 30 coils 2 inch,30 coils 2 1/2 inch, 20 coils 3 inch, 10 coils 3 1/2 inch, 25 coils 4 inch, 1 coil 5 inch, 2 coils 7 inch, 2 coils 8 inch prime Russia cordage",38.7077507,-9.1365919,42.3554334,-71.060511
+Frederic,Lisbon,Boston,1803,Hart,300 hogsheads Lisbon salt; 100 boxes lemons,38.7077507,-9.1365919,42.3554334,-71.060511
+Success,Windsor,Boston,1803,Ross,,42.2858536,-82.9780695,42.3554334,-71.060511
+Industry,Martinico,Boston,1803,Smith,,46.1244198,9.2770489,42.3554334,-71.060511
+Nancy,Guadaloupe,Boston,1803,Goddard,,26.9095819,-101.4333638,42.3554334,-71.060511
+Dolphin,Plymouth,Boston,1803,Cooper,,50.3714122,-4.1424451,42.3554334,-71.060511
+Julia,Portland,Boston,1803,L[…]tting,,43.6573605,-70.2586618,42.3554334,-71.060511
+Falmouth,Portland,Boston,1803,Curtis,,43.6573605,-70.2586618,42.3554334,-71.060511
+Hope,Boston,Jamaica,1803,Hewes,,42.3554334,-71.060511,18.1850507,-77.3947693
+Laurel,Boston,Trinidad,1803,Brown,,42.3554334,-71.060511,10.4430243,-61.2613054
+Belifarius,Boston,Guadaloupe,1803,Rice,,42.3554334,-71.060511,26.9095819,-101.4333638
+Hope,Boston,Bourdeaux,1803,Wardell,,42.3554334,-71.060511,44.5867879,5.1342966
+Rover,Boston,West-Indies,1803,Hayt,,42.3554334,-71.060511,18.4,-75.0
+Joseph,Boston,Yarmouth,1803,Crowell,,42.3554334,-71.060511,52.6071742,1.7314845
+Union,Boston,Halifax,1803,Crowell,,42.3554334,-71.060511,44.648618,-63.5859487
+Rainbow,Windsor,New York,1803,,,42.2858536,-82.9780695,40.7127281,-74.0060152
+Sally Tracy,New York,Madeira,1803,Crocker,,40.7127281,-74.0060152,32.7517501,-16.9817487
+Eliza Adn,New York,Barbadoes,1803,Hull,,40.7127281,-74.0060152,13.1500331,-59.5250305
+Rocksand,New York,Cape Francoise,1803,King,,40.7127281,-74.0060152,19.7595236,-72.2008068
+Fame,New York,Barbadoes,1803,Newbold,,40.7127281,-74.0060152,13.1500331,-59.5250305
+Packet,Liverpool,Philadelphia,1803,Sawyer,,53.4071991,-2.99168,39.9527237,-75.1635262
+Industry,Boston,Philadelphia,1803,Squires,,42.3554334,-71.060511,39.9527237,-75.1635262
+Volunteer,Philadelphia,Barbadoes,1803,Conn,,39.9527237,-75.1635262,13.1500331,-59.5250305
+Armisade,Philadelphia,Lisbon,1803,Walters,,39.9527237,-75.1635262,38.7077507,-9.1365919
+Widowson,Jamaica,Newbern,1803,Daquid,,18.1850507,-77.3947693,36.1801885,-75.863769
+John Ellis,Jamaica,Newbern,1803,Wade,,18.1850507,-77.3947693,36.1801885,-75.863769
+Betsey Holland,Jamaica,Newbern,1803,Miner,,18.1850507,-77.3947693,36.1801885,-75.863769
+John and George,Newbern,St. Thomas,1803,Blueum,,36.1801885,-75.863769,18.3429081,-64.9188997
+George & Harxiet,Demerara,Boston,1803,Allen,rum; sugar,5.6294891,-58.3937764,42.3554334,-71.060511
+Sally,Madeira,Boston,1803,Paddock,,32.7517501,-16.9817487,42.3554334,-71.060511
+Betsey,Halifax,Boston,1803,Kelley,pickled fish,44.648618,-63.5859487,42.3554334,-71.060511
+Little Jane,Havana,Boston,1803,Harris,molasses,23.135305,-82.3589631,42.3554334,-71.060511
+Charlotte,Alexandria,Boston,1803,Loomis,,31.1991806,29.8951716,42.3554334,-71.060511
+Fortune,Norfolk,Boston,1803,Dunlap,150 blls. turpentine; 75 blls tar; 2 hhds. James River tobaco; 2 hhds. Brazil tobacco; few boxes olives,36.8493695,-76.2899539,42.3554334,-71.060511
+Lydia,Salem,Boston,1803,Purbeok,,42.5195292,-70.8967226,42.3554334,-71.060511
+Nancy,Gloucester,Boston,1803,Elwell,,51.8653705,-2.2458192,42.3554334,-71.060511
+Polly,Norfolk,Boston,1803,Crosby,,36.8493695,-76.2899539,42.3554334,-71.060511
+Atlantic,Boston,West-Indies,1803,Bartlett,,42.3554334,-71.060511,18.4,-75.0
+Fame,Boston,New Orleans,1803,Avery,,42.3554334,-71.060511,29.9759983,-90.0782127
+Pacific,Boston,West-Indies,1803,Nash,,42.3554334,-71.060511,18.4,-75.0
+Sally,Boston,St. Johns,1803,Jackson,,42.3554334,-71.060511,56.6922843,-60.9373185
+Ranger,Boston,Liverpool,1803,Wilson,,42.3554334,-71.060511,53.4071991,-2.99168
+Unicorn,Havana,Salem,1803,Babbidge,,23.135305,-82.3589631,42.5195292,-70.8967226
+Yarico,Jamaica,Gloucester,1803,Bates,7 hhds. high forth proof Jamaica rum,18.1850507,-77.3947693,51.8653705,-2.2458192
+Minerva,St. Thomas,Charleston,1803,,,18.3429081,-64.9188997,32.7884363,-79.9399309
+Isabella,St. Croix,Philadelphia,1803,,,17.729124,-64.7589156,39.9527237,-75.1635262
+Eunice,Martinico,Boston,1803,Bowland,molasses,46.1244198,9.2770489,42.3554334,-71.060511
+Mary,Windsor,Boston,1803,Perry,plaister,42.2858536,-82.9780695,42.3554334,-71.060511
+Amelia,Bourdeaux,Boston,1803,Deblois,,44.5867879,5.1342966,42.3554334,-71.060511
+Jane,Liverpool,Boston,1803,Duckendorf,,53.4071991,-2.99168,42.3554334,-71.060511
+William,Guadaloupe,Boston,1803,Pillsbury,molasses,26.9095819,-101.4333638,42.3554334,-71.060511
+Eliza,Boston,Amsterdam,1803,Seward,,42.3554334,-71.060511,52.3730796,4.8924534
+Success,Boston,St. Johns,1803,Ross,,42.3554334,-71.060511,56.6922843,-60.9373185
+Polly,Liverpool,New London,1803,Webb,,53.4071991,-2.99168,41.3556187,-72.0997804
+Fortune,Demerara,New London,1803,Billings,,5.6294891,-58.3937764,41.3556187,-72.0997804
+Flower,Demerara,New London,1803,,,5.6294891,-58.3937764,41.3556187,-72.0997804
+Harriet,Bourdeaux,Philadelphia,1803,,,44.5867879,5.1342966,39.9527237,-75.1635262
+Minerva,Bourdeaux,Philadelphia,1803,,,44.5867879,5.1342966,39.9527237,-75.1635262
+Mason's Daughter,Boston,Philadelphia,1803,,,42.3554334,-71.060511,39.9527237,-75.1635262
+Sally,Liverpool,Charleston,1803,Webber,,53.4071991,-2.99168,32.7884363,-79.9399309
+Delight,Havana,Charleston,1803,,,23.135305,-82.3589631,32.7884363,-79.9399309
+Susannah,Charleston,Liverpool,1803,Walker,,32.7884363,-79.9399309,53.4071991,-2.99168
+Rebecca,West-Indies,Norfolk,1803,Hutchins,,18.4,-75.0,36.8493695,-76.2899539
+Emily,West-Indies,Norfolk,1803,Sampson,,18.4,-75.0,36.8493695,-76.2899539
+Shepherdess,Norfolk,London,1803,Wills,,36.8493695,-76.2899539,51.5074456,-0.1277653
+Mars,Norfolk,West-Indies,1803,James,,36.8493695,-76.2899539,18.4,-75.0
+Tyger,London,Richmond,1803,Bartlett,,51.5074456,-0.1277653,37.5385087,-77.43428
+Almy,Newbern,Barbadoes,1803,Fairbank,,36.1801885,-75.863769,13.1500331,-59.5250305
+Little Frank,Newbern,Martinique,1803,Torrans,,36.1801885,-75.863769,14.6113732,-60.9620777
+Betsey Fulshire,Newbern,Barbadoes,1803,Marshall,,36.1801885,-75.863769,13.1500331,-59.5250305
+Geo. Washington,Boston,Savannah,1803,Roberts,,42.3554334,-71.060511,32.0790074,-81.0921335
+Mary,Cape Francoise,Boston,1803,Welles,,19.7595236,-72.2008068,42.3554334,-71.060511
+Polly,Salem,Boston,1803,Gardner,,42.5195292,-70.8967226,42.3554334,-71.060511
+Ranger,Salem,Boston,1803,Byrne,,42.5195292,-70.8967226,42.3554334,-71.060511
+Gen. Knox,Portland,Boston,1803,M' Lellan,"42 hhds. and 42 bbls. first quality Trindard sugar, entitled to debenture",43.6573605,-70.2586618,42.3554334,-71.060511
+Margaret,Portland,Boston,1803,Dutch,5000 wt. green coffee; 10 hhds. molasses,43.6573605,-70.2586618,42.3554334,-71.060511
+Harriot,Portland,Boston,1803,Jones,,43.6573605,-70.2586618,42.3554334,-71.060511
+Betsey,Portland,Boston,1803,Buxton,,43.6573605,-70.2586618,42.3554334,-71.060511
+Olive,Portland,Boston,1803,Sturdevant,,43.6573605,-70.2586618,42.3554334,-71.060511
+Sea Nymph,Portland,Boston,1803,Blanchar[…],,43.6573605,-70.2586618,42.3554334,-71.060511
+Dolly,Portland,Boston,1803,Adams,,43.6573605,-70.2586618,42.3554334,-71.060511
+Swallow,Gloucester,Boston,1803,Miller,,51.8653705,-2.2458192,42.3554334,-71.060511
+Dolphin,Boston,West-Indies,1803,Truant,,42.3554334,-71.060511,18.4,-75.0
+Betsey,Boston,West-Indies,1803,Williams,,42.3554334,-71.060511,18.4,-75.0
+Deborah,Boston,West-Indies,1803,Allen,,42.3554334,-71.060511,18.4,-75.0
+Betsy,Boston,Halifax,1803,Kelly,,42.3554334,-71.060511,44.648618,-63.5859487
+Polly,Boston,Demerara,1803,Williston,,42.3554334,-71.060511,5.6294891,-58.3937764
+Polly,Boston,West-Indies,1803,Goddard,,42.3554334,-71.060511,18.4,-75.0
+Mary,Boston,Yarmouth,1803,Perry,,42.3554334,-71.060511,52.6071742,1.7314845
+Mary,Boston,West-Indies,1803,West,,42.3554334,-71.060511,18.4,-75.0
+Diana,Cape Francoise,New York,1803,,,19.7595236,-72.2008068,40.7127281,-74.0060152
+Henry,St. Croix,New York,1803,,,17.729124,-64.7589156,40.7127281,-74.0060152
+Penelope,New York,New Orleans,1803,,,40.7127281,-74.0060152,29.9759983,-90.0782127
+Phebe,New York,St. Johns,1803,,,40.7127281,-74.0060152,56.6922843,-60.9373185
+Nancy,Philadelphia,St. Thomas,1803,Burk,,39.9527237,-75.1635262,18.3429081,-64.9188997
+Cleopatra,Lisbon,Philadelphia,1803,Blackstone,,38.7077507,-9.1365919,39.9527237,-75.1635262
+Anna,Portland,Philadelphia,1803,Robertson,,43.6573605,-70.2586618,39.9527237,-75.1635262
+Isabella,Boston,Philadelphia,1803,Pitts,,42.3554334,-71.060511,39.9527237,-75.1635262
+Fanny,Havana,Philadelphia,1803,Rodriques,,23.135305,-82.3589631,39.9527237,-75.1635262
+Three Sisters,London,Philadelphia,1803,,,51.5074456,-0.1277653,39.9527237,-75.1635262
+Tace,Lisbon,Philadelphia,1803,,,38.7077507,-9.1365919,39.9527237,-75.1635262
+John,Philadelphia,St. Croix,1803,Louth,,39.9527237,-75.1635262,17.729124,-64.7589156
+Active,Philadelphia,Boston,1803,Lewis,,39.9527237,-75.1635262,42.3554334,-71.060511
+Greyhound,Guadaloupe,Baltimore,1803,Homes,,26.9095819,-101.4333638,39.2908816,-76.610759
+Louisa,Charleston,Greenock,1803,,,32.7884363,-79.9399309,55.9473423,-4.7564721
+John Adams,Liverpool,Boston,1803,John Wood,"superfine, middling and low priced broadcloths and cas[..]meres, all colors and qualities -- blue, black, brown, and corbean serges; coatings of all colors and qualities; rattens; fearnoughts; rose and dussil blankets; baizes amd flannels, various colors and qualities; white domets; spotted swantkin; swandown; calicoes; cptton velvets; worsted hose; durants; calamancoes and shaloons; a few cases of hats, well assorted; an assort,ent cutlery and hard ware",53.4071991,-2.99168,42.3554334,-71.060511
+Two Brothers,Windsor,Boston,1803,Clemens,plaister,42.2858536,-82.9780695,42.3554334,-71.060511
+James,Lisbon,Boston,1803,Folgier,salt; lemmons,38.7077507,-9.1365919,42.3554334,-71.060511
+Fox,Liverpool,Boston,1803,Minns,goods; 400 hhds. coarse Liverpool salt; 50 bags Liverpool salt; crates ware,53.4071991,-2.99168,42.3554334,-71.060511
+Sally,Rotterdam,Boston,1803,M' Intire,,51.9244424,4.47775,42.3554334,-71.060511
+Lydia,Gloucester,Boston,1803,Purbeck,,51.8653705,-2.2458192,42.3554334,-71.060511
+Betsey,Boston,Amsterdam,1803,Joy,,42.3554334,-71.060511,52.3730796,4.8924534
+Humbird,Boston,Bourdeaux,1803,Kinsman,,42.3554334,-71.060511,44.5867879,5.1342966
+Nabby,Boston,West-Indies,1803,Sprague,,42.3554334,-71.060511,18.4,-75.0
+Orange,Boston,Windsor,1803,Hobbs,,42.3554334,-71.060511,42.2858536,-82.9780695
+Venus,Boston,Windsor,1803,Haley,,42.3554334,-71.060511,42.2858536,-82.9780695
+Roebuck,New York,West-Indies,1803,Dawson,,40.7127281,-74.0060152,18.4,-75.0
+Catharine,New York,Demerara,1803,Pittman,,40.7127281,-74.0060152,5.6294891,-58.3937764
+Eliza,Philadelphia,Martinique,1803,Watson,,39.9527237,-75.1635262,14.6113732,-60.9620777
+Mason's Daughter,Philadelphia,Boston,1803,Pease,,39.9527237,-75.1635262,42.3554334,-71.060511
+Active,Philadelphia,Boston,1803,Yorke,,39.9527237,-75.1635262,42.3554334,-71.060511
+Eleanor,Philadelphia,New Orleans,1803,Ring,,39.9527237,-75.1635262,29.9759983,-90.0782127
+Mary,Boston,Richmond,1803,Briggs,,42.3554334,-71.060511,37.5385087,-77.43428
+Wm. And Mary,Amsterdam,Charleston,1803,Easterbury,,52.3730796,4.8924534,32.7884363,-79.9399309
+Warren,Havana,Charleston,1803,Eddy,,23.135305,-82.3589631,32.7884363,-79.9399309
+Hazard,Charleston,Liverpool,1803,Wood,,32.7884363,-79.9399309,53.4071991,-2.99168
+British Queen,St. Johns,Boston,1803,Carpenter,plaister,56.6922843,-60.9373185,42.3554334,-71.060511
+Deborah,Windsor,Boston,1803,Daker,,42.2858536,-82.9780695,42.3554334,-71.060511
+Betsey,Windsor,Boston,1803,Perry,,42.2858536,-82.9780695,42.3554334,-71.060511
+Sally,Windsor,Boston,1803,M' Gray,,42.2858536,-82.9780695,42.3554334,-71.060511
+Mary,Halifax,Boston,1803,Huxford,370 bbls. salmon,44.648618,-63.5859487,42.3554334,-71.060511
+Snake,St. Johns,Boston,1803,Cocharn,,56.6922843,-60.9373185,42.3554334,-71.060511
+Thetis,Liverpool,Boston,1803,Harrington,250 bbls. salmon; 9 bbls. mackerel,53.4071991,-2.99168,42.3554334,-71.060511
+Alert,Alexandria,Boston,1803,Smith,700 bbls. superfine flour; 100 half bbls. superfine flour; 17 hhds. tobacco,31.1991806,29.8951716,42.3554334,-71.060511
+Resolution,New Haven,Boston,1803,King,,41.3082138,-72.9250518,42.3554334,-71.060511
+Apollo,Wilmington,Boston,1803,Day,,39.7459468,-75.546589,42.3554334,-71.060511
+Caroline,New London,Boston,1803,Davison,,41.3556187,-72.0997804,42.3554334,-71.060511
+Primer,Salem,Boston,1803,Archer,,42.5195292,-70.8967226,42.3554334,-71.060511
+Henry,Boston,West-Indies,1803,Halen,,42.3554334,-71.060511,18.4,-75.0
+Unicorn,Boston,West-Indies,1803,Caswell,,42.3554334,-71.060511,18.4,-75.0
+Hope,Boston,Liverpool,1803,Ripley,,42.3554334,-71.060511,53.4071991,-2.99168
+Little Dick,Boston,West-Indies,1803,Atkins,,42.3554334,-71.060511,18.4,-75.0
+Eliza,Madeira,Salem,1803,Richardson,,32.7517501,-16.9817487,42.5195292,-70.8967226
+Independence,Guadaloupe,Newbern,1803,Tileston,,26.9095819,-101.4333638,36.1801885,-75.863769
+William and Henry,Newbern,Jamaica,1803,Tinker,,36.1801885,-75.863769,18.1850507,-77.3947693
+Sophia,Philadelphia,St. Thomas,1803,Smith,,39.9527237,-75.1635262,18.3429081,-64.9188997
+Experiment,Philadelphia,West-Indies,1803,Rimington,,39.9527237,-75.1635262,18.4,-75.0
+Warren,Havana,Charleston,1803,Eddy,,23.135305,-82.3589631,32.7884363,-79.9399309
+Lydia,Cape Francoise,Charleston,1803,Patterson,,19.7595236,-72.2008068,32.7884363,-79.9399309
+Neptune,Havana,Halifax,1803,Miller,,23.135305,-82.3589631,44.648618,-63.5859487
+Ann,Liverpool,Halifax,1803,,,53.4071991,-2.99168,44.648618,-63.5859487
+Leicester,New York,Halifax,1803,Parker,,40.7127281,-74.0060152,44.648618,-63.5859487
+Adventure,Baltimore,Halifax,1803,Butterworth,,39.2908816,-76.610759,44.648618,-63.5859487
+Mary,Guadaloupe,Boston,1803,Glazier,molasses; sugar,26.9095819,-101.4333638,42.3554334,-71.060511
+Sally,St. Johns,Boston,1803,Hillyer,,56.6922843,-60.9373185,42.3554334,-71.060511
+Eagle,New Orleans,Boston,1803,Wiley,95 bags best New Orleans cotton,29.9759983,-90.0782127,42.3554334,-71.060511
+Active,Philadelphia,Boston,1803,York,flour,39.9527237,-75.1635262,42.3554334,-71.060511
+Anna,Portland,Boston,1803,Trickey,,43.6573605,-70.2586618,42.3554334,-71.060511
+Falcon,Boston,Cadiz,1803,Kenneison,,42.3554334,-71.060511,36.5297438,-6.2928976
+Minerva,Boston,Barbadoes,1803,Anthony,,42.3554334,-71.060511,13.1500331,-59.5250305
+Sally,Boston,Windsor,1803,Magray,,42.3554334,-71.060511,42.2858536,-82.9780695
+Betsey,Boston,Yarmouth,1803,Parry,,42.3554334,-71.060511,52.6071742,1.7314845
+Deborah,Boston,Windsor,1803,Baker,,42.3554334,-71.060511,42.2858536,-82.9780695
+Oneida-Chief,London,New York,1803,Kemp,,51.5074456,-0.1277653,40.7127281,-74.0060152
+Mary,Amsterdam,New York,1803,Noble,,52.3730796,4.8924534,40.7127281,-74.0060152
+Venus,St. Johns,New York,1803,Ward,,56.6922843,-60.9373185,40.7127281,-74.0060152
+Lydia,Madeira,Philadelphia,1803,M' Collom,,32.7517501,-16.9817487,39.9527237,-75.1635262
+John and Alice,Liverpool,Philadelphia,1803,Whitesides,,53.4071991,-2.99168,39.9527237,-75.1635262
+Amity,Portsmouth,Philadelphia,1803,Tresethen,,50.800031,-1.0906023,39.9527237,-75.1635262
+Matilda,Philadelphia,New Orleans,1803,,,39.9527237,-75.1635262,29.9759983,-90.0782127
+William,Philadelphia,Halifax,1803,,,39.9527237,-75.1635262,44.648618,-63.5859487
+Commerce,Barbadoes,Alexandria,1803,Gardner,,13.1500331,-59.5250305,31.1991806,29.8951716
+Friends,Havana,Charleston,1803,Parsons,,23.135305,-82.3589631,32.7884363,-79.9399309
+Marinero,Havana,Charleston,1803,,,23.135305,-82.3589631,32.7884363,-79.9399309
+Wexford,Bourdeaux,Charleston,1803,Carlton,,44.5867879,5.1342966,32.7884363,-79.9399309
+Hazen,Liverpool,Boston,1803,Turner,"crates; 600 hhds. Liverpool salt; a large assortment of earthen, galss and stone ware",53.4071991,-2.99168,42.3554334,-71.060511
+Hannah,Charleston,Boston,1803,Wilder,,32.7884363,-79.9399309,42.3554334,-71.060511
+Lion,Havana,Boston,1803,Rice,,23.135305,-82.3589631,42.3554334,-71.060511
+Dispatch,Trinadad,Boston,1803,Moore,,10.7466905,-61.0840075,42.3554334,-71.060511
+Hannah,Charleston,Boston,1803,Wilder,,32.7884363,-79.9399309,42.3554334,-71.060511
+Sea Nymph,Portland,Boston,1803,Blanchard,,43.6573605,-70.2586618,42.3554334,-71.060511
+New Forge,New York,Boston,1803,Pratt,,40.7127281,-74.0060152,42.3554334,-71.060511
+William,Portsmouth,Boston,1803,Morrill,,50.800031,-1.0906023,42.3554334,-71.060511
+Olive,Portland,Boston,1803,Sturdevant,,43.6573605,-70.2586618,42.3554334,-71.060511
+Victory,New York,Boston,1803,Lane,,40.7127281,-74.0060152,42.3554334,-71.060511
+Margaret,New York,Boston,1803,Seymoure,47 hhds. molasses,40.7127281,-74.0060152,42.3554334,-71.060511
+Tarantula,Boston,Demerara,1803,Taylor,,42.3554334,-71.060511,5.6294891,-58.3937764
+British Queen,Boston,Windsor,1803,Carpenter,,42.3554334,-71.060511,42.2858536,-82.9780695
+Lark,Boston,West-Indies,1803,Codsrey,,42.3554334,-71.060511,18.4,-75.0
+John,Liverpool,New York,1803,Decosi,,53.4071991,-2.99168,40.7127281,-74.0060152
+New York,Bourdeaux,New York,1803,Pela,,44.5867879,5.1342966,40.7127281,-74.0060152
+Tryal,New Orleans,New York,1803,Hoyt,,29.9759983,-90.0782127,40.7127281,-74.0060152
+Edward,Guadaloupe,New York,1803,Durand,,26.9095819,-101.4333638,40.7127281,-74.0060152
+Columbia,Boston,Philadelphia,1803,Thatcher,,42.3554334,-71.060511,39.9527237,-75.1635262
+Friends,Jamaica,Philadelphia,1803,Melcalf,,18.1850507,-77.3947693,39.9527237,-75.1635262
+Camilla,Liverpool,Philadelphia,1803,Camilla,,53.4071991,-2.99168,39.9527237,-75.1635262
+New Jersey,Bourdeaux,Philadelphia,1803,Adams,,44.5867879,5.1342966,39.9527237,-75.1635262
+Charlotte,Lisbon,Baltimore,1803,Davidson,,38.7077507,-9.1365919,39.2908816,-76.610759
+Brilliant,Boston,Baltimore,1803,Dennis,,42.3554334,-71.060511,39.2908816,-76.610759
+Ann and Francis,Cadiz,Norfolk,1803,Carpenter,,36.5297438,-6.2928976,36.8493695,-76.2899539
+Margaret,St. Thomas,Norfolk,1803,Herbert,,18.3429081,-64.9188997,36.8493695,-76.2899539
+America,Liverpool,Boston,1803,Gardner,20 crates well assorted earthen ware; salt,53.4071991,-2.99168,42.3554334,-71.060511
+Adventure,Halifax,Boston,1803,Butterworth,salt; salmon; mackerel; shadd; herring & dry fish,44.648618,-63.5859487,42.3554334,-71.060511
+Pilgrim,Halifax,Boston,1803,Perry,,44.648618,-63.5859487,42.3554334,-71.060511
+Nelly,Boston,Boston,1803,,,42.3554334,-71.060511,42.3554334,-71.060511
+Forrester,New Bedford,Boston,1803,Haven,,41.6362152,-70.934205,42.3554334,-71.060511
+Polly,Portsmouth,Boston,1803,Fernald,,50.800031,-1.0906023,42.3554334,-71.060511
+Little Jane,Boston,West-Indies,1803,Harris,,42.3554334,-71.060511,18.4,-75.0
+Mary,Boston,Halifax,1803,Huxford,,42.3554334,-71.060511,44.648618,-63.5859487
+Thetis,Boston,St. Johns,1803,Harrington,,42.3554334,-71.060511,56.6922843,-60.9373185
+Speedwell,Boston,Yarmouth,1803,Amero,,42.3554334,-71.060511,52.6071742,1.7314845
+Polly,Boston,St. Johns,1803,Ferris,,42.3554334,-71.060511,56.6922843,-60.9373185
+Traveller,Guadaloupe,Portland,1803,Motler,,26.9095819,-101.4333638,43.6573605,-70.2586618
+Mary,Windsor,Portland,1803,Elizabeth,,42.2858536,-82.9780695,43.6573605,-70.2586618
+Vandyck,Trinadad,Boston,1803,Adamson,,10.7466905,-61.0840075,42.3554334,-71.060511
+Harmony,Martinico,Boston,1803,Adams,,46.1244198,9.2770489,42.3554334,-71.060511
+Saucy Jack,St. Thomas,Boston,1803,Appleton,,18.3429081,-64.9188997,42.3554334,-71.060511
+Mary,Cadiz,Boston,1803,Lombard,,36.5297438,-6.2928976,42.3554334,-71.060511
+Swan,Rotterdam,Boston,1803,Prior,gin,51.9244424,4.47775,42.3554334,-71.060511
+William,Trinadad,Boston,1803,Newhall,sugars; a quantity hhds. shooks,10.7466905,-61.0840075,42.3554334,-71.060511
+Ann and Betsey,Jamaica,Boston,1803,Quinton,rum,18.1850507,-77.3947693,42.3554334,-71.060511
+Federal George,Norfolk,Boston,1803,,"fresh Baltimore superfine and fine flour, in whole and half barrels",36.8493695,-76.2899539,42.3554334,-71.060511
+Hannah,Demerara,Boston,1803,Farley,sugar,5.6294891,-58.3937764,42.3554334,-71.060511
+Polly,Norfolk,Boston,1803,Bangs,,36.8493695,-76.2899539,42.3554334,-71.060511
+Federal George,Baltimore,Boston,1803,Field,,39.2908816,-76.610759,42.3554334,-71.060511
+Elizabeth,Baltimore,Boston,1803,Nickerson,,39.2908816,-76.610759,42.3554334,-71.060511
+Shepherdess,Baltimore,Boston,1803,Robbins,,39.2908816,-76.610759,42.3554334,-71.060511
+Union,Richmond,Boston,1803,Gage,70 barrels fine Richmond flour,37.5385087,-77.43428,42.3554334,-71.060511
+Fox,Boston,Liverpool,1803,Minns,,42.3554334,-71.060511,53.4071991,-2.99168
+Snake,Boston,St. Johns,1803,Cockran,,42.3554334,-71.060511,56.6922843,-60.9373185
+Frederick,Boston,West-Indies,1803,Appleton,,42.3554334,-71.060511,18.4,-75.0
+Ranger,Boston,Liverpool,1803,Goodwin,,42.3554334,-71.060511,53.4071991,-2.99168
+Jane,Boston,West-Indies,1803,Dockendorff,,42.3554334,-71.060511,18.4,-75.0
+Pilgrim,Boston,Windsor,1803,Perry,,42.3554334,-71.060511,42.2858536,-82.9780695
+Favorite,Boston,Jamaica,1803,Percival,,42.3554334,-71.060511,18.1850507,-77.3947693
+Eliza and Mary,Cadiz,New York,1803,Hewet,,36.5297438,-6.2928976,40.7127281,-74.0060152
+Sally,Trinadad,Philadelphia,1803,Thackara,,10.7466905,-61.0840075,39.9527237,-75.1635262
+Rover,St. Thomas,Philadelphia,1803,Harden,,18.3429081,-64.9188997,39.9527237,-75.1635262
+Regulator,New Orleans,Philadelphia,1803,Hawkins,,29.9759983,-90.0782127,39.9527237,-75.1635262
+Virgina,Barbadoes,Philadelphia,1803,Dixon,,13.1500331,-59.5250305,39.9527237,-75.1635262
+Eliza,St. Thomas,Wilmington,1803,Davidson,,18.3429081,-64.9188997,39.7459468,-75.546589
+Two Brothers,St. Croix,Boston,1803,Stoddard,,17.729124,-64.7589156,42.3554334,-71.060511
+Dove,Havana,Boston,1803,Reynolds,,23.135305,-82.3589631,42.3554334,-71.060511
+Lucy,Demerara,Boston,1803,Lunt,rum; sugar; molasses,5.6294891,-58.3937764,42.3554334,-71.060511
+Thomas,Martinico,Boston,1803,Carnes,80000 clayed sugars; 18000 muscovado sugars; 14000 green coffe; 25 hhds. molasses; 525 Spanish hides,46.1244198,9.2770489,42.3554334,-71.060511
+Liberty,West-Indies,Boston,1803,Thomas,45 hhds. St. Vincents rum; 28 bbls. clayed sugars; 3 hhds. molasses,18.4,-75.0,42.3554334,-71.060511
+Little John,Martinico,Boston,1803,Baker,,46.1244198,9.2770489,42.3554334,-71.060511
+Betsey,West-Indies,Boston,1803,Lamot,32 hhds Grenada rum; 16 hhds. Grenada molasses,18.4,-75.0,42.3554334,-71.060511
+Amphion,London,Boston,1803,Rich,,51.5074456,-0.1277653,42.3554334,-71.060511
+Packet,Liverpool,Boston,1803,Trott,,53.4071991,-2.99168,42.3554334,-71.060511
+Columbine,Liverpool,Boston,1803,Bruce,,53.4071991,-2.99168,42.3554334,-71.060511
+Friendship,Gloucester,Boston,1803,Smith,,51.8653705,-2.2458192,42.3554334,-71.060511
+Gen. Knox,Portland,Boston,1803,McLellan,,43.6573605,-70.2586618,42.3554334,-71.060511
+Archer,Salem,Boston,1803,Buck,,42.5195292,-70.8967226,42.3554334,-71.060511
+Ranger,Boston,Liverpool,1803,Goodwin,,42.3554334,-71.060511,53.4071991,-2.99168
+Jane,Boston,West-Indies,1803,Docdendorff,,42.3554334,-71.060511,18.4,-75.0
+Pilgrim,Boston,Windsor,1803,Perry,,42.3554334,-71.060511,42.2858536,-82.9780695
+Sally,Boston,St. Johns,1803,Johnson,,42.3554334,-71.060511,56.6922843,-60.9373185
+Agenoria,Boston,St. Johns,1803,Crowell,,42.3554334,-71.060511,56.6922843,-60.9373185
+Sally,Boston,Yarmouth,1803,Brown,,42.3554334,-71.060511,52.6071742,1.7314845
+Foxwell,Rotterdam,Boston,1803,Barnard,140 Holland gin; a very large and extensive assortment of furs,51.9244424,4.47775,42.3554334,-71.060511
+Venus,Yarmouth,Boston,1803,Healy,fish,52.6071742,1.7314845,42.3554334,-71.060511
+Jane,Lisbon,Boston,1803,Lombard,250 hhds. coarse salt; 100 boxes lemons; 6 pipes Lisbon wine; 5 sacks shelled almonds; 50 doz. red Morocco skins,38.7077507,-9.1365919,42.3554334,-71.060511
+Hunter,Liverpool,Boston,1803,Page,,53.4071991,-2.99168,42.3554334,-71.060511
+Hannah,Yarmouth,Boston,1803,Burroughs,,52.6071742,1.7314845,42.3554334,-71.060511
+Orange,Windsor,Boston,1803,Hobs,plaister,42.2858536,-82.9780695,42.3554334,-71.060511
+Rover,Richmond,Boston,1803,,,37.5385087,-77.43428,42.3554334,-71.060511
+Parrot,Guadaloupe,Boston,1803,Eords,,26.9095819,-101.4333638,42.3554334,-71.060511
+Eliza,Liverpool,Boston,1803,Freeman,,53.4071991,-2.99168,42.3554334,-71.060511
+Maryann,Windsor,Boston,1803,Forsyth,,42.2858536,-82.9780695,42.3554334,-71.060511
+Polly,Portsmouth,Boston,1803,Fernald,,50.800031,-1.0906023,42.3554334,-71.060511
+Rover,Richmond,Boston,1803,Luce,,37.5385087,-77.43428,42.3554334,-71.060511
+Time and Chance,Boston,St. Johns,1803,Herault,,42.3554334,-71.060511,56.6922843,-60.9373185
+Concord,Boston,St. Johns,1803,Rea,,42.3554334,-71.060511,56.6922843,-60.9373185
+Sally,Boston,St. Johns,1803,Hiller,,42.3554334,-71.060511,56.6922843,-60.9373185
+Sea Flower,Boston,Amsterdam,1803,Glover,,42.3554334,-71.060511,52.3730796,4.8924534
+Phenix,Martinico,Boston,1803,Kingsbury,sugar,46.1244198,9.2770489,42.3554334,-71.060511
+Hope,Portsmouth,Boston,1803,Huntress,21 hhds. retailing sugars; 16 hhds. good flavored rum,50.800031,-1.0906023,42.3554334,-71.060511
+Charles,Salem,Boston,1803,Perkins,,42.5195292,-70.8967226,42.3554334,-71.060511
+Primus,Salem,Boston,1803,Aarcher,,42.5195292,-70.8967226,42.3554334,-71.060511
+Orange,Windsor,Boston,1803,Hobbs,,42.2858536,-82.9780695,42.3554334,-71.060511
+Venelia,London,Boston,1803,Glover,"200 casks refined salt petre; 32 hhds. whiting; 30 casks flints; 40 tons chalk; 50 calks patent shot; 200 boxes 6 by 8, 7 by 9 and 8 by 10 crown glass; 10 crates Liverpool ware; 8 hhds glass ware assorted; 9 crates blue and white cruits and salts; 6 crates wine glasses; 6 bales New Orleans cotton; 1 trunk mathematical instruments; a few casks 6d and 8d nails",51.5074456,-0.1277653,42.3554334,-71.060511
+Union,Windsor,Boston,1803,Crowell,plaister,42.2858536,-82.9780695,42.3554334,-71.060511
+Mary,Halifax,Boston,1803,Kelley,fish,44.648618,-63.5859487,42.3554334,-71.060511
+Jane,Bourdeaux,Boston,1803,Butler,,44.5867879,5.1342966,42.3554334,-71.060511
+Favorite,St. Croix,Boston,1803,Curtiss,rum; sugar,17.729124,-64.7589156,42.3554334,-71.060511
+Lucy,Halifax,Boston,1803,Floyd,,44.648618,-63.5859487,42.3554334,-71.060511
+Ranger,Plymouth,Boston,1803,Loring,,50.3714122,-4.1424451,42.3554334,-71.060511
+Ranger,Salem,Boston,1803,Byrne,,42.5195292,-70.8967226,42.3554334,-71.060511
+Eliza,Baltimore,Boston,1803,Allen,,39.2908816,-76.610759,42.3554334,-71.060511
+Polly,Plymouth,Boston,1803,Holbrook,,50.3714122,-4.1424451,42.3554334,-71.060511
+Sea Flower,New Bedford,Boston,1803,Taber,,41.6362152,-70.934205,42.3554334,-71.060511
+Eliza,New London,Boston,1803,Stoddard,,41.3556187,-72.0997804,42.3554334,-71.060511
+Sally,Salem,Boston,1803,Babbidge,,42.5195292,-70.8967226,42.3554334,-71.060511
+Thankful,New York,Boston,1803,Nickerson,,40.7127281,-74.0060152,42.3554334,-71.060511
+Nancy,New Haven,Boston,1803,Forbes,,41.3082138,-72.9250518,42.3554334,-71.060511
+Franklin,Boston,Rotterdam,1803,Bowles,,42.3554334,-71.060511,51.9244424,4.47775
+Vigrilant,Boston,Demerara,1803,Fernald,,42.3554334,-71.060511,5.6294891,-58.3937764
+Fortitude,Boston,Liverpool,1803,Lead,,42.3554334,-71.060511,53.4071991,-2.99168
+Mary-Ann,Boston,Windsor,1803,Forsyth,,42.3554334,-71.060511,42.2858536,-82.9780695
+Adventure,Boston,Halifax,1803,Butterworth,,42.3554334,-71.060511,44.648618,-63.5859487
+Eliza,Boston,Liverpool,1803,Freeman,,42.3554334,-71.060511,53.4071991,-2.99168
+L' Adele,Boston,Guadaloupe,1803,Ganachaud,,42.3554334,-71.060511,26.9095819,-101.4333638
+Fair American,Liverpool,Philadelphia,1803,Colhoun,,53.4071991,-2.99168,39.9527237,-75.1635262
+Eliza,Cape Francoise,Baltimore,1803,Farbos,,19.7595236,-72.2008068,39.2908816,-76.610759
+Columbus,Amsterdam,Charleston,1803,Cheeseborough,,52.3730796,4.8924534,32.7884363,-79.9399309
+Tyrone,Havana,Charleston,1803,Brooks,,23.135305,-82.3589631,32.7884363,-79.9399309
+Jemima and Fanny,London,Charleston,1803,Glad,,51.5074456,-0.1277653,32.7884363,-79.9399309
+Bellisarius,Greenock,Boston,1803,Tibbets,dry goods,55.9473423,-4.7564721,42.3554334,-71.060511
+Raven,Jamaica,Boston,1803,Ratcliss,rum,18.1850507,-77.3947693,42.3554334,-71.060511
+Callieto,Plymouth,Boston,1803,Atkins,,50.3714122,-4.1424451,42.3554334,-71.060511
+Galen,London,London,1803,,,51.5074456,-0.1277653,51.5074456,-0.1277653
+Minerva,London,London,1803,,,51.5074456,-0.1277653,51.5074456,-0.1277653
+Nereus,New York,Liverpool,1803,,,40.7127281,-74.0060152,53.4071991,-2.99168
+Polly,New Orleans,Liverpool,1803,,,29.9759983,-90.0782127,53.4071991,-2.99168
+Mary,Norfolk,Plymouth,1803,,,36.8493695,-76.2899539,50.3714122,-4.1424451
+Jeanie,New York,Greenock,1803,,,40.7127281,-74.0060152,55.9473423,-4.7564721
+Thetis,Boston,New London,1803,Harris,,42.3554334,-71.060511,41.3556187,-72.0997804
+Industry,Boston,New London,1803,Kenny,,42.3554334,-71.060511,41.3556187,-72.0997804
+Flora,Amsterdam,New York,1803,Lee,,52.3730796,4.8924534,40.7127281,-74.0060152
+Georgia Packet,Cadiz,New York,1803,Irving,,36.5297438,-6.2928976,40.7127281,-74.0060152
+South Carolina,Liverpool,Philadelphia,1803,Fisher,,53.4071991,-2.99168,39.9527237,-75.1635262
+Active,Boston,Philadelphia,1803,Lewis,,42.3554334,-71.060511,39.9527237,-75.1635262
+Sophia,Boston,Philadelphia,1803,,,42.3554334,-71.060511,39.9527237,-75.1635262
+Mary,Philadelphia,Trinadad,1803,Gordon,,39.9527237,-75.1635262,10.7466905,-61.0840075
+Harmony,Philadelphia,Boston,1803,Dockendorf,,39.9527237,-75.1635262,42.3554334,-71.060511
+Louisa,Philadelphia,West-Indies,1803,Larimer,,39.9527237,-75.1635262,18.4,-75.0
+Sally,Guadaloupe,Wilmington,1803,,,26.9095819,-101.4333638,39.7459468,-75.546589
+Falmouth,Wilmington,Boston,1803,Curtis,,39.7459468,-75.546589,42.3554334,-71.060511
+Union,Halifax,Charleston,1803,Freeman,,44.648618,-63.5859487,32.7884363,-79.9399309
+Joseph,Madeira,Charleston,1803,Woodward,,32.7517501,-16.9817487,32.7884363,-79.9399309
+Kitty,Cape Francoise,Charleston,1803,Allen,,19.7595236,-72.2008068,32.7884363,-79.9399309
+Orion,Liverpool,Boston,1803,Prior,450 hhds. fine salt; 50 crates Liverpool ware,53.4071991,-2.99168,42.3554334,-71.060511
+Diana,Liverpool,Boston,1803,Butcill,700 hhds. coarse and fine salt,53.4071991,-2.99168,42.3554334,-71.060511
+Galen,London,Boston,1803,Hinckley,"silk gloves; silk hose; straw hats & bonnets; buffoons; worsted & silk pelices, elegant muffs & tippets; fleecy focks & vests; silk and camel's hair shawls; an assortment of rich London jewelry, dress combs, topazes; dress & undress caps; velvet handkerchiefs; shag hats; a variety of other articles",51.5074456,-0.1277653,42.3554334,-71.060511
+Romeo,Alexandria,Boston,1803,Gorham,,31.1991806,29.8951716,42.3554334,-71.060511
+Two Brothers,New London,Boston,1803,Wilcox,,41.3556187,-72.0997804,42.3554334,-71.060511
+Hiram,Plymouth,Boston,1803,Weston,,50.3714122,-4.1424451,42.3554334,-71.060511
+Palmouth,Wilmington,Boston,1803,Curtis,,39.7459468,-75.546589,42.3554334,-71.060511
+Columbia,Philadelphia,Boston,1803,Thatcher,,39.9527237,-75.1635262,42.3554334,-71.060511
+Dolphin,Plymouth,Boston,1803,Cooper,,50.3714122,-4.1424451,42.3554334,-71.060511
+Hope,Boston,West-Indies,1803,,,42.3554334,-71.060511,18.4,-75.0
+Mary,Boston,West-Indies,1803,Glazier,,42.3554334,-71.060511,18.4,-75.0
+Betsey,Boston,Halifax,1803,Kelley,mackerel; herring; oil; merchantable fish,42.3554334,-71.060511,44.648618,-63.5859487
+Venus,Boston,Windsor,1803,F[…]aley,,42.3554334,-71.060511,42.2858536,-82.9780695
+Peggy and Sally,Boston,Windsor,1803,Wilkins,,42.3554334,-71.060511,42.2858536,-82.9780695
+Hannah,Boston,Yarmouth,1803,Burrows,,42.3554334,-71.060511,52.6071742,1.7314845
+Print,Boston,Lisbon,1803,Edwards,,42.3554334,-71.060511,38.7077507,-9.1365919
+Polly,Boston,New Orleans,1803,Appleton,,42.3554334,-71.060511,29.9759983,-90.0782127
+Ann,Boston,Rotterdam,1803,Lord,,42.3554334,-71.060511,51.9244424,4.47775
+Olivis,Liverpool,New York,1803,Dickson,,53.4071991,-2.99168,40.7127281,-74.0060152
+Anglesey,Havana,Wilmington,1803,Walsh,,23.135305,-82.3589631,39.7459468,-75.546589
+Independence,Liverpool,Baltimore,1803,M' Connell,,53.4071991,-2.99168,39.2908816,-76.610759
+Thomas Jefferson,St. Croix,Baltimore,1803,Van Beuren,,17.729124,-64.7589156,39.2908816,-76.610759
+Betsey,Lisbon,Baltimore,1803,Fitch,,38.7077507,-9.1365919,39.2908816,-76.610759
+Atlantic,Liverpool,Norfolk,1803,Howe,,53.4071991,-2.99168,36.8493695,-76.2899539
+Dark,Norfolk,Barbadoes,1803,Peck,,36.8493695,-76.2899539,13.1500331,-59.5250305
+Lydia,Norfolk,Bourdeaux,1803,Livingston,,36.8493695,-76.2899539,44.5867879,5.1342966
+George,Norfolk,West-Indies,1803,Brown,,36.8493695,-76.2899539,18.4,-75.0
+Rainbow,Havana,Charleston,1803,Chermstron,,23.135305,-82.3589631,32.7884363,-79.9399309
+Unanimlty,Havana,Charleston,1803,Tryon,,23.135305,-82.3589631,32.7884363,-79.9399309
+Nabby,St. Thomas,Savannah,1803,Byrne,,18.3429081,-64.9188997,32.0790074,-81.0921335
+Patty,Cadiz,Boston,1803,Coffin,149 quarter casks sherry wine; 100 jars grapes; 150 hhds. salt,36.5297438,-6.2928976,42.3554334,-71.060511
+Doreas,Martinico,Boston,1803,Eldridge,sugar; molasses,46.1244198,9.2770489,42.3554334,-71.060511
+Ruthy,Liverpool,Boston,1803,Westcot,,53.4071991,-2.99168,42.3554334,-71.060511
+Maryaun,Havana,Boston,1803,M' knights,,23.135305,-82.3589631,42.3554334,-71.060511
+Print,Boston,Lisbon,1803,Edwards,,42.3554334,-71.060511,38.7077507,-9.1365919
+America,Boston,Amsterdam,1803,Gardner,,42.3554334,-71.060511,52.3730796,4.8924534
+Ann,Boston,Rotterdam,1803,Lord,,42.3554334,-71.060511,51.9244424,4.47775
+Polly,Boston,New Orleans,1803,Appleton,,42.3554334,-71.060511,29.9759983,-90.0782127
+Betsey,Boston,Yarmouth,1803,Parry,,42.3554334,-71.060511,52.6071742,1.7314845
+Volut[…],St. Thomas,New York,1803,,,18.3429081,-64.9188997,40.7127281,-74.0060152
+Dove,St. Johns,New York,1803,,,56.6922843,-60.9373185,40.7127281,-74.0060152
+Recovery,Greenock,New York,1803,,,55.9473423,-4.7564721,40.7127281,-74.0060152
+Minerva,Bourdeaux,New York,1803,,,44.5867879,5.1342966,40.7127281,-74.0060152
+Bristol Packet,Liverpool,Philadelphia,1803,Phillips,,53.4071991,-2.99168,39.9527237,-75.1635262
+Rose,Liverpool,Philadelphia,1803,Hathaway,,53.4071991,-2.99168,39.9527237,-75.1635262
+Commerce,Amsterdam,Philadelphia,1803,Ray,,52.3730796,4.8924534,39.9527237,-75.1635262
+Betsey,Salem,Wilmington,1803,,,42.5195292,-70.8967226,39.7459468,-75.546589
+Gosport,London,Norfolk,1803,,,51.5074456,-0.1277653,36.8493695,-76.2899539
+Eagle,London,Norfolk,1803,,,51.5074456,-0.1277653,36.8493695,-76.2899539
+Catharine,St. Croix,Norfolk,1803,,,17.729124,-64.7589156,36.8493695,-76.2899539
+Three Friends,Jamaica,Norfolk,1803,,,18.1850507,-77.3947693,36.8493695,-76.2899539
+Ann and Francis,Norfolk,Lisbon,1803,,,36.8493695,-76.2899539,38.7077507,-9.1365919
+Milton,Norfolk,Barbadoes,1803,,,36.8493695,-76.2899539,13.1500331,-59.5250305
+Unity,Norfolk,West-Indies,1803,,,36.8493695,-76.2899539,18.4,-75.0
+Cleopatra,London,Charleston,1803,Davenport,,51.5074456,-0.1277653,32.7884363,-79.9399309
+Gen. Green,St. Thomas,Charleston,1803,Jones,,18.3429081,-64.9188997,32.7884363,-79.9399309
+Minerva,London,Boston,1803,Clement,dry goods,51.5074456,-0.1277653,42.3554334,-71.060511
+Rambler,Amsterdam,Boston,1803,Hills,gin,52.3730796,4.8924534,42.3554334,-71.060511
+Speedwell,Cadiz,Boston,1803,Nilege,wine; salt,36.5297438,-6.2928976,42.3554334,-71.060511
+Dolphin,Cadiz,Boston,1803,Tyler,salt wine,36.5297438,-6.2928976,42.3554334,-71.060511
+Experiment,Halifax,Boston,1803,Picket,120 barrels salmon; 50 bbls. mackerel,44.648618,-63.5859487,42.3554334,-71.060511
+Two Brothers,Yarmouth,Boston,1803,Clements,,52.6071742,1.7314845,42.3554334,-71.060511
+Sally,St. Johns,Boston,1803,White,plaister,56.6922843,-60.9373185,42.3554334,-71.060511
+Golden Age,Rotterdam,Boston,1803,Nye,"40 pipes gin, of a superior quality",51.9244424,4.47775,42.3554334,-71.060511
+Panther,New Bedford,Boston,1803,Howland,,41.6362152,-70.934205,42.3554334,-71.060511
+Hope,Philadelphia,Boston,1803,Lincoln,,39.9527237,-75.1635262,42.3554334,-71.060511
+Ranger,Philadelphia,Boston,1803,Lincoln,,39.9527237,-75.1635262,42.3554334,-71.060511
+Eliza Ann,New Haven,Boston,1803,Collis,,41.3082138,-72.9250518,42.3554334,-71.060511
+Funny,Portsmouth,Boston,1803,Drisco,,50.800031,-1.0906023,42.3554334,-71.060511
+John Adams,Boston,Liverpool,1803,Wood,,42.3554334,-71.060511,53.4071991,-2.99168
+Hannah,Boston,Demerara,1803,Pool,,42.3554334,-71.060511,5.6294891,-58.3937764
+Lucy,Boston,Halifax,1803,Floyd,,42.3554334,-71.060511,44.648618,-63.5859487
+Union,Boston,Halifax,1803,Crowell,,42.3554334,-71.060511,44.648618,-63.5859487
+Jane,Boston,Lisbon,1803,Lombard,,42.3554334,-71.060511,38.7077507,-9.1365919
+William,Boston,Madeira,1803,Doggett,,42.3554334,-71.060511,32.7517501,-16.9817487
+William,Boston,West-Indies,1803,Pillsbury,,42.3554334,-71.060511,18.4,-75.0
+Three Sisters,Boston,Demerara,1803,Worth,,42.3554334,-71.060511,5.6294891,-58.3937764
+Ranger,Boston,West-Indies,1803,Lombard,,42.3554334,-71.060511,18.4,-75.0
+Little John,Boston,West-Indies,1803,Baker,,42.3554334,-71.060511,18.4,-75.0
+Aligator,Bourdeaux,Salem,1803,Mansize,,44.5867879,5.1342966,42.5195292,-70.8967226
+Maryland,London,New York,1803,Wickham,,51.5074456,-0.1277653,40.7127281,-74.0060152
+Brandywine Miller,Greenock,New York,1803,Collins,,55.9473423,-4.7564721,40.7127281,-74.0060152
+Canton,Amsterdam,Philadelphia,1803,,,52.3730796,4.8924534,39.9527237,-75.1635262
+Saunders,Madeira,Philadelphia,1803,,,32.7517501,-16.9817487,39.9527237,-75.1635262
+Betsey,Jamaica,Newbern,1803,Cox,,18.1850507,-77.3947693,36.1801885,-75.863769
+Christian,Newbern,Barbadoes,1803,,,36.1801885,-75.863769,13.1500331,-59.5250305
+Widow's Son,Newbern,St. Thomas,1803,,,36.1801885,-75.863769,18.3429081,-64.9188997
+Mary,Yarmouth,Boston,1803,Perry,plaister,52.6071742,1.7314845,42.3554334,-71.060511
+Four Sisters,Tobago,Boston,1803,Whitmarsh,42 hhds excellent Tobago rum,11.2404615,-60.672006,42.3554334,-71.060511
+Mary-Jane,Demerara,Boston,1803,M' Cobb,15 hhds. excellent sugars; 30000 wt. best green coffee,5.6294891,-58.3937764,42.3554334,-71.060511
+Polly,Guadaloupe,Boston,1803,Clap,40 hhds. sugar; 80 hhds. molasses; coffee,26.9095819,-101.4333638,42.3554334,-71.060511
+Phenix,Martinico,Boston,1803,Snow,sugar; 110 hhds. molasses; 24 hhds. rum,46.1244198,9.2770489,42.3554334,-71.060511
+Haven,Boston,West-Indies,1803,Barker,,42.3554334,-71.060511,18.4,-75.0
+Sally,Boston,Yarmouth,1803,Magary,,42.3554334,-71.060511,52.6071742,1.7314845
+Priseilla,Boston,Tobago,1803,Willis,,42.3554334,-71.060511,11.2404615,-60.672006
+Increase,Boston,West-Indies,1803,Hall,,42.3554334,-71.060511,18.4,-75.0
+Olive,Tobago,New London,1803,Lester,,11.2404615,-60.672006,41.3556187,-72.0997804
+Prudence,London,Philadelphia,1803,Arundelt,,51.5074456,-0.1277653,39.9527237,-75.1635262
+Castor,Jamaica,Philadelphia,1803,,,18.1850507,-77.3947693,39.9527237,-75.1635262
+Thetis,St. Thomas,Philadelphia,1803,,,18.3429081,-64.9188997,39.9527237,-75.1635262
+Amity,St. Thomas,Philadelphia,1803,,,18.3429081,-64.9188997,39.9527237,-75.1635262
+Mary,St. Thomas,Philadelphia,1803,,,18.3429081,-64.9188997,39.9527237,-75.1635262
+Almira,Philadelphia,Boston,1803,Cook,,39.9527237,-75.1635262,42.3554334,-71.060511
+Cornelia,St. Thomas,Baltimore,1803,Nye,,18.3429081,-64.9188997,39.2908816,-76.610759
+Union,Boston,Richmond,1803,Huckins,,42.3554334,-71.060511,37.5385087,-77.43428
+Mary,Amsterdam,Charleston,1803,Hudson,,52.3730796,4.8924534,32.7884363,-79.9399309
+Mary,Greenock,Charleston,1803,Smith,,55.9473423,-4.7564721,32.7884363,-79.9399309
+Sarah,Greenock,Charleston,1803,Bowden,,55.9473423,-4.7564721,32.7884363,-79.9399309
+Birmingham Packet,London,Charleston,1803,Cockran,,51.5074456,-0.1277653,32.7884363,-79.9399309
+Three Sisters,Havana,Charleston,1803,Champlin,,23.135305,-82.3589631,32.7884363,-79.9399309
+Anna Margaret,St. Thomas,Charleston,1803,Jones,,18.3429081,-64.9188997,32.7884363,-79.9399309
+Mary Ann,Greenock,Charleston,1803,Ingals,,55.9473423,-4.7564721,32.7884363,-79.9399309
+Eliza,Charleston,Havana,1803,Taylor,,32.7884363,-79.9399309,23.135305,-82.3589631
+Washington,Liverpool,Boston,1803,Turner,,53.4071991,-2.99168,42.3554334,-71.060511
+Fame,Havana,Boston,1803,Avery,,23.135305,-82.3589631,42.3554334,-71.060511
+Concord,St. Johns,Boston,1803,Rae,"200 tons plaister paris, best quality; 24 kids fourd salmon; 2 bolos smoaked herrings",56.6922843,-60.9373185,42.3554334,-71.060511
+Mary,Halifax,Boston,1803,Selick,400 bbls. mackerel,44.648618,-63.5859487,42.3554334,-71.060511
+Fox,Lisbon,Boston,1803,Cook,700 hhds. salt; 150 qr. nasks Lisbon wine; 80 boxes lemons,38.7077507,-9.1365919,42.3554334,-71.060511
+Nancy,Richmond,Boston,1803,Lobdell,,37.5385087,-77.43428,42.3554334,-71.060511
+Sally,St. Thomas,Boston,1803,Tuttle,,18.3429081,-64.9188997,42.3554334,-71.060511
+Wm & Charles,St. Thomas,Boston,1803,Seul,4 hhds. rum; 4 hhds. sugar; 4 barrels sugar; 4400 lb. Trindard cocoa; 16 tons fustie; 24 tons lignumvitae,18.3429081,-64.9188997,42.3554334,-71.060511
+Nancy,Richmond,Boston,1803,Lobdell,,37.5385087,-77.43428,42.3554334,-71.060511
+Sally,Plymouth,Boston,1803,Robbins,,50.3714122,-4.1424451,42.3554334,-71.060511
+Ann and Betsey,Boston,St. Johns,1803,Ouinton,,42.3554334,-71.060511,56.6922843,-60.9373185
+Isabella,Boston,St. Johns,1803,Tarbett,,42.3554334,-71.060511,56.6922843,-60.9373185
+Mary-Ann,Boston,Havana,1803,Bacon,,42.3554334,-71.060511,23.135305,-82.3589631
+Success,Boston,St. Croix,1803,Goodwin,,42.3554334,-71.060511,17.729124,-64.7589156
+Two Brothers,Boston,Yarmouth,1803,Clements,,42.3554334,-71.060511,52.6071742,1.7314845
+Experiment,Boston,St. Johns,1803,Picket,,42.3554334,-71.060511,56.6922843,-60.9373185
+Mary,Liverpool,Portland,1803,Simonton,,53.4071991,-2.99168,43.6573605,-70.2586618
+Margaret,Trinadad,Portland,1803,M' Leffan,,10.7466905,-61.0840075,43.6573605,-70.2586618
+Port Roseway,Portland,Trinadad,1803,Glag,,43.6573605,-70.2586618,10.7466905,-61.0840075
+Nabby,Portland,Trinadad,1803,M' Leffan,,43.6573605,-70.2586618,10.7466905,-61.0840075
+Hero,St. Johns,Wilmington,1803,Husband,,56.6922843,-60.9373185,39.7459468,-75.546589
+Eagle,St. Thomas,Wilmington,1803,Miller,,18.3429081,-64.9188997,39.7459468,-75.546589
+A[…]mira,Portland,Norfolk,1803,Stone,,43.6573605,-70.2586618,36.8493695,-76.2899539
+Betsey,Salem,Norfolk,1803,Shillaber,,42.5195292,-70.8967226,36.8493695,-76.2899539
+Cisizen,Cape Francoise,Norfolk,1803,,,19.7595236,-72.2008068,36.8493695,-76.2899539
+Polly & Peggy,Norfolk,West-Indies,1803,Beal,,36.8493695,-76.2899539,18.4,-75.0
+William,Madeira,Philadelphia,1803,Harlow,,32.7517501,-16.9817487,39.9527237,-75.1635262
+Hannah,Salem,Philadelphia,1803,Phippen,,42.5195292,-70.8967226,39.9527237,-75.1635262
+Isabella,Boston,Philadelphia,1803,Lewis,,42.3554334,-71.060511,39.9527237,-75.1635262
+Friendship,Boston,Philadelphia,1803,Potter,,42.3554334,-71.060511,39.9527237,-75.1635262
+Ann Pennock,New Orleans,Philadelphia,1803,Poiuter,,29.9759983,-90.0782127,39.9527237,-75.1635262
+Nancy,Cape Francoise,Philadelphia,1803,Jeffries,,19.7595236,-72.2008068,39.9527237,-75.1635262
+Amazon,Cape Francoise,Philadelphia,1803,,,19.7595236,-72.2008068,39.9527237,-75.1635262
+Caroline,Guadaloupe,Baltimore,1803,,,26.9095819,-101.4333638,39.2908816,-76.610759
+Shepherdess,Boston,Baltimore,1803,,,42.3554334,-71.060511,39.2908816,-76.610759
+Two Brothers,Cape Francoise,Baltimore,1803,,,19.7595236,-72.2008068,39.2908816,-76.610759
+Minerva,Salem,Baltimore,1803,,,42.5195292,-70.8967226,39.2908816,-76.610759
+Union,Liverpool,Boston,1803,Farnham,crates; 200 hhds. Liverpool salt; 10 tons coals,53.4071991,-2.99168,42.3554334,-71.060511
+Nautilus,St. Croix,Boston,1803,French,rum; 8000 feet mahogany,17.729124,-64.7589156,42.3554334,-71.060511
+William,Liverpool,Boston,1803,Decker,salt; coal,53.4071991,-2.99168,42.3554334,-71.060511
+Three Friends,Liverpool,Boston,1803,Little,coals,53.4071991,-2.99168,42.3554334,-71.060511
+Mercury,Boston,Boston,1803,Beatley,40 crates crockery ware,42.3554334,-71.060511,42.3554334,-71.060511
+Sally Lois,Windsor,Boston,1803,Thomas,,42.2858536,-82.9780695,42.3554334,-71.060511
+Harmony,Philadelphia,Boston,1803,D[…]endorff,,39.9527237,-75.1635262,42.3554334,-71.060511
+Lucy,Gloucester,Boston,1803,Smally,,51.8653705,-2.2458192,42.3554334,-71.060511
+Fisher,Salem,Boston,1803,Deland,,42.5195292,-70.8967226,42.3554334,-71.060511
+Cyntbia,Gloucester,Boston,1803,Say[…],,51.8653705,-2.2458192,42.3554334,-71.060511
+Sally,Boston,St. Johns,1803,White,,42.3554334,-71.060511,56.6922843,-60.9373185
+G[…],Boston,Tobago,1803,Knap,,42.3554334,-71.060511,11.2404615,-60.672006
+Dean,Liverpool,Boston,1803,Dean of Pittsburg,fine blown Liverpool salt,53.4071991,-2.99168,42.3554334,-71.060511
+Aurorz,Cadiz,Boston,1803,Allen,,36.5297438,-6.2928976,42.3554334,-71.060511
+Two Pollies,Liverpool,Boston,1803,M' Laughlin,"1 bale low priced blue cloths; 2 bales flannels, all colours; 1 trunk 9-8 cambric muslins; 1 trunk 6-4 cambric amd tansbored muslins; 1 trunk 7-8 watered poplins; 1 trunk 9-8 embossed and watered poplins; 1 trunk rutland net gauze; 1 trunk black gauze",53.4071991,-2.99168,42.3554334,-71.060511
+Orange,Windsor,Boston,1803,Hobbs,,42.2858536,-82.9780695,42.3554334,-71.060511
+Union,Windsor,Boston,1803,Gould,,42.2858536,-82.9780695,42.3554334,-71.060511
+Amazon,Havana,Boston,1803,Barino,,23.135305,-82.3589631,42.3554334,-71.060511
+President,Barbadoes,Boston,1803,Lynch,,13.1500331,-59.5250305,42.3554334,-71.060511
+Mercury,Liverpool,Boston,1803,Crosby,"4 bales superfine dark, olive and corbean coatings; 3 bales superfine black, blue and mix broadcloths; 2 bales superfine cassimeres; 1 bale olive fearnoughts; 3 bales flannels and bazies; 2 bales low priced swansdovens; 1 bale rose blankets; 2 bales faved list blue cloths",53.4071991,-2.99168,42.3554334,-71.060511
+Sally,Rotterdam,Boston,1803,Bennet,gin; goods,51.9244424,4.47775,42.3554334,-71.060511
+Minerva,Guadaloupe,Boston,1803,Brown,90000 wt. Guadaloupe sugars; 4 hhds. molasses,26.9095819,-101.4333638,42.3554334,-71.060511
+Nancy,Windsor,Boston,1803,,plaister,42.2858536,-82.9780695,42.3554334,-71.060511
+Pilgrim,Windsor,Boston,1803,Perry,plaister,42.2858536,-82.9780695,42.3554334,-71.060511
+Venus,Windsor,Boston,1803,Healy,,42.2858536,-82.9780695,42.3554334,-71.060511
+Eliza,Windsor,Boston,1803,Barker,,42.2858536,-82.9780695,42.3554334,-71.060511
+Adventure,Halifax,Boston,1803,Ernst,,44.648618,-63.5859487,42.3554334,-71.060511
+Sally,Salem,Boston,1803,Burridge,,42.5195292,-70.8967226,42.3554334,-71.060511
+Sally,Salem,Boston,1803,Babbidge,,42.5195292,-70.8967226,42.3554334,-71.060511
+Galbraith,Boston,Jamaica,1803,Wilcox,,42.3554334,-71.060511,18.1850507,-77.3947693
+Industry,Boston,St. Johns,1803,Clements,,42.3554334,-71.060511,56.6922843,-60.9373185
+Edward,Liverpool,Boston,1803,Hatch,coarse Liverpool salt and coals,53.4071991,-2.99168,42.3554334,-71.060511
+Hibernia,St. Johns,Boston,1803,Stokes,fish,56.6922843,-60.9373185,42.3554334,-71.060511
+Camperdown,St. Johns,Boston,1803,Buntis,,56.6922843,-60.9373185,42.3554334,-71.060511
+Robbreus,Salem,Boston,1803,Lambert,sugar,42.5195292,-70.8967226,42.3554334,-71.060511
+Harmless,Richmond,Boston,1803,Stodde[…],,37.5385087,-77.43428,42.3554334,-71.060511
+Active,Philadelphia,Boston,1803,Lewis,,39.9527237,-75.1635262,42.3554334,-71.060511
+Industry,Salem,Boston,1803,Russell,,42.5195292,-70.8967226,42.3554334,-71.060511
+George and Harriot,Boston,Demerara,1803,Allen,,42.3554334,-71.060511,5.6294891,-58.3937764
+James,Boston,Rotterdam,1803,Hanscomb,,42.3554334,-71.060511,51.9244424,4.47775
+Orange,Boston,Windsor,1803,Hobbs,,42.3554334,-71.060511,42.2858536,-82.9780695
+Swan,Boston,Rotterdam,1803,Prior,,42.3554334,-71.060511,51.9244424,4.47775
+Ranger,Boston,Madeira,1803,Blackmes,,42.3554334,-71.060511,32.7517501,-16.9817487
+Pilgrim,Boston,Yarmouth,1803,Perry,,42.3554334,-71.060511,52.6071742,1.7314845
+Ethan Allen,St. Thomas,Baltimore,1803,Copeland,,18.3429081,-64.9188997,39.2908816,-76.610759
+Northern Liberties,Liverpool,Charleston,1803,,,53.4071991,-2.99168,32.7884363,-79.9399309
+Jemima and Fanny,Charleston,Rotterdam,1803,White,,32.7884363,-79.9399309,51.9244424,4.47775
+Betsey,Boston,Halifax,1803,Kelley,,42.3554334,-71.060511,44.648618,-63.5859487
+Three Sisters,Halifax,Philadelphia,1803,Koch,,44.648618,-63.5859487,39.9527237,-75.1635262
+Deborah,Halifax,Boston,1803,Baket,,44.648618,-63.5859487,42.3554334,-71.060511
+I. Lane,Barbadoes,Boston,1803,F[…]ery,,13.1500331,-59.5250305,42.3554334,-71.060511
+Polly,Boston,Boston,1803,Pearce,,42.3554334,-71.060511,42.3554334,-71.060511
+Mars,St. Johns,Boston,1803,Falie,,56.6922843,-60.9373185,42.3554334,-71.060511
+Neptune,Windsor,Boston,1803,Bergh,180 tons plaister,42.2858536,-82.9780695,42.3554334,-71.060511
+Lucy,Amsterdam,Boston,1803,Johnsen,,52.3730796,4.8924534,42.3554334,-71.060511
+Maria,Portland,Boston,1803,Smith,,43.6573605,-70.2586618,42.3554334,-71.060511
+Herman,New York,Boston,1803,Spaus[…]rng,,40.7127281,-74.0060152,42.3554334,-71.060511
+Venus,Baltimore,Boston,1803,Keen,,39.2908816,-76.610759,42.3554334,-71.060511
+Argo,Portland,Boston,1803,Morton,,43.6573605,-70.2586618,42.3554334,-71.060511
+Sarly,Salem,Boston,1803,Babbidge,,42.5195292,-70.8967226,42.3554334,-71.060511
+Huge Johnson,Boston,Rotterdam,1803,Weld,,42.3554334,-71.060511,51.9244424,4.47775
+Eskleth Judith,Boston,St. Croix,1803,Russell,,42.3554334,-71.060511,17.729124,-64.7589156
+Maryann,Boston,Havana,1803,M' Knig,,42.3554334,-71.060511,23.135305,-82.3589631
+New-Adventure,Boston,Demerara,1803,M' Ken[…],,42.3554334,-71.060511,5.6294891,-58.3937764
+Dove,Boston,West-Indies,1803,Eames,,42.3554334,-71.060511,18.4,-75.0
+Concord,Boston,St. Johns,1803,Rae,,42.3554334,-71.060511,56.6922843,-60.9373185
+Victory,Boston,Yarmouth,1803,Smith,,42.3554334,-71.060511,52.6071742,1.7314845
+Venus,Boston,Yarmouth,1803,Haley,,42.3554334,-71.060511,52.6071742,1.7314845
+Adventure,Boston,Yarmouth,1803,Frost,,42.3554334,-71.060511,52.6071742,1.7314845
+Union,Boston,Windsor,1803,Goold,,42.3554334,-71.060511,42.2858536,-82.9780695
+Lion,Boston,Jamaica,1803,Allen,,42.3554334,-71.060511,18.1850507,-77.3947693
+Nancy,Boston,Windsor,1803,Stegl,,42.3554334,-71.060511,42.2858536,-82.9780695
+Mary Ann,Boston,Windsor,1803,Forsyth,,42.3554334,-71.060511,42.2858536,-82.9780695
+Mercury,Boston,St. Johns,1803,Beatteay,,42.3554334,-71.060511,56.6922843,-60.9373185
+Eliza,Boston,Windsor,1803,Parker,,42.3554334,-71.060511,42.2858536,-82.9780695
+William,Portsmouth,Boston,1803,Merrell,,50.800031,-1.0906023,42.3554334,-71.060511
+Packet,Portland,Boston,1803,M' Leilan,,43.6573605,-70.2586618,42.3554334,-71.060511
+Packet,Boston,Liverpool,1803,Trott,,42.3554334,-71.060511,53.4071991,-2.99168
+Favorite,Boston,St. Croix,1803,Twycrosa,,42.3554334,-71.060511,17.729124,-64.7589156
+Mary,Boston,Halifax,1803,Sileg,,42.3554334,-71.060511,44.648618,-63.5859487
+Sally and Lois,Boston,Yarmouth,1803,Byrne,,42.3554334,-71.060511,52.6071742,1.7314845
+Hare,Lisbon,New York,1803,Toombs,,38.7077507,-9.1365919,40.7127281,-74.0060152
+Lion,Liverpool,New York,1803,Se[…]lock,,53.4071991,-2.99168,40.7127281,-74.0060152
+Bonaparte,Salem,Philadelphia,1803,,,42.5195292,-70.8967226,39.9527237,-75.1635262
+Lark,Jamaica,Philadelphia,1803,,,18.1850507,-77.3947693,39.9527237,-75.1635262
+Ino,St. Croix,Philadelphia,1803,Loath,,17.729124,-64.7589156,39.9527237,-75.1635262
+Phebe Ann,St. Thomas,Wilmington,1803,Baker,,18.3429081,-64.9188997,39.7459468,-75.546589
+Hannah,Salem,Charleston,1803,Skerry,,42.5195292,-70.8967226,32.7884363,-79.9399309
+Friend,Havana,Charleston,1803,,,23.135305,-82.3589631,32.7884363,-79.9399309
+John,Charleston,Rotterdam,1803,,,32.7884363,-79.9399309,51.9244424,4.47775
+Coruelia,Windsor,Boston,1803,Crane,,42.2858536,-82.9780695,42.3554334,-71.060511
+Neptune,Greenock,Boston,1803,Boyd,120 chaldron coals,55.9473423,-4.7564721,42.3554334,-71.060511
+Srork,Rotterdam,Boston,1803,Foster,,51.9244424,4.47775,42.3554334,-71.060511
+Mary Elenor,Windsor,Boston,1803,Cart,plaister,42.2858536,-82.9780695,42.3554334,-71.060511
+Diana,Liverpool,Boston,1803,Noble,"dry goods; salt; 1 cast cutlery, a little damaged",53.4071991,-2.99168,42.3554334,-71.060511
+Rebecca,Amsterdam,Boston,1803,Folansoe[…],gin; dry goods,52.3730796,4.8924534,42.3554334,-71.060511
+Jane,Philadelphia,Boston,1803,Cowell,,39.9527237,-75.1635262,42.3554334,-71.060511
+Packet,Boston,West-Indies,1803,Rich,,42.3554334,-71.060511,18.4,-75.0
+Deborah,Boston,Halifax,1803,Baker,,42.3554334,-71.060511,44.648618,-63.5859487
+Ship Carpenter,London,Norfolk,1803,,,51.5074456,-0.1277653,36.8493695,-76.2899539
+Monticello,London,Norfolk,1803,,,51.5074456,-0.1277653,36.8493695,-76.2899539
+Argo,Boston,Norfolk,1803,,,42.3554334,-71.060511,36.8493695,-76.2899539
+Eliza,Boston,Norfolk,1803,,,42.3554334,-71.060511,36.8493695,-76.2899539
+Relief,Norfolk,Boston,1803,,,36.8493695,-76.2899539,42.3554334,-71.060511
+Volarn,Liverpool,Charleston,1803,,,53.4071991,-2.99168,32.7884363,-79.9399309
+Maryann,Boston,Charleston,1803,,,42.3554334,-71.060511,32.7884363,-79.9399309
+Belleisle,Windsor,Boston,1803,Card,plaister of Paris,42.2858536,-82.9780695,42.3554334,-71.060511
+William,Portsmouth,Boston,1803,Stavers,,50.800031,-1.0906023,42.3554334,-71.060511
+Lydia,Salem,Boston,1803,Purbeck,,42.5195292,-70.8967226,42.3554334,-71.060511
+Minerva,Boston,London,1803,Clement,,42.3554334,-71.060511,51.5074456,-0.1277653
+Feris,Boston,St. Johns,1803,,,42.3554334,-71.060511,56.6922843,-60.9373185
+Camperdown,Boston,St. Johns,1803,Eurtis,,42.3554334,-71.060511,56.6922843,-60.9373185
+Ambition,Lisbon,New York,1803,,,38.7077507,-9.1365919,40.7127281,-74.0060152
+Sophrona,Bourdeaux,New York,1803,,,44.5867879,5.1342966,40.7127281,-74.0060152
+Chatham,Liverpool,New York,1803,,,53.4071991,-2.99168,40.7127281,-74.0060152
+Cotton Planter,Liverpool,New York,1803,,,53.4071991,-2.99168,40.7127281,-74.0060152
+Bourdeaux Packet,Bourdeaux,Philadelphia,1803,,,44.5867879,5.1342966,39.9527237,-75.1635262
+Dexter,Philadelphia,Boston,1803,Vinal,,39.9527237,-75.1635262,42.3554334,-71.060511
+Leander,Norfolk,Norfolk,1803,,,36.8493695,-76.2899539,36.8493695,-76.2899539
+Fair Rosamond,Norfolk,Boston,1803,,,36.8493695,-76.2899539,42.3554334,-71.060511
+Eleanor,Boston,Savannah,1803,,,42.3554334,-71.060511,32.0790074,-81.0921335
+Ranger,Boston,Liverpool,1803,,,42.3554334,-71.060511,53.4071991,-2.99168
+Recovery,Windsor,Boston,1803,Lewis,,42.2858536,-82.9780695,42.3554334,-71.060511
+Venus,Liverpool,Boston,1803,Oakman,a number of bale fresh woolens,53.4071991,-2.99168,42.3554334,-71.060511
+Rainbow,Windsor,Boston,1803,Dean,plaister,42.2858536,-82.9780695,42.3554334,-71.060511
+Hiram,St. Johns,Boston,1803,Ro[…]by,fish,56.6922843,-60.9373185,42.3554334,-71.060511
+Gen. Green,Charleston,Boston,1803,Jones,57 bales prime upland cotton,32.7884363,-79.9399309,42.3554334,-71.060511
+N. Forge,New York,Boston,1803,Pratt,,40.7127281,-74.0060152,42.3554334,-71.060511
+Betsey,Halifax,Boston,1803,Kelley,salmon; mackerel; oil,44.648618,-63.5859487,42.3554334,-71.060511
+Mahala,Windsor,Boston,1803,,,42.2858536,-82.9780695,42.3554334,-71.060511
+Margaret,Portland,Boston,1803,Dutch,,43.6573605,-70.2586618,42.3554334,-71.060511
+Leander,Portland,Boston,1803,Blanchard,,43.6573605,-70.2586618,42.3554334,-71.060511
+Anna,Portsmouth,Boston,1803,Trickey,,50.800031,-1.0906023,42.3554334,-71.060511
+Buck,Salem,Boston,1803,Archer,,42.5195292,-70.8967226,42.3554334,-71.060511
+Sally,Salem,Boston,1803,Babbiclge,,42.5195292,-70.8967226,42.3554334,-71.060511
+Volutia,New Haven,Boston,1803,Booth,,41.3082138,-72.9250518,42.3554334,-71.060511
+Westport,New Bedford,Boston,1803,Cary,,41.6362152,-70.934205,42.3554334,-71.060511
+Isabella,Wilmington,Boston,1803,Lewis,a few bbls. and half bbls. new superfine flour,39.7459468,-75.546589,42.3554334,-71.060511
+Eagle,Boston,Rotterdam,1803,Williams,,42.3554334,-71.060511,51.9244424,4.47775
+Sally,Boston,Tobago,1803,Peirce,,42.3554334,-71.060511,11.2404615,-60.672006
+Thomas,Boston,Jamaica,1803,Carnes,,42.3554334,-71.060511,18.1850507,-77.3947693
+Jenny,Halifax,New York,1803,,,44.648618,-63.5859487,40.7127281,-74.0060152
+John,Havana,New York,1803,,,23.135305,-82.3589631,40.7127281,-74.0060152
+Diana,Trinadad,New York,1803,,,10.7466905,-61.0840075,40.7127281,-74.0060152
+Welfare,Lisbon,New York,1803,,,38.7077507,-9.1365919,40.7127281,-74.0060152
+Martha,Martinico,Salem,1803,,,46.1244198,9.2770489,42.5195292,-70.8967226
+Maria,Liverpool,Boston,1803,Cole,salt; crates,53.4071991,-2.99168,42.3554334,-71.060511
+Whiteoak,Demerara,Boston,1803,Sigourney,sugar; coffee,5.6294891,-58.3937764,42.3554334,-71.060511
+Lucy,Havana,Boston,1803,Atkins,rum; molasses,23.135305,-82.3589631,42.3554334,-71.060511
+Peter,Trinadad,Boston,1803,Hunt,sugar; cocoa,10.7466905,-61.0840075,42.3554334,-71.060511
+Lydia,Rotterdam,Boston,1803,Chipman,gin,51.9244424,4.47775,42.3554334,-71.060511
+Zaraote,Havana,Boston,1803,Gan[…]ino,,23.135305,-82.3589631,42.3554334,-71.060511
+Sally,St. Johns,Boston,1803,Humbert,,56.6922843,-60.9373185,42.3554334,-71.060511
+Olive,Boston,West-Indies,1803,Storer,,42.3554334,-71.060511,18.4,-75.0
+Sally & Betsey,Boston,West-Indies,1803,Ingersoll,,42.3554334,-71.060511,18.4,-75.0
+Snake,Boston,St. Johns,1803,Cochran,,42.3554334,-71.060511,56.6922843,-60.9373185
+Brazil,Boston,Windsor,1803,Card,,42.3554334,-71.060511,42.2858536,-82.9780695
+Nancy,Trinadad,Salem,1803,,,10.7466905,-61.0840075,42.5195292,-70.8967226
+St. Patrick,Demerara,Salem,1803,,,5.6294891,-58.3937764,42.5195292,-70.8967226
+William Davis,Norfolk,Boston,1803,Bartlett,,36.8493695,-76.2899539,42.3554334,-71.060511
+Sally,Barbadoes,Newbern,1803,,,13.1500331,-59.5250305,36.1801885,-75.863769
+Neuse,Newbern,Jamaica,1803,,,36.1801885,-75.863769,18.1850507,-77.3947693
+Dove,New York,St. Johns,1803,,,40.7127281,-74.0060152,56.6922843,-60.9373185
+Phebe,New York,St. Johns,1803,,,40.7127281,-74.0060152,56.6922843,-60.9373185
+Bark,New York,St. Johns,1803,,,40.7127281,-74.0060152,56.6922843,-60.9373185
+Mary,New York,St. Johns,1803,,,40.7127281,-74.0060152,56.6922843,-60.9373185
+British Queen,Portland,St. Johns,1803,,,43.6573605,-70.2586618,56.6922843,-60.9373185
+Lydia & Polly,Guadaloupe,Boston,1803,Bacon,58 hhds. clayed sugars; 34 hhds. brown sugars; 20 hhds. molasses,26.9095819,-101.4333638,42.3554334,-71.060511
+Galen,Boston,London,1803,Hinckley,,42.3554334,-71.060511,51.5074456,-0.1277653
+Experiment,Boston,Havana,1803,Forbes,,42.3554334,-71.060511,23.135305,-82.3589631
+Plutus,Boston,Amsterdam,1803,Hammett,,42.3554334,-71.060511,52.3730796,4.8924534
+Charming Sally,Boston,West-Indies,1803,Adamson,,42.3554334,-71.060511,18.4,-75.0
+Amazon,Boston,Havana,1803,Bareno,,42.3554334,-71.060511,23.135305,-82.3589631
+Columbia,Cadiz,Gloucester,1803,Appleton,,36.5297438,-6.2928976,51.8653705,-2.2458192
+Nancies,Liverpool,New Bedford,1803,,,53.4071991,-2.99168,41.6362152,-70.934205
+Fame,Liverpool,New Bedford,1803,,,53.4071991,-2.99168,41.6362152,-70.934205
+Neptune,Havana,New York,1803,,,23.135305,-82.3589631,40.7127281,-74.0060152
+Little John,Demerara,New York,1803,,,5.6294891,-58.3937764,40.7127281,-74.0060152
+Thomas Russel,Havana,Philadelphia,1803,Barket,,23.135305,-82.3589631,39.9527237,-75.1635262
+Favorite,Amsterdam,Philadelphia,1803,,,52.3730796,4.8924534,39.9527237,-75.1635262
+Caroline,Liverpool,Philadelphia,1803,,,53.4071991,-2.99168,39.9527237,-75.1635262
+Charlotte,Trinadad,Baltimore,1803,,,10.7466905,-61.0840075,39.2908816,-76.610759
+Experiment,New Orleans,Baltimore,1803,,,29.9759983,-90.0782127,39.2908816,-76.610759
+Comet,Liverpool,Baltimore,1803,,,53.4071991,-2.99168,39.2908816,-76.610759
+Mary-Ann,Havana,Baltimore,1803,,,23.135305,-82.3589631,39.2908816,-76.610759
+Olive Branch,Trinadad,Charleston,1803,Pedrick,,10.7466905,-61.0840075,32.7884363,-79.9399309
+Dalt,St. Thomas,Charleston,1803,Williamson,,18.3429081,-64.9188997,32.7884363,-79.9399309
+Fortune,St. Thomas,Charleston,1803,,,18.3429081,-64.9188997,32.7884363,-79.9399309
+Dispatch,Boston,Savannah,1803,,,42.3554334,-71.060511,32.0790074,-81.0921335
+Maranda,New Haven,Savannah,1803,,,41.3082138,-72.9250518,32.0790074,-81.0921335
+Patty,New Haven,Savannah,1803,,,41.3082138,-72.9250518,32.0790074,-81.0921335
+Polly,West-Indies,Savannah,1803,Linger,,18.4,-75.0,32.0790074,-81.0921335
+Harriot,Portland,Boston,1803,Jones,,43.6573605,-70.2586618,42.3554334,-71.060511
+Polly,Salem,Boston,1803,Gardner,,42.5195292,-70.8967226,42.3554334,-71.060511
+William and Thomas,Boston,West-Indies,1803,Thomas,,42.3554334,-71.060511,18.4,-75.0
+Hibernia,Boston,St. Johns,1803,Stokes,,42.3554334,-71.060511,56.6922843,-60.9373185
+Boadicea,Boston,St. Johns,1803,Fitzgerald,,42.3554334,-71.060511,56.6922843,-60.9373185
+Betsey,Boston,Halifax,1803,Kulley,,42.3554334,-71.060511,44.648618,-63.5859487
+Two Brothers,Boston,Yarmouth,1803,Watson,,42.3554334,-71.060511,52.6071742,1.7314845
+Sally,Boston,St. Johns,1803,Thomas,,42.3554334,-71.060511,56.6922843,-60.9373185
+Rising Sun,Norfolk,Alexandria,1803,,,36.8493695,-76.2899539,31.1991806,29.8951716
+Cyrus,New Bedford,Alexandria,1803,,,41.6362152,-70.934205,31.1991806,29.8951716
+Alert,Boston,Alexandria,1803,,,42.3554334,-71.060511,31.1991806,29.8951716
+Friendship,Jamaica,Alexandria,1803,Soal,,18.1850507,-77.3947693,31.1991806,29.8951716
+Alert,Boston,Alexandria,1803,Snow,,42.3554334,-71.060511,31.1991806,29.8951716
+Catherine,Alexandria,Barbadoes,1803,Laurence,,31.1991806,29.8951716,13.1500331,-59.5250305
+Alert,Alexandria,Boston,1803,Smith,"700 bbls. superfine and fine flour, 100 half bbls. superfine suitable for family use",31.1991806,29.8951716,42.3554334,-71.060511
+Philip,Alexandria,Boston,1803,,,31.1991806,29.8951716,42.3554334,-71.060511
+Young Lyon,Alexandria,Jamaica,1803,Luckett,,31.1991806,29.8951716,18.1850507,-77.3947693
+Mary Caroline,Havana,Boston,1803,Norton,molasses,23.135305,-82.3589631,42.3554334,-71.060511
+Polly,Guadaloupe,Boston,1803,Goddard,"30000 wt. coffe, of an excellent quality; 3000 wt. cotton",26.9095819,-101.4333638,42.3554334,-71.060511
+Apollo,Portland,Boston,1803,Williams,600 hhds. coarse Liverpool salt,43.6573605,-70.2586618,42.3554334,-71.060511
+Evelina,Baltimore,Boston,1803,Chapman,,39.2908816,-76.610759,42.3554334,-71.060511
+Hope,Portsmouth,Boston,1803,Huntress,,50.800031,-1.0906023,42.3554334,-71.060511
+William,Portsmouth,Boston,1803,Davis,,50.800031,-1.0906023,42.3554334,-71.060511
+King Fisher,Salem,Boston,1803,Leach,,42.5195292,-70.8967226,42.3554334,-71.060511
+Primus,Salem,Boston,1803,Archer,,42.5195292,-70.8967226,42.3554334,-71.060511
+Buck,Salem,Boston,1803,Archer,,42.5195292,-70.8967226,42.3554334,-71.060511
+Polly,Gloucester,Boston,1803,Smith,,51.8653705,-2.2458192,42.3554334,-71.060511
+Swallow,Gloucester,Boston,1803,Millet,,51.8653705,-2.2458192,42.3554334,-71.060511
+Nautilus,Boston,St. Croix,1803,Derby,,42.3554334,-71.060511,17.729124,-64.7589156
+Maryann,Boston,West-Indies,1803,Taylor,,42.3554334,-71.060511,18.4,-75.0
+Deborah,Boston,West-Indies,1803,Allen,,42.3554334,-71.060511,18.4,-75.0
+Ritty,Boston,Liverpool,1803,Crook,,42.3554334,-71.060511,53.4071991,-2.99168
+Mercury,Boston,Trinadad,1803,Chamberlin,,42.3554334,-71.060511,10.7466905,-61.0840075
+Sally,Boston,St. Johns,1803,Helyer,,42.3554334,-71.060511,56.6922843,-60.9373185
+Orange,Boston,Yarmouth,1803,Hobbs,,42.3554334,-71.060511,52.6071742,1.7314845
+Eliza,Cadiz,Salem,1803,Bussinton,,36.5297438,-6.2928976,42.5195292,-70.8967226
+Columbia,Amsterdam,New Bedford,1803,Rodman,,52.3730796,4.8924534,41.6362152,-70.934205
+Fame,Liverpool,New York,1803,,,53.4071991,-2.99168,40.7127281,-74.0060152
+Brothers,Liverpool,New York,1803,,,53.4071991,-2.99168,40.7127281,-74.0060152
+Androscoggia,Trinadad,Boston,1803,Plarding,sugar,10.7466905,-61.0840075,42.3554334,-71.060511
+Bellisarius,Guadaloupe,Boston,1803,Rice,71 hhds. and 15 bbls. clayed sugar,26.9095819,-101.4333638,42.3554334,-71.060511
+William,Demerara,Boston,1803,Woodbury,46 hhds. good flavoured rum; 40 hhds. sugar; 10000 lbs. coffee; 20 hhds. molasses,5.6294891,-58.3937764,42.3554334,-71.060511
+Betsey,Tobago,Boston,1803,Downs,"63 puncheons Tobago rum, of an excellent quality; 6 hhds. molasses; 12 bags West India cotton; 1 second-hand anchor, of 900 wt.",11.2404615,-60.672006,42.3554334,-71.060511
+Eliza,Richmond,Boston,1803,Bangs,100 bbls. Richmond superfine flour; 50 chaldrons Virginia coals,37.5385087,-77.43428,42.3554334,-71.060511
+Lucy,Boston,West-Indies,1803,Johnson,,42.3554334,-71.060511,18.4,-75.0
+Mary and Eliza,Boston,Cadiz,1803,Coffin,,42.3554334,-71.060511,36.5297438,-6.2928976
+Recovery,Boston,Halifax,1803,Lewis,,42.3554334,-71.060511,44.648618,-63.5859487
+De Jersey,Boston,Boston,1803,Duval,cod fish,42.3554334,-71.060511,42.3554334,-71.060511
+Augusta,Boston,Boston,1803,,,42.3554334,-71.060511,42.3554334,-71.060511
+Marquis de Someruelos,Havana,Boston,1803,Dimond,sugars,23.135305,-82.3589631,42.3554334,-71.060511
+Minerva,Guadaloupe,Boston,1803,Anthony,sugars,26.9095819,-101.4333638,42.3554334,-71.060511
+Eliza,Demerara,Boston,1803,Harding,sugars,5.6294891,-58.3937764,42.3554334,-71.060511
+Henry,St. Croix,Boston,1803,Halen,,17.729124,-64.7589156,42.3554334,-71.060511
+Nabby,St. Thomas,Boston,1803,Sprague,,18.3429081,-64.9188997,42.3554334,-71.060511
+Dolphin,Demerara,Boston,1803,Truant,,5.6294891,-58.3937764,42.3554334,-71.060511
+Harlequin,New York,Boston,1803,Gale,,40.7127281,-74.0060152,42.3554334,-71.060511
+Philip,Alexandria,Boston,1803,Eveleth,,31.1991806,29.8951716,42.3554334,-71.060511
+Rachel,Philadelphia,Boston,1803,Davis,,39.9527237,-75.1635262,42.3554334,-71.060511
+Hazard,Baltimore,Boston,1803,Folger,,39.2908816,-76.610759,42.3554334,-71.060511
+Columbia,Alexandria,Boston,1803,Howland,40 barrels fine Alexandria flour; 40 barrels superfine Alexandria flour,31.1991806,29.8951716,42.3554334,-71.060511
+Eliza Ann,New Haven,Boston,1803,Collis,,41.3082138,-72.9250518,42.3554334,-71.060511
+Two Friends,Philadelphia,Boston,1803,Baffet,,39.9527237,-75.1635262,42.3554334,-71.060511
+Friendship,Gloucester,Boston,1803,Smith,,51.8653705,-2.2458192,42.3554334,-71.060511
+Shepherdess,Charleston,Boston,1803,Young,100 bales cotton; 22 hhds. tobacco; 20 bbls. tar; 804 sides best yellow soal leather,32.7884363,-79.9399309,42.3554334,-71.060511
+Friendship,Richmond,Boston,1803,Potter,,37.5385087,-77.43428,42.3554334,-71.060511
+Lively,New York,Boston,1803,Barns,,40.7127281,-74.0060152,42.3554334,-71.060511
+Lion,Boston,Havana,1803,Hollis,,42.3554334,-71.060511,23.135305,-82.3589631
+Rufus,Liverpool,Savannah,1803,Holland,,53.4071991,-2.99168,32.0790074,-81.0921335
+Abigail,Savannah,Jamaica,1803,Brummer,,32.0790074,-81.0921335,18.1850507,-77.3947693
+Tiger,London,Boston,1803,Bartlet,,51.5074456,-0.1277653,42.3554334,-71.060511
+Neptune,Greenock,Boston,1803,Fish,coals,55.9473423,-4.7564721,42.3554334,-71.060511
+Ranger,Lisbon,Boston,1803,Burrows,salt,38.7077507,-9.1365919,42.3554334,-71.060511
+Laura,Demerara,Boston,1803,Tresthen,38 hhds brown sugars; coffee; 24 puncheons rum,5.6294891,-58.3937764,42.3554334,-71.060511
+Clyde,Boston,St. Johns,1803,Shadden,,42.3554334,-71.060511,56.6922843,-60.9373185
+Unanimis,Boston,Demerara,1803,Bird,,42.3554334,-71.060511,5.6294891,-58.3937764
+Mary,Rotterdam,Boston,1803,Hoyt,,51.9244424,4.47775,42.3554334,-71.060511
+Frederlek,Martinico,Boston,1803,Appleton,,46.1244198,9.2770489,42.3554334,-71.060511
+Trial,Wilmington,Boston,1803,Newcomb,"15000 wt. Surrinam sugars, entitled to debenture; 10 bags cotton, entitled to debenture; 7 pipes Alicant brandy",39.7459468,-75.546589,42.3554334,-71.060511
+Friendship,Richmond,Boston,1803,Snow,fresh galligo and other superfine flour; half bbls fresh galligo and other superfine flour; 100 bushels coals; 5 kegs Tobacco,37.5385087,-77.43428,42.3554334,-71.060511
+Two Pollies,Boston,Liverpool,1803,M' Lanthlen,,42.3554334,-71.060511,53.4071991,-2.99168
+Fanny Bridger,Trinadad,New York,1803,,,10.7466905,-61.0840075,40.7127281,-74.0060152
+George,Trinadad,Gloucester,1803,Kinsman,,10.7466905,-61.0840075,51.8653705,-2.2458192
+Leander,Portland,Boston,1803,Blanchard,"25 chaldrons best Liverpool coal; 27 hhds. sugar, for exportation; 20 hhds. good retailing molasses; 50 bbls. superfine flour",43.6573605,-70.2586618,42.3554334,-71.060511
+Neptune,Boston,Demerara,1803,Boyd,,42.3554334,-71.060511,5.6294891,-58.3937764
+Favorite,Liverpool,New York,1803,,,53.4071991,-2.99168,40.7127281,-74.0060152
+Washington,Martinico,New York,1803,,,46.1244198,9.2770489,40.7127281,-74.0060152
+Mercury,St. Johns,New York,1803,,,56.6922843,-60.9373185,40.7127281,-74.0060152
+Experiment,Boston,New York,1803,,,42.3554334,-71.060511,40.7127281,-74.0060152
+Mary,St. Johns,New York,1803,,,56.6922843,-60.9373185,40.7127281,-74.0060152
+Polly,Demerara,New York,1803,,,5.6294891,-58.3937764,40.7127281,-74.0060152
+Pacific,Guadaloupe,Boston,1803,Nash,,26.9095819,-101.4333638,42.3554334,-71.060511
+Alfred,Trinadad,Boston,1803,Jones,,10.7466905,-61.0840075,42.3554334,-71.060511
+Fair Trader,St. Croix,Boston,1803,Doggett,,17.729124,-64.7589156,42.3554334,-71.060511
+Gorham,Guadaloupe,Boston,1803,Miller,,26.9095819,-101.4333638,42.3554334,-71.060511
+Betsey,Lisbon,Boston,1803,Bradford,,38.7077507,-9.1365919,42.3554334,-71.060511
+Columbia,Plymouth,Boston,1803,Lincoln,,50.3714122,-4.1424451,42.3554334,-71.060511
+Gennett,New York,Boston,1803,Lincoln,,40.7127281,-74.0060152,42.3554334,-71.060511
+Lydia,Salem,Boston,1803,Purbeck,,42.5195292,-70.8967226,42.3554334,-71.060511
+Dorris,Boston,West-Indies,1803,Eldridge,,42.3554334,-71.060511,18.4,-75.0
+Gen. Green,Boston,Trinadad,1803,Jones,,42.3554334,-71.060511,10.7466905,-61.0840075
+Urania,Liverpool,Gloucester,1803,Stone of Newburyport,,53.4071991,-2.99168,51.8653705,-2.2458192
+Urania,Liverpool,Boston,1803,Swain,coarse Liverpool salt & coals,53.4071991,-2.99168,42.3554334,-71.060511
+Adventure,Halifax,Boston,1803,Frost,,44.648618,-63.5859487,42.3554334,-71.060511
+Britannia,St. Johns,Boston,1803,Cowan,,56.6922843,-60.9373185,42.3554334,-71.060511
+Fame,Baltimore,Boston,1803,Sampson,,39.2908816,-76.610759,42.3554334,-71.060511
+Primus,Salem,Boston,1803,Archer,,42.5195292,-70.8967226,42.3554334,-71.060511
+Polly,Gloucester,Boston,1803,Smith,,51.8653705,-2.2458192,42.3554334,-71.060511
+Yarioo,Gloucester,Boston,1803,Tucker,,51.8653705,-2.2458192,42.3554334,-71.060511
+Fox,Boston,Amsterdam,1803,Cooke,,42.3554334,-71.060511,52.3730796,4.8924534
+Albion,Boston,Lisbon,1803,Dogget,,42.3554334,-71.060511,38.7077507,-9.1365919
+Two Betseys,Boston,West-Indies,1803,Trott,,42.3554334,-71.060511,18.4,-75.0
+Betsey,Boston,Amsterdam,1803,Small,,42.3554334,-71.060511,52.3730796,4.8924534
+Farmer,Boston,West-Indies,1803,Schott,,42.3554334,-71.060511,18.4,-75.0
+Aurora,Bourdeaux,Charleston,1803,,,44.5867879,5.1342966,32.7884363,-79.9399309
+Tippoo Saib,London,Charleston,1803,,,51.5074456,-0.1277653,32.7884363,-79.9399309
+Charleston,St. Thomas,Charleston,1803,,,18.3429081,-64.9188997,32.7884363,-79.9399309
+Norfolk,Charleston,Jamaica,1803,,,32.7884363,-79.9399309,18.1850507,-77.3947693
+Shepherdess,London,Norfolk,1803,,,51.5074456,-0.1277653,36.8493695,-76.2899539
+Richard,Liverpool,Norfolk,1803,,,53.4071991,-2.99168,36.8493695,-76.2899539
+Greyhound,New London,Norfolk,1803,,,41.3556187,-72.0997804,36.8493695,-76.2899539
+Julia,London,Norfolk,1803,,,51.5074456,-0.1277653,36.8493695,-76.2899539
+Aurora,Liverpool,Norfolk,1803,,,53.4071991,-2.99168,36.8493695,-76.2899539
+Ann,Greenock,Norfolk,1803,,,55.9473423,-4.7564721,36.8493695,-76.2899539
+Fame,Norfolk,Liverpool,1803,,,36.8493695,-76.2899539,53.4071991,-2.99168
+Jefferson,Norfolk,Jamaica,1803,,,36.8493695,-76.2899539,18.1850507,-77.3947693
+Georga,Norfolk,Barbadoes,1803,,,36.8493695,-76.2899539,13.1500331,-59.5250305
+Mars,Norfolk,West-Indies,1803,,,36.8493695,-76.2899539,18.4,-75.0
+Prosperity,Norfolk,West-Indies,1803,,,36.8493695,-76.2899539,18.4,-75.0
+Fortune,Norfolk,West-Indies,1803,,,36.8493695,-76.2899539,18.4,-75.0
+Jenny,Norfolk,Boston,1803,,,36.8493695,-76.2899539,42.3554334,-71.060511
+Neptune,St. Thomas,Alexandria,1803,,,18.3429081,-64.9188997,31.1991806,29.8951716
+Polly,Portland,Alexandria,1803,,,43.6573605,-70.2586618,31.1991806,29.8951716
+Barbadoes,Barbadoes,Alexandria,1803,,,13.1500331,-59.5250305,31.1991806,29.8951716
+Hannah,Alexandria,Boston,1803,,,31.1991806,29.8951716,42.3554334,-71.060511
+Bristol Packet,Boston,Savannah,1803,,,42.3554334,-71.060511,32.0790074,-81.0921335
+Atlantic,Trinadad,Savannah,1803,,,10.7466905,-61.0840075,32.0790074,-81.0921335
+Beaver,Greenock,Savannah,1803,,,55.9473423,-4.7564721,32.0790074,-81.0921335
+Salem,Amsterdam,Boston,1803,Nickerson,gin; dry goods,52.3730796,4.8924534,42.3554334,-71.060511
+Betsey,Martinico,Boston,1803,Price,sugar; coffee,46.1244198,9.2770489,42.3554334,-71.060511
+Hope,Liverpool,Boston,1803,Ripley,dry goods; salt,53.4071991,-2.99168,42.3554334,-71.060511
+Libra,Rotterdam,Boston,1803,Perkins,,51.9244424,4.47775,42.3554334,-71.060511
+Hope,Bourdeaux,Boston,1803,,,44.5867879,5.1342966,42.3554334,-71.060511
+Andromeda,Wilmington,Boston,1803,Rice,,39.7459468,-75.546589,42.3554334,-71.060511
+Sally,Salem,Boston,1803,Smith,,42.5195292,-70.8967226,42.3554334,-71.060511
+Harriot,Alexandria,Boston,1803,Foster,,31.1991806,29.8951716,42.3554334,-71.060511
+Joseph,Baltimore,Boston,1803,Atwood,,39.2908816,-76.610759,42.3554334,-71.060511
+Arogant,Boston,St. Johns,1803,Ketchuin,,42.3554334,-71.060511,56.6922843,-60.9373185
+Margaret,Boston,Halifax,1803,Wheeler,,42.3554334,-71.060511,44.648618,-63.5859487
+Warren,Rotterdam,Savannah,1803,,,51.9244424,4.47775,32.0790074,-81.0921335
+Julia,New Bedford,Savannah,1803,,,41.6362152,-70.934205,32.0790074,-81.0921335
+Antelope,Trinadad,Savannah,1803,,,10.7466905,-61.0840075,32.0790074,-81.0921335
+Citizen,Cape Francoise,Savannah,1803,,,19.7595236,-72.2008068,32.0790074,-81.0921335
+Federalist,Jamaica,Savannah,1803,,,18.1850507,-77.3947693,32.0790074,-81.0921335
+Fanny,St. Johns,Boston,1803,Welth,1700 qts. merchantable fish,56.6922843,-60.9373185,42.3554334,-71.060511
+Mary,Halifax,Boston,1803,,fish,44.648618,-63.5859487,42.3554334,-71.060511
+Jane,Liverpool,Boston,1803,Major,"a few chaldrons coal; 10 crates ware, assorted; bale goods",53.4071991,-2.99168,42.3554334,-71.060511
+Sally,St. Johns,Boston,1803,Thomas,,56.6922843,-60.9373185,42.3554334,-71.060511
+Industry,Salem,Boston,1803,Pussell,,42.5195292,-70.8967226,42.3554334,-71.060511
+Sally,Salem,Boston,1803,Babbidge,,42.5195292,-70.8967226,42.3554334,-71.060511
+Caroline,Boston,Bourdeaux,1803,Wimpenney,,42.3554334,-71.060511,44.5867879,5.1342966
+Banzarote,Boston,Havana,1803,Gandu[…]o,,42.3554334,-71.060511,23.135305,-82.3589631
+Providence,Boston,Windsor,1803,Mark,,42.3554334,-71.060511,42.2858536,-82.9780695
+Victory,Martinico,New York,1803,,,46.1244198,9.2770489,40.7127281,-74.0060152
+Harriot,Boston,New York,1803,,,42.3554334,-71.060511,40.7127281,-74.0060152
+Betsey and Polly,Boston,New York,1803,,,42.3554334,-71.060511,40.7127281,-74.0060152
+Jano,Boston,New York,1803,,,42.3554334,-71.060511,40.7127281,-74.0060152
+Ocean,Liverpool,New York,1803,,,53.4071991,-2.99168,40.7127281,-74.0060152
+Alert,Boston,Philadelphia,1803,,,42.3554334,-71.060511,39.9527237,-75.1635262

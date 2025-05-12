@@ -4,7 +4,7 @@ from geopy.geocoders import Nominatim
 from tqdm import tqdm
 
 # Load the original ship data
-df = pd.read_csv("New_England_Processed.csv")
+df = pd.read_csv("../New_England_Processed.csv")
 
 # Combine and get unique location names from both origin and destination
 original_locations = pd.Series(df['Origin'].tolist() + df['DestinationDecl'].tolist()).dropna().unique()
