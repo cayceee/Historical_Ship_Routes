@@ -58,6 +58,19 @@ def update_map(ship_name: str, ship_data: pd.DataFrame) -> go.Figure:
     fig = go.Figure()
 
     fig.add_trace(go.Scattergeo(
+    lon=[lons[0]],
+    lat=[lats[0]],
+    mode='markers',
+    marker=dict(
+        size=10,
+        color='green',
+        symbol='circle'
+    ),
+    name='Origin'
+))
+
+
+    fig.add_trace(go.Scattergeo(
         lon=lons,
         lat=lats,
         mode='lines+markers',
