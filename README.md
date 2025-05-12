@@ -13,17 +13,21 @@ Run the following lines into your system's command prompt:
 ```bash
 git clone https://github.com/cayceee/Historical_Ship_Routes.git
 ```
-2. Install uv if not already installed:
+2. Set as current Directory:
+```bash
+cd Historical_Ship_Routes
+```
+3. Install uv if not already installed:
 ```bash
 pip install uv
 ```
-3. Sync uv:
+4. Sync uv:
 ```bash
-uv sync
+python -m uv sync
 ```
-4. Run main.py:
+5. Run main.py:
 ```bash
-uv run main.py
+python -m uv run main.py
 ```
 ## Description
 - project detail 1
