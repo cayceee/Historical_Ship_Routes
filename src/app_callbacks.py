@@ -71,15 +71,6 @@ def update_map(ship_name: str, ship_data: pd.DataFrame) -> go.Figure:
 
 
     fig.add_trace(go.Scattergeo(
-        lon=lons,
-        lat=lats,
-        mode='lines+markers',
-        line=dict(width=2, color='blue'),
-        marker=dict(size=6, color='blue'),
-        name=f"{ship_row['Ship Name']} Route"
-    ))
-
-    fig.add_trace(go.Scattergeo(
         lon=[lons[-1]],
         lat=[lats[-1]],
         mode='markers',
@@ -90,6 +81,16 @@ def update_map(ship_name: str, ship_data: pd.DataFrame) -> go.Figure:
         ),
         name='Destination'
     ))
+
+    fig.add_trace(go.Scattergeo(
+        lon=lons,
+        lat=lats,
+        mode='lines+markers',
+        line=dict(width=2, color='blue'),
+        marker=dict(size=6, color='blue'),
+        name=f"{ship_row['Ship Name']} Route"
+    ))
+
 
     fig.update_layout(
         title=f"{ship_row['Ship Name']} Route: {ship_row['Origin']} → {ship_row['Declared Destination']}",
