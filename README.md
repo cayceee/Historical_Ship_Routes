@@ -3,6 +3,11 @@
 </div>
 
 ## Quick Start
+### Prerequisites
+
+- Python 3.12.x
+
+### Guide
 Run the following lines into your system's command prompt:
 1. Clone the Repository:
 ```bash
