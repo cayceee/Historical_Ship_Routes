@@ -34,7 +34,7 @@ python -m uv run main.py
 <img src="assets/DashUI.png" width = "500"/>
 </div>
 
-The "Historical Ship Route Finder" is designed to allow an easily accessibly, dynamic visualization to map out the routes of different ships as well as provide some information on them. Research has shown that ships traveling along these routes rarely deviated except when actively attempt to discover a new route, however, data is not included on the precise paths of these ships, only the origin and destination ports. The paths shown in the visualization follows the most common routes layed out by Adam Symington, from port to port, rather than an exhaustive list of recorded posistions along the way. Therefore, this visualization should be used for general insight into the paths these ships, along with some other information, as opposed to an exact representation. 
+The "Historical Ship Route Finder" is designed to allow an easily accessibly, dynamic visualization to map out the routes of different ships as well as provide some information on them. Research has shown that ships traveling along these routes rarely deviated except when actively attempt to discover a new route, however, data is not included on the precise paths of these ships, only the origin and destination ports. The paths shown in the visualization follows the most common routes layed out by Adam Symington, from port to port, rather than an exhaustive list of recorded posistions along the way. Therefore, this visualization should be used for general insight into the paths these ships take, along with some other information, as opposed to an exact representation. 
 
 ## Data
 
