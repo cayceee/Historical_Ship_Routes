@@ -25,9 +25,17 @@ pip install uv
 ```bash
 python -m uv sync
 ```
+OR
+```bash
+uv sync
+```
 5. Run main.py:
 ```bash
 python -m uv run main.py
+```
+OR
+```bash
+uv run main.py
 ```
 6. ctrl click on the link produced
 ## Description
