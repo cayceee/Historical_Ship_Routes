@@ -3,7 +3,7 @@ import time
 from geopy.geocoders import Nominatim
 from tqdm import tqdm
 
-# Load the original ship data
+# Load the original ship data (Replace with data to by searched)
 df = pd.read_csv("../New_England_Processed.csv")
 
 # Combine and get unique location names from both origin and destination
